@@ -1,0 +1,2035 @@
+﻿歌名	歌手	上榜数	最好名次	词作者	来源	状态
+慌啥子嘛	村口吴老二	9	1	困困羊	qq	ok
+烂奇迹(不小心惹了上帝)	杨羊烊	9	1	沈谕	qq	ok
+茉茉	Nzwin 黄跃成	9	2	Nzwin 黄跃成	netease	ok
+燃 (Live)	容祖儿	9	3	姜蔓	qq	ok
+无中生有 Ex Nihilo	HOYO-MiX、當山みれい (当山真玲)	8	1	温菁 Jing.W、Ruby Qu	qq	ok
+你的不经意	Fozik佛子克	8	2	Fozik佛子克	netease	ok
+趁早	张惠妹	8	12	十一郎	qq	ok
+雪化作泪滴	Cheeze、Lil Trazzy、雾明	8	17			missing
+时过境迁	苏艺馨Chency	7	1	苏艺馨Chency	qq	ok
+天龙八部之宿敌	许嵩	7	1	许嵩	qq	ok
+Cherry Candy	Lunak	7	1	Lunak	qq	ok
+Hong Kong (feat. 王菲季候风)	The Weeknd	7	1	Abel Tesfaye、杨立德、潘源良	qq	ok
+情人不甘恋人不愿	黑大姐	7	5	洛泉	qq	ok
+爱而不得 (Live)	薛之谦、黄子弘凡	7	9	苏帝安、张诗瑜SIU	qq	ok
+为证共此生	蓝鲸	7	9	蓝鲸	qq	ok
+DEPENDS	XG	7	9	Tayla Parx、Amanda "Kiddo A.I" Ibanez、FVBII	qq	ok
+风吹过	张玮	7	10	姜晓睿	netease	ok
+后会友期	许飞	7	11	许飞	qq	ok
+唯你真 (乡野版)	白九	7	17	花江云、枫琉	qq	ok
+松花	浮萍草、东北宣传队	7	22	浮萍草	qq	ok
+恋人	李荣浩	6	1	刘嘉星	netease	ok
+想你就写信	郝熠然	6	1	方文山	qq	ok
+Reno My Color	宋雨琦 (YUQI) (우기)	6	2			missing
+管他的公路尽头	王源	6	4	王源、陈君豪	qq	ok
+左转灯 (1000 Times +1)	派伟俊、mac ova seas	6	4	派伟俊、mac ova seas、吕尚霖LuuX	netease	ok
+云是天空写的信 (Live)	周深	6	5	林意梵	qq	ok
+牡丹亭	张远	6	6	周仁	qq	ok
+演员	薛之谦	6	6	薛之谦	qq	ok
+TAKE ME	G-DRAGON (权志龙)	6	7	G-DRAGON、Alexander Ridha、Dominic "Mocky" Salole	qq	ok
+情歌	梁静茹	6	9	陈没	qq	ok
+情话Butterflies	荣涉	6	10	贺子玲	qq	ok
+致年少的自己	马嘉祺	6	10	沃特艾文儿	qq	ok
+一万零一次沉溺	李佳薇	6	12	应晓璃	qq	ok
+两个人叫我们	悦开心、张家旺	6	13	徐重来	qq	ok
+愿与愁	林俊杰	6	13	小寒	qq	ok
+卦卦皆无你和我 (我算姻缘 问因果)	陶云疏	6	14	黑奔驰	qq	ok
+发如雪	周杰伦	5	1	方文山	qq	ok
+人间	许飞	5	1	余秀华	qq	ok
+我好像在哪见过你	薛之谦	5	1	薛之谦	qq	ok
+无明宙 (Live)	刘宇宁	5	1	月球漫步MW	qq	ok
+​雁南飞​	王齐铭WatchMe、热单间HEATROOM	5	2	王齐铭WatchMe	netease	ok
+窗外的泪光 (窗外照着我的月亮)	浅浅微醺	5	3	张子辰	qq	ok
+牡丹亭	浅影阿	5	4	周仁	qq	ok
+我听见了，你的痛苦成立	供销社乐队	5	5	边缘	netease	ok
+Dancing in the Dark	A2O SOUL、A2O	5	6	Will Gittens、KELLA、YOO YOUNG JIN	qq	ok
+冷夜	陈默之	5	7	林青谕	qq	ok
+牵丝戏	银临、Aki阿杰	5	7	Vagary	qq	ok
+我怀念的	孙燕姿	5	8	姚若龙	qq	ok
+雨爱	杨丞琳	5	9	Wonderful	qq	ok
+Always Online	林俊杰	5	9	林怡凤	qq	ok
+红色高跟鞋	蔡健雅	5	11	蔡健雅	qq	ok
+小城	任素汐	5	12	唐恬	qq	ok
+慢倍速	方了个木	5	13	方木	qq	ok
+牡丹亭 (白九版)	浮生生	5	13	周仁	qq	ok
+雨过后的风景	Dizzy Dizzo (蔡诗芸)	5	16	崔惟楷、甘世佳	qq	ok
+Letting Go	蔡健雅	5	16	蔡健雅	qq	ok
+幻听	许嵩	5	20	许嵩	qq	ok
+出现又离开 (Live)	梁博	5	21	梁博	qq	ok
+1% Battery Girl 低电量女孩	ChiliChill乐团、三Z-STUDIO、HOYO-MiX	5	22	ChiliChill乐团	qq	ok
+颜色	Gareth.T	5	25	Gareth.T	qq	ok
+何为姻缘	花小野	5	30			missing
+The Moment You Saw Me	米卡	5	33	Ann515	qq	ok
+哺乳动物 (Live)	张弛、蒋龙	5	37	雷穗荣	qq	ok
+最美的期待	周笔畅	5	47	赵辰龙	qq	ok
+最后一页	江语晨	5	53	宋健彰	qq	ok
+我记得	赵雷	5	63	赵雷	qq	ok
+周旋	王以太、艾热 AIR	4	1	王以太、艾热AIR	qq	ok
+Enjoy the trip	谢帝、艾志恒Asen	4	1	谢帝、艾志恒Asen	netease	ok
+爱情太美又太伤	王欣心	4	2	可泽	kugou	ok
+父亲写的散文诗	许飞	4	2	董玉方	qq	ok
+我不难过	孙燕姿	4	2	杨明学	qq	ok
+一夜寒风起 人间又一冬	草原兄弟	4	2	未子夫	qq	ok
+Call your name (DeepHouse)	诅咒之翼·Cursewing	4	2	诅咒之翼·Cursewing	netease	ok
+孟婆渡忘川	张曜泽	4	3	音萌萌	qq	ok
+说好一辈子	张云雷	4	3	王瑞淇	qq	ok
+特效药	江辰	4	3	江辰	qq	ok
+无 意	加木、Demxntia	4	3	加木、Minh Ta	netease	ok
+연애의 조건 (恋爱的条件)	BESTie (베스티)	4	4	용감한 형제	qq	ok
+不懂事	吴炳文	4	6	郭德紫毅、孙艾藜	netease	ok
+甲乙丙丁（你我怎么两清）	李佳薇	4	6	应晓璃	qq	ok
+人生一晃又一秋 (难解宿命版)	雪山阿木、7past	4	6	千渭、自游诗	qq	ok
+新·与天齐	指尖笑	4	6	玖零三壹	qq	ok
+99	TizzyT	4	7	TizzyT	qq	ok
+拜过菩萨问过签	张曜泽	4	7	音萌萌	kugou	ok
+茶汤	郁可唯	4	7	方文山	qq	ok
+游牧自信	BabyKush、Capper	4	7	BabyKush、Capper	qq	ok
+最重要的听众	法老、泠风	4	7	法老、泠风	netease	ok
+说好再见却再也不见 (催泪版)	迟嘉良、沈念禾	4	8	梅度	kugou	ok
+偏爱	张芸京	4	10	葛大为	qq	ok
+岸边客	夏子航（2603）	4	11	夏子航	qq	ok
+蔷薇青竹	张远、黄霄雲	4	12	唐恬	qq	ok
+玻璃	Gareth.T	4	13	Gareth.T	qq	ok
+遗憾总是贯穿人生始终	供销社乐队、边缘	4	13	边缘	netease	ok
+开始懂了	孙燕姿	4	14	姚若龙	qq	ok
+While We're Young	A2O SOUL、A2O	4	14	Paris Alexa、planet emi、YOO YOUNG JIN	qq	ok
+特别的人	方大同	4	15	方大同	qq	ok
+季候风	王菲	4	17	杨立德、潘源良	qq	ok
+老子我偏要挺直脊梁	石敢当	4	17	小严、小米	qq	ok
+淋一场雨	LBI利比（时柏尘）	4	17	唐思淼	qq	ok
+唯一	G.E.M.邓紫棋	4	18	潘云安	qq	ok
+痴情冢	苏晓酥	4	19	沈永峰	qq	ok
+你还是从前的你吗 (男版)	石满仓、石红豆	4	19	晗意	kugou	ok
+请不要一时兴起	陆景钧	4	20	呆踹	qq	ok
+也会有人代替你	供销社乐队	4	20	边缘	qq	ok
+兰亭序	周杰伦	4	21	方文山	qq	ok
+Stars Get Lonely	Lunak	4	21	Lunak	netease	ok
+Very First Love (初恋)	A2O SOUL、A2O	4	21	Kofi Amponsah、Tshisuaka 'Waka' Tshimanga、YOO YOUNG JIN	qq	ok
+烂奇迹 (原声男版)	季知炀	4	23	沈谕	netease	ok
+繁花	董真	4	24	董贞	qq	ok
+富士山下	陈奕迅	4	24	林夕	qq	ok
+Moonlight Shadow	A2O SOUL、A2O	4	24	YOO YOUNG JIN	qq	ok
+小半	陈粒	4	25	涂玲子	qq	ok
+江南	林俊杰	4	26	李瑞洵	qq	ok
+燃 (Live)	颜人中	4	26	姜蔓	qq	ok
+失眠	Suki刘舒妤	4	27	吴易纬	qq	ok
+我好想你 (苏打绿版)	苏打绿	4	28	吴青峰	qq	ok
+为你而来	萧泽x.z	4	29	苏晴	qq	ok
+素颜	许嵩、何曼婷	4	31	许嵩	qq	ok
+下完这场雨	后弦	4	32	后弦、李叔同	qq	ok
+多远都要在一起	G.E.M.邓紫棋	4	33	G.E.M.邓紫棋	qq	ok
+失控	井迪	4	34	夏飞	qq	ok
+如果当时	许嵩	4	38	许嵩	qq	ok
+万般苦 人生路	陶玄清	4	38	结城理	qq	ok
+无梦镇	魏晨	4	38	黄奕翔 Rexy	qq	ok
+那时雨	徐良	4	39	徐良	qq	ok
+阴天	莫文蔚	4	39	李宗盛	qq	ok
+坏女孩	徐良、小凌	4	40	徐良	qq	ok
+别急 慢慢来 (风吹花会开)	石敢当	4	41	小颜、小米	kugou	ok
+天若有情	A-Lin	4	42	纪茹璟	qq	ok
+最佳损友	陈奕迅	4	42	黄伟文	qq	ok
+刻在我心底的名字	卢广仲	4	44	许媛婷、佳旺、陈文华	qq	ok
+美人鱼	林俊杰	4	44	简胜、林秋离	qq	ok
+认真的雪	薛之谦	4	44	薛之谦	qq	ok
+Darling	D.O. (都暻秀)	4	44	김이나	qq	ok
+Angel	尹美莱 (윤미래)、Tiger JK、Bizzy (비지)	4	46	Tiger JK、윤미래、Bizzy	qq	ok
+其实	薛之谦	4	47	薛之谦	qq	ok
+卡农to me(最重要的是自己开心)	雾安Misty、撒安德萨	4	48	高三三	qq	ok
+海阔天空	BEYOND	4	52	黄家驹	qq	ok
+天外来物	薛之谦	4	52	薛之谦	qq	ok
+念念于你	伍嘉成	4	53	知秋、邝鉴萍	qq	ok
+我是真的爱上你	王杰	4	54	汤小康、刘杰胜	qq	ok
+Only One	Alex Band	4	55			missing
+孤独患者	陈奕迅	4	57	小寒	qq	ok
+夏夜最后的烟火	颜人中	4	57	陆菱纱	qq	ok
+不将就	李荣浩	4	64	李荣浩、黄伟文	qq	ok
+指纹	杜宣达	4	66	周剑光	netease	ok
+多余的解释	许嵩	4	71	许嵩	qq	ok
+会呼吸的痛	梁静茹	4	74	姚若龙	qq	ok
+如果乌鸦说情话	何小北	4	74	L	qq	ok
+你瞒我瞒	陈柏宇	4	79			missing
+如果可以	韦礼安	4	79	九把刀	qq	ok
+一样的月光	徐佳莹	4	85	徐佳莹	qq	ok
+可不可以	张紫豪	4	87	刘伟锋	qq	ok
+离开我的依赖	王艳薇	4	93	王艳薇	qq	ok
+舍得	王唯旖	4	94	仓雁彬	qq	ok
+遗失的心跳	萧亚轩	4	97	萧亚轩	qq	ok
+LEMONADE	aespa (에스파)、Becky G	3	1	Ellie Suh	qq	ok
+NEON	A2O LITE、A2O	3	1	Dem Jointz、YOO YOUNG JIN	qq	ok
+Undefined	PerVade、第五人格	3	1	大九_LN	netease	ok
+大梦归	周深	3	2	陈曦	qq	ok
+一张相片	连麻Swimming	3	2	连麻Swimming	netease	ok
+내 이름을 불러줘 (Call My Name)	TWS (투어스)	3	2			missing
+撒哈拉的暴雨	连麻Swimming	3	3	连麻Swimming	netease	ok
+二加一	小奥奥	3	4	Jvlin	netease	ok
+晴天	周杰伦	3	4	周杰伦	qq	ok
+春娇与志明	街道办GDC、欧阳耀莹	3	5	街道办GDC	qq	ok
+孤岛	吴姆斯	3	5	吴姆斯	netease	ok
+一场相逢一场梦	孙兰妮	3	5	张晓东	kugou	ok
+Real Recognize Real	TizzyT、HunGer	3	5	TizzyT、HunGer	qq	ok
+罗马议事会(THE FORUM OF ROME)	皇昶枢（MULA SAKEE）	3	6	皇昶枢	netease	ok
+男子汉 (热单间Live)	王齐铭WatchMe、热单间HEATROOM	3	6	王齐铭WatchMe	qq	ok
+我恨明月不照我	阿YueYue	3	6	周仁	netease	ok
+枫	周杰伦	3	7	弹头	qq	ok
+隔岸(女版)	可楼	3	7	姚六一	qq	ok
+渝人码头	梓渝	3	7	张鹏鹏	qq	ok
+翦玉令·燕辞归 Tune: "Sheared Jade" - Return of the Swallow	HOYO-MiX	3	8	项柳 Hsiang Liu	netease	ok
+降温	Zzh	3	8	emo王子、赋生	netease	ok
+Why & Be wild (何谓肆意)	杨冰怡	3	8	符酷	qq	ok
+琵琶曲	郑浩、冰洁	3	9	郑浩	qq	ok
+我能找到你	谢帝、万妮达Vinida Weng	3	9	谢帝、万妮达Vinida Weng	netease	ok
+After Hours	The Weeknd	3	9			missing
+Lily Grace	鸣潮先约电台、Aurora Sky、Lucien X	3	9	Oil Li	netease	ok
+无情画	王唯旖	3	10	王呈章	qq	ok
+在流水平静之前	CigarHan	3	10	CigarHan	netease	ok
+宝船	DOUDOU、燕云十六声	3	11	DOUDOU	netease	ok
+红笔	林时LAMZz、邓乐怡	3	11			missing
+夜曲	周杰伦	3	11	方文山	qq	ok
+自由的你	G.E.M.邓紫棋	3	12	G.E.M.邓紫棋	qq	ok
+秋风一吹又老一岁	洋澜一	3	15	花魁魁	qq	ok
+红尘客栈	周杰伦	3	16	方文山	qq	ok
+泪海	许茹芸	3	16	季忠平、许常德	qq	ok
+You're Under Arrest	ILLIT (아일릿)	3	19			missing
+曾经的你	许巍	3	20	许巍	kugou	ok
+Call your name (Gv)	澤野弘之 (さわの ひろゆき)、R!N/Gemie	3	20	mpi	qq	ok
+梦哑	任然、刘兆宇	3	21	池舟	kugou	ok
+天下有情人	半吨兄弟、文星淇	3	22			missing
+Kiss my soul	Viik潘唯奇	3	22	沈谕	netease	ok
+LOVE ME	The whitE、DrakSun	3	22	The whitE、DrakSun	netease	ok
+轻轻	肖战	3	23	唐恬	qq	ok
+天黑了	法老、泠风	3	23	法老、泠风	netease	ok
+比生日那天更拥挤	知鱼	3	25			missing
+青花瓷	周杰伦	3	25	方文山	qq	ok
+FIRESTARTER	K/DA、英雄联盟、i-dle (아이들)、Mimi Webb、Sophie Powers、曺薇娟、田小娟	3	25	Georgia Ku、James Norton、Aejin Kwon、Ashley Fulton	netease	ok
+碎碎念	队长	3	26	队长	qq	ok
+天亮了	法老、张尕怂	3	26	法老、张尕怂	netease	ok
+想放弃还爱的滋味	小阿禾	3	26	马筱卉	qq	ok
+DESERVE	BABYMONSTER (베이비몬스터)	3	27	CHOICE37、Jared Lee、Sonny、Ned Houston、YG	qq	ok
+Mr.Right	鹭卓	3	27	鹭卓	qq	ok
+秋风一吹又老一岁	周深深	3	28	花魁魁	qq	ok
+我们俩	郭顶	3	28	张莹	qq	ok
+星河转 (乡野版)	白九	3	28	王学桥	qq	ok
+遇见	孙燕姿	3	30	易家扬	qq	ok
+瞬	郑润泽	3	31	郑润泽	qq	ok
+后来	刘若英	3	32	施人诚	qq	ok
+晴雨	姜峰BedroomMusician	3	32			missing
+我怀疑大禹治水治没了我的薪水	小酌叔	3	33	悲伤朗姆	kugou	ok
+人生一场渡	一念禅音	3	34	一念禅音	kugou	ok
+时间会回答	七元	3	34	Yang.Lc	qq	ok
+回旋	张韶涵、虚环	3	35	安西千岁、杨小盆儿	kugou	ok
+如果累了就回故乡	万海东	3	35	卅卅	qq	ok
+With	RESCENE (리센느)	3	35	방혜현、이주헌、더풀킴、조인호	qq	ok
+望月	李建	3	37	于一一	qq	ok
+我护我	张碧晨	3	37	唐恬	qq	ok
+我听人说思念像风一样 (宿命版)	顿珠拉姆、自游诗	3	37	李思源、自游诗	qq	ok
+不分手的恋爱	汪苏泷	3	38	汪苏泷	qq	ok
+如愿	王菲	3	38	唐恬	qq	ok
+寻常岁月诗	柏松	3	38	尹初七	qq	ok
+Call your name (混音版)	7zA、Komi酱	3	39			missing
+기억을 걷는 시간	Nell (넬)	3	39	JW	qq	ok
+数年	队长、ODD陈思键	3	40	ODD、队长	qq	ok
+첫 눈 (初雪)	EXO (엑소)	3	41	Kenzie	qq	ok
+Insomnia	RIIZE (라이즈)	3	44	김이나	qq	ok
+男孩 (Live)	梁博、希林娜依高	3	46	梁博	kugou	ok
+让自己慢下来 (治愈版)	何金水	3	46	何金水	qq	ok
+有我呢	郭一凡	3	46	郭一凡	netease	ok
+平凡之路	朴树	3	47	韩寒、朴树	qq	ok
+上岸	巴扎黑	3	47	巴扎黑、周仁	kugou	ok
+心湖	张靓颖	3	47	徽敏瑶、薄彩生	qq	ok
+互删 (我走以后)	江辰	3	48	江辰	netease	ok
+十年	陈奕迅	3	48	林夕	qq	ok
+Side By Side	王铮亮	3	49	Craig J. Williams	qq	ok
+如果爱忘了 (Live)	汪苏泷、单依纯	3	50	唐恬、李志清	qq	ok
+虚拟	陈粒	3	56	陈粒	qq	ok
+成都	赵雷	3	58	赵雷	qq	ok
+黄昏	周传雄	3	58	陈信荣	qq	ok
+IF YOU	BIGBANG (빅뱅)	3	58	G-DRAGON	qq	ok
+如果爱我是一种负担	李毅恩Lye	3	59	王林	qq	ok
+故乡的炊烟	天津李四、李佳燃	3	60	天津李四	qq	ok
+第57次取消发送	菲菲公主（陆绮菲）	3	61	安苏羽	qq	ok
+喜月（Moonglow）	任素汐	3	61	董玉方	qq	ok
+心墙	郭静	3	61	姚若龙	qq	ok
+人生不必事事都强求	日落烟醺	3	63	疯狂的羊	kugou	ok
+隔着屏幕拥抱你	李智英	3	65	李智英	kugou	ok
+我不知道 (Live)	梁博	3	66	梁博	qq	ok
+天空之外	弦子	3	67	梅真	qq	ok
+恶作剧	王蓝茵	3	68	王蓝茵	qq	ok
+Baby	Justin Bieber、Ludacris	3	69			missing
+有些	颜人中	3	71	李天阳	qq	ok
+你不知道的事	王力宏	3	72	王力宏、瑞业	qq	ok
+爱我还是他	陶喆	3	73	陶喆、娃娃	qq	ok
+你就不要想起我	田馥甄	3	73	施人诚	qq	ok
+你要的全拿走	胡彦斌	3	75	胡彦斌	qq	ok
+珍惜对你例外的人	心煜	3	75	心煜	kugou	ok
+至少还有你	林忆莲	3	75	林夕	qq	ok
+La La Land (钢琴律动版)	耳朵温柔乡、DJ小财神	3	78			missing
+启示录	陈旭	3	79	陈旭	qq	ok
+我们的歌	王力宏	3	79	王力宏、陈信延	qq	ok
+time machine (feat. aren park)	mj apanay、aren park	3	79	Michelangelo Apanay	netease	ok
+盛夏的果实	莫文蔚	3	80	李焯雄	qq	ok
+我听人说思念像风一样	天灰灰	3	81	李思源	qq	ok
+勇气	梁静茹	3	81	瑞业	qq	ok
+红豆	王菲	3	83	林夕	qq	ok
+爱情讯息	郭静	3	84	陈宥毓	qq	ok
+jauh ko pergi	L艾拉	3	84			missing
+麦恩莉	方大同	3	85	C君	qq	ok
+果宝特攻交响曲	陈洁丽、王巍	3	86		kugou	instrumental
+不潮不用花钱	林俊杰	3	87	林怡凤	qq	ok
+我知道	BY2	3	90	于萱	qq	ok
+倒数	G.E.M.邓紫棋	3	93	G.E.M.邓紫棋	qq	ok
+归途	噗尼阿木	3	94	麦浪 blues	qq	ok
+Lovesick	彩领 (CHAERYEONG)	3	96	Choi Siyu、Wang Seyoon	qq	ok
+十七十八花正发	猴哥、小十三	3	99			missing
+下一个天亮	郭静	3	100	姚若龙	qq	ok
+同花顺	林倛玉	3	109	小寒	qq	ok
+可惜没如果	林俊杰	3	111	林夕	qq	ok
+太聪明	陈绮贞	3	112	陈绮贞	qq	ok
+过渡期	小宇-宋念宇	3	122	曹宇棠	qq	ok
+你不要那样看着我的眼睛	蔡琴	3	134	陈桂珠	qq	ok
+淘汰	陈奕迅	3	136	周杰伦	qq	ok
+在你的身边	盛哲	3	137	盛哲	qq	ok
+猜不透	丁当	3	139	黄婷	qq	ok
+带我走	杨丞琳	3	159	吴青峰	qq	ok
+呆头鸟	礼越	2	1	今燃	qq	ok
+一篇往事	马頔	2	1	马頔	netease	ok
+Keep Real	白敬亭、Melo、邓典果DDG	2	1	白敬亭、Melo墨龙、邓典果DDG	qq	ok
+Take Me To Your Heart	Michael Learns To Rock	2	1	Jascha Richter、Johan Bejerholm、殷文琦	kugou	ok
+琵琶曲	郑浩Z-Hao、冰洁	2	2	郑浩Z-Hao	netease	ok
+去远方	滄浪天蝎	2	2			missing
+人生路漫漫	白小白	2	2	徐重来	kugou	ok
+异乡的夜	AI辅助生成 欣晚柠	2	2			missing
+月声尽，心灯明	鸣潮先约电台、jixwang、Cassie Wei	2	2	冉语优	netease	ok
+折月亮	刘宇宁	2	2	四季逗、潘超	qq	ok
+Fever Pitch	Richz	2	2	Richz	kugou	ok
+诀别书	邓垚	2	3		netease	instrumental
+浪人情歌	伍佰 & China Blue	2	3	伍佰	kugou	ok
+你来自哪颗星	陈柏宇	2	3	林若宁	qq	ok
+唯有追赶风的方向	知更鸟、HOYO-MiX、Chevy	2	3	黑金雨、windflowerLia	netease	ok
+FALA SÉRIO	GOLD999、Vico8	2	3	Yi Ming	qq	ok
+Who want a beef (谁想试试)(Live)	辉子	2	3	辉子、秃子2z	qq	ok
+不死鸟	霍尊	2	4	甘世佳、霍尊	kugou	ok
+彩虹下面	赵雷	2	4	赵雷	netease	ok
+老娘我绝不低头	凌奈	2	4	林子祺Liam7	kugou	ok
+挪威的森林	伍佰 & China Blue	2	4	伍佰	kugou	ok
+奇形怪状的云	夏日入侵企画	2	4	灰鸿啊、刘恋	netease	ok
+山歌追上云朵	云朵	2	4	董慧	kugou	ok
+我的歌声里 (remix：T.back)	邱霖BigL	2	4			missing
+无线网的密码是多少?	Capper、胡先煦	2	4			missing
+知我	国风堂、哦漏	2	4	沈栀	netease	ok
+Splendid Radiance	Jasr、油壶、Mking	2	4	Mking	netease	ok
+我本将心向明月	王朝1982、朱旭BooBoo	2	5	王朝1982、《琵琶记》元代.高明	netease	ok
+小跳蛙	青蛙乐队	2	5	彭钧、李润	qq	ok
+山那头 (风刮着原上柳)	杨小东	2	6	杨小东	kugou	ok
+智商税	PearBae小梨、Capper	2	6	Pearbae小梨、Capper	netease	ok
+Una Mattina Slap House	SMYE	2	6	SMYE	netease	ok
+We Don't Talk Anymore (Mr. Collipark Remix)	Charlie Puth、Selena Gomez	2	6	Jacob Kasher、Charlie Puth、Hindlin、Selena Gomez	kugou	ok
+荒	平生不晚	2	7	赵大白、堇临、张子薇	qq	ok
+Тонкий снег	塞壬唱片-MSR、Chengcheng Tang	2	7	Arina Bagaryakova	netease	ok
+红尘误此生	宋晓峰	2	8	张晓东	qq	ok
+零距离的思念	TINY7	2	8	TINY7	netease	ok
+Crazy Love	王以太、艾热AIR	2	8	王以太、艾热AIR	qq	ok
+一程山路	毛不易	2	9	毛不易	netease	ok
+Missing My Lover	Vex、SHaDow（影）、MerrinZephyr	2	9	Vex	netease	ok
+Star Crossing Night (feat. GALI)	徐明浩、GALI	2	9	徐明浩、LEE JEONG JAE、GALI	netease	ok
+5th（今天是太阳雨）	MAX VP	2	10			missing
+飞向你 (Fly to You)	银河快递	2	10			missing
+与你到永久	伍佰 & China Blue	2	10	伍佰	kugou	ok
+怎么看你一眼就心动 (深情版)	徐凤华	2	10	陈佑飞	kugou	ok
+回家	谢帝	2	11	谢帝	netease	ok
+情呀爱呀	礼越	2	11	猫卷卷儿	qq	ok
+Behind My Eyes	Lunak	2	11	Lunak	netease	ok
+才二十三	方大同	2	12	方大同	netease	ok
+你怎么舍得让我的泪流向海	景小多	2	12			missing
+山脉里	CigarHan	2	12	CigarHan	netease	ok
+深情的人容易孤独 (伤感版)	兰曜灿	2	12	雨霖枫	kugou	ok
+像风一样自由	许巍	2	12	许巍	kugou	ok
+Talk like me (像我这样说)(Live)	弹壳	2	12	弹壳	qq	ok
+爱错	王力宏	2	13	王力宏、崔惟楷	qq	ok
+庙堂之外	陈楚生	2	13	唐恬	qq	ok
+如果累了就回故乡 (少年版)	酷酷里、面妹孔佳奇	2	13	卅卅	qq	ok
+Bananas	LNGSHOT	2	13			missing
+Gasolina (Slap House)	诅咒之翼·Cursewing	2	13	诅咒之翼·Cursewing	netease	ok
+红昭愿	音阙诗听	2	14	荒唐客	qq	ok
+死神在揣着玫瑰	金金金金金	2	14	金金金金金	netease	ok
+盗将行	花粥	2	15	姬霄	kugou	ok
+今夜让我带你高飞远走	五月天 阿信、言承旭、吴建豪、周渝民、刘宇宁	2	15	五月天阿信、萧秉治、黄婷	qq	ok
+理解万岁	谢帝、王以太	2	15	谢帝、王以太	netease	ok
+水为媒	黄龄	2	15	Zonejay	qq	ok
+Violet	郑润泽	2	15	郑润泽	netease	ok
+何处山海万象生	铁痕电台-MSR、8:48、あよ	2	16	阿澜	netease	ok
+我怀疑大禹治水（治没了我的薪水）	王三一	2	16			missing
+用心爱你却留不住你 (深情版)	林汝琴	2	16	陈佑飞	kugou	ok
+主角	王菲	2	16	赖婷	qq	ok
+旗帜上的中国	青士	2	17	青士	qq	ok
+双	连麻Swimming	2	17	连麻Swimming	netease	ok
+下一站 Beyond This Station	小林未郁 (こばやし みか)、HOYO-MiX	2	17	Ruby Qu、黑金雨	netease	ok
+Guts	LAUV	2	17			missing
+拼了命也没留住你	刘书云、赵赵呀	2	18	宋友诚	kugou	ok
+水为媒	礼越	2	18	ZoneJay	qq	ok
+春泥	庾澄庆	2	19	伊能静	qq	ok
+关键词	林俊杰	2	19	林怡凤	qq	ok
+星星	Hidoyard	2	19	Hidoyard	netease	ok
+一半一半	Top Barry、INDEcompany	2	19	Top Barry	qq	ok
+月亮桥	周深	2	19	三本目	qq	ok
+霸王别姬	薛之谦、张靓颖	2	20	薛之谦	qq	ok
+手掌 (Live)	盛宇D-SHINE、加木	2	20	盛宇D-SHINE、加木	qq	ok
+Call You Tonight Beat	VOLT、Distress	2	20		netease	instrumental
+不谓侠 (向江南折过花)	于春洋	2	21	迟意	kugou	ok
+秋思太深	励志豪	2	21	春培	kugou	ok
+斩鸭线	连麻Swimming	2	21	连麻Swimming	netease	ok
+You Are All I Need	FLY COAST、二宮愛 (にのみや あい)	2	21	STEVEN MOHSENI、二宮 愛	qq	ok
+不再犹豫	BEYOND	2	22	梁美薇	kugou	ok
+托明月捎个话 (催泪版)	梅度	2	22	梅度	kugou	ok
+无尽冬	周深	2	22	赵素冰	kugou	ok
+FUNK MANDALA	dj Samir、Zericxxn、Nulteex	2	22		qq-search	instrumental
+不知道说什么	张靓颖	2	23			missing
+那天雨下很大	魏哲鸣	2	23	不落星	qq	ok
+我不愿让你一个人	五月天	2	23	阿信	kugou	ok
+烟花易冷	周杰伦	2	23	方文山	qq	ok
+可能再见就是下辈子	山月微醺	2	24	辰亦然	kugou	ok
+千禧客Y2K	Max李玄、Mikey-18	2	24	Max李玄、Mikey-18	netease	ok
+茉莉	说唱先锋Official	2	25	说唱先锋Official	qq	ok
+若你看见花开	杨小壮	2	25	杨小壮	qq	ok
+多事之秋 (热单间Live)	王齐铭WatchMe、热单间HEATROOM	2	26	王齐铭WatchMe	qq	ok
+是清风会来	金多	2	26	今汐	kugou	ok
+メモリ (feat. 初音ミク)	東京真中、初音ミク	2	26			missing
+1993 (Live)	辉子、KKECHO	2	27	辉子、KKECHO陈欣瑶	qq	ok
+秋天不回来	王强	2	27	王强	qq	ok
+一曲微茫	郁可唯	2	27	陈曦	qq	ok
+TWINSKii	BABYKUSH、李佳隆	2	27	BABYKUSH、李佳隆	netease	ok
+Montagem Nada(斩断过去的利刃)	Sin Wecokat、Yilu7i	2	28		netease	instrumental
+我对缘分小心翼翼	林俊杰	2	29	方文山 Vincent Fang	qq	ok
+七宗罪·色欲	所长sama	2	30	所长sama	netease	ok
+Alive	Blue	2	30	Mikkel S. Eriksen、Rustan、Hermansen、Costa、James、Ryan、Webbe	netease	ok
+COUNT THESE DEADZZZ	皇昶枢（MULA SAKEE）	2	30	皇昶枢	netease	ok
+我还是那个我 (抒情版)	夏知柠	2	31	雨霖枫	kugou	ok
+Light the night	小恐龙	2	31	小恐龙	netease	ok
+光辉岁月	BEYOND	2	32	黄家驹	kugou	ok
+牵挂	曾沛慈	2	32	葛大为、徐佳莹	qq	ok
+三生三世	张杰	2	32	代岳东、谭旋	qq	ok
+忘不了就别忘了	水木年华、许飞	2	33	诺布朗杰	qq	ok
+我的背包 (Live)	Rapeter	2	33	Rapeter吴嘉轩	qq	ok
+阿妹的情歌 (唱给草原)	小钢刀作品	2	34	小钢刀	kugou	ok
+与天齐	倪浩毅	2	34	玖零三壹	qq	ok
+你有没有真的爱过我	阿图表妹、寂寞阿图	2	35	廖伟志	kugou	ok
+燕无歇	蒋雪儿Snow.J	2	35	堇临、刘涛	kugou	ok
+Moonride	Hearts2Hearts	2	35	Ondine	qq	ok
+春泥	余超颖	2	36	伊能静	qq	ok
+借名入局	刘宇宁	2	36	张胤哲	qq	ok
+Chaikovsky(胜负已分)	ntil	2	36		netease	instrumental
+FANTASTIC BABY	BIGBANG (빅뱅)	2	36	G-DRAGON、T.O.P、TEDDY	qq	ok
+真的爱你	BEYOND	2	37	梁美薇	kugou	ok
+self doubt (自我怀疑)	Venoflame	2	37	Venoflame	netease	ok
+比翼鸟	礼越	2	40	笛戈	netease	ok
+谁明浪子心	王杰	2	40	潘源良	qq	ok
+月亮替我望故乡	烟嗓船长	2	40	任夏	qq	ok
+那我做一棵树	马雨阳	2	41	马雨阳	netease	ok
+时光	许巍	2	41	许巍	kugou	ok
+Billy Mode	三Z-STUDIO、HOYO-MiX	2	41	Relaye	netease	ok
+OUTTA WAY（让开）	TOXICE	2	41		netease	instrumental
+听夜雨	礼越	2	42	ZoneJay	qq	ok
+转身离开 (没有告白)	禾季	2	42	禾季	kugou	ok
+Call your name <Gv>	澤野弘之、R!N/Gemie	2	42	mpi	netease	ok
+SLICK	Victony、Summer Walker、Don Toliver	2	44			missing
+泸沽湖	麻园诗人	2	45	苦果	kugou	ok
+只为你一人魂牵	高钊	2	45	大师姐	kugou	ok
+我爱你	王菲	2	46	萧玮	netease	ok
+遇上你之前的我	Gareth.T	2	46	Tyson Yoshi	netease	ok
+大海	张雨生	2	47	陈大力	netease	ok
+后来的我们	五月天	2	47	阿信	kugou	ok
+回到你身边	h3R3	2	47	h3R3	netease	ok
+老人与海	海鸣威、离谱说唱6ix9ine旭哥	2	47	朱其民	qq	ok
+家	许巍	2	49	许巍	kugou	ok
+九张机	叶炫清	2	51	张富贵	qq	ok
+隔岸	姚六一	2	52	姚六一	qq	ok
+你的出现	林展烁	2	52	杨素以、偶尔	qq	ok
+Housewife	Tate McRae	2	52			missing
+你说那时我们太幼稚	刘艺哲	2	53			missing
+天下	张杰	2	53	周毅	qq	ok
+笑看今朝	泽国同学	2	53			missing
+渡口	张杰	2	54	苟璘	netease	ok
+焦虑型依恋	Start Over	2	54	Start Over	netease	ok
+你不该权衡利弊	李婷雪	2	54	方木	kugou	ok
+标准外	Arboi氩男孩	2	55	Arboi氩男孩	netease	ok
+忘了你忘了我	王杰	2	56	王文清	qq	ok
+情歌而已	苏醒AllenSu	2	57	苏醒AllenSu	qq	ok
+曾经是情侣 (Live)	梁博	2	60	梁博	netease	ok
+不苦	鞠婧祎	2	62	陆觉、刘兆伦	qq	ok
+牡丹亭	礼越	2	62	周仁	netease	ok
+这世界只来一次	崔十八、听潮阁	2	62			missing
+同往	章昊 (AND2BLE)	2	63	吕曼竹	qq	ok
+星空	许巍	2	63	许巍	kugou	ok
+我的心事只有风懂 (抒情版)	赵柯珩	2	64	雨霖枫	qq	ok
+不遗憾	李荣浩	2	65	李荣浩	qq	ok
+犯错	顾峰、斯琴高丽	2	65	顾峰	qq	ok
+睡前别想太多	李雨霏_晚饭	2	65	李雨霏	netease	ok
+写给黄淮 (Live)	邵帅	2	65	解忧邵帅	kugou	ok
+不浪漫罪名	王杰	2	66	陈少琪	qq	ok
+泡沫	G.E.M.邓紫棋	2	67	G.E.M.邓紫棋	qq	ok
+再见太难	利得汇	2	68	吴听彻、阎韦伶	netease	ok
+故乡的月 (替我看看我的爹娘)	马小艾	2	69	烟花	kugou	ok
+沦陷	贾格JuggShots	2	69	JuggShots Studio	netease	ok
+沈园外	阿YueYue、戾格、小田音乐社	2	69	於世同君	qq	ok
+离歌	信乐团	2	70	姚若龙	kugou	ok
+微光 (Aurora)	三角洲行动、郭曦阳	2	70	邱天、邵天泽、张晓晴、闫骁男	kugou	ok
+有何不可	许嵩	2	70	许嵩	qq	ok
+樱花草	Sweety	2	71	李天龙	qq	ok
+背对背拥抱	林俊杰	2	72	林怡凤	qq	ok
+月光	胡彦斌	2	72	林文炫	qq	ok
+我走后	小咪	2	73	小咪	qq	ok
+灰色轨迹	BEYOND	2	74	刘卓辉	kugou	ok
+落了白	蒋雪儿Snow.J	2	75	堇临、刘涛	kugou	ok
+Call of the Past（Slowed）	MKMS	2	75	MKMS	qq	ok
+Whatever Happens	Michael Jackson	2	75	Michael Jackson、Teddy Riley、Jasmine Quay、Gil Cang、Geoffrey Williams	netease	ok
+茶花开了，该回家了	王睿卓、加木	2	76	林晨阳、加木	qq	ok
+天地龙鳞	王力宏	2	76	方文山	qq	ok
+默	那英	2	77	尹约	netease	ok
+葡萄成熟时	陈奕迅	2	77	黄伟文	qq	ok
+一场游戏一场梦	王杰	2	77	王文清	qq	ok
+如果人生还能重来一场 (微醺版)	落日酒馆	2	79	卓吉拉姆	kugou	ok
+湘女多情	周杰伦	2	79	方文山	qq	ok
+S.A.D	XG	2	79	Kenya Fujita、Good Intent、Matt Cab	qq	ok
+我想念	汪苏泷	2	81	汪苏泷	qq	ok
+一笑江湖	闻人听書_	2	81	祝何	qq	ok
+青花	周传雄	2	82	陈信荣	qq	ok
+快乐不收费 (别把自己活太累)	DJ铁柱	2	83	安琪拉不出	kugou	ok
+一生有你	水木年华	2	83	卢庚戌	kugou	ok
+半壶纱	刘珂矣	2	84	刘珂矣、百慕三石	netease	ok
+该死的温柔	马天宇	2	86	秦天	qq	ok
+月下签	蒲熠星	2	87	蒲熠星、郑眠眠、Poke B	qq	ok
+对月饮一杯寂寥 (热门氛围版)	DD小鑫	2	89			missing
+无名的人	毛不易	2	89	唐恬 TIAN TANG	qq	ok
+雨天	孙燕姿	2	89	小寒	qq	ok
+主角	马里奥	2	89	draceana	qq	ok
+不该 (with aMEI)	周杰伦、张惠妹	2	90	方文山	qq	ok
+笑谈	浅影阿	2	91	十二兄	netease	ok
+体面	于文文	2	92	唐恬	qq	ok
+我们什么身份	范贵宾	2	92	范贵宾	kugou	ok
+千年泪	Tank	2	93	李姚、吕建忠	qq	ok
+光年之外	G.E.M.邓紫棋	2	95	G.E.M.邓紫棋	qq	ok
+咏春	七朵组合	2	95	花晶晶	qq	ok
+予以明日的花束	鸣潮先约电台、Ream雨舒、Koimoon、Moon Jelly	2	95	Hellokiki、lzq	netease	ok
+1357我的节拍	黄霄雲	2	96	袁大巍、李晓璇、刘恩汛、黄霄雲	qq	ok
+感谢你曾来过	Ayo97、周思涵	2	96	周思涵、Ayo97	qq	ok
+最是相思断人肠 (氛围纯享版)	DD小鑫	2	97			missing
+一直很安静	阿桑	2	99	方文山	qq	ok
+Call my name, Again	LEVEL NINE (LEVEL 9)、Cosmograph、강윤정	2	99	Cosmograph、N.U.	netease	ok
+淡想（Memories）	周童	2	102	周童	netease	ok
+Dear John	比莉	2	105	许常德	qq	ok
+北京没有你 (黑人版)	陶不易	2	106	张俊波、苹果	kugou	ok
+盼情郎 (我望残阳一地秋黄)	秦婉风	2	108	宋别暖、张北北	kugou	ok
+句号	G.E.M.邓紫棋	2	115	G.E.M.邓紫棋	qq	ok
+天黑黑	孙燕姿	2	116	廖莹如、吴依铮	qq	ok
+Shadow	闵智云 (Min Jiwoon)	2	118	FLORA、오하주	qq	ok
+读心术	卓文萱	2	120	小寒	netease	ok
+茫	李润祺	2	125	李润祺	netease	ok
+搁浅	周杰伦	2	127	宋健彰	qq	ok
+暧昧	薛之谦	2	130	薛之谦	qq	ok
+慢冷 (Live)	李荣浩	2	130	姚若龙	netease	ok
+七里香	周杰伦	2	132	方文山	qq	ok
+暗恋过 结局呢	新街口组合、Mona Lavi	2	136	新街口组合张晗、Mona Lavi	netease	ok
+稻香	周杰伦	2	138	周杰伦	qq	ok
+喜欢你	G.E.M.邓紫棋	2	139	黄家驹	qq	ok
+街角的晚风	陈小春	2	140	阿豪、未子夫	qq	ok
+童话	光良	2	140	光良	qq	ok
+我们感情到尽头	一冉	2	141	王树杰	kugou	ok
+刚刚好	薛之谦	2	145	薛之谦	qq	ok
+像风一样	薛之谦	2	147	薛之谦	qq	ok
+老男孩	筷子兄弟	2	148	王太利	qq	ok
+爱，请问怎么走	A-Lin	2	149	Park Kyeong Jin、徐世珍	qq	ok
+明天过后	张杰	2	150	葛佳慧	qq	ok
+情深难抵命运的游戏 (烟嗓男版)	孟 顺	2	152	云伍	kugou	ok
+悬溺	葛东琪	2	154	葛东琪	qq	ok
+你还要我怎样	薛之谦	2	155	薛之谦	qq	ok
+倒带	蔡依林	2	156	方文山	qq	ok
+玫瑰花的葬礼	许嵩	2	158	许嵩、李毅杰	qq	ok
+月亮不懂我伤悲 (乡野对唱版)	石红豆、石满仓	2	159	孔垂周	kugou	ok
+阳光下的星星	金海心	2	162	罗茜	netease	ok
+Die For You	The Weeknd	2	163			missing
+年少有为	李荣浩	2	167	李荣浩	qq	ok
+意外	薛之谦	2	168	杨子朴	qq	ok
+慢慢离开你	金润吉	2	170	折言	netease	ok
+花海	周杰伦	2	171	古小力、黄淩嘉	qq	ok
+人间共鸣	李健	2	172	董玉方	qq	ok
+一个人想着一个人	曾沛慈	2	173	张简君伟	qq	ok
+我还想她	林俊杰	2	178	邢增华	qq	ok
+老街	李荣浩	2	179	李荣浩	qq	ok
+Beauty And A Beat	Justin Bieber、Nicki Minaj	2	181	Max Martin、Zedd、Savan Kotecha、Nicki Minaj	qq	ok
+Call You Tonight	Whitney Houston	2	182	Johnta Austin、Tor Erik Hermansen、Mikkel Storleer Eriksen	netease	ok
+千千阕歌	陈慧娴	2	183	林振强	qq	ok
+他不懂	张杰	2	184	代岳东、周振霆	qq	ok
+勋章	鹿晗	2	185	朱婧汐 Jing	qq	ok
+我乘着风飞过来	洪辰、宁桓宇、熊出没	2	191	万秦	qq	ok
+冻结	林俊杰	2	192	张思尔	qq	ok
+That Girl	Olly Murs	2	197	Olly Murs、Claude Kelly、Steve Robson	qq	ok
+山火谣 (你看着我别走开)	央金拉姆山野	2	199	董慧	qq	ok
+退后	周杰伦	2	199	宋健彰	qq	ok
+告白气球	周杰伦	2	200	方文山	qq	ok
+我听人说思念像风一样 (纯享版)	雪山阿木、7past	2	205	李思源	qq	ok
+秋风慢慢吹	乌兰Ulan	2	208	余哲	kugou	ok
+北京没有你	z阿康	2	216	张俊波、苹果	qq	ok
+不如就此放开手	小法哥	2	223	范贵宾	kugou	ok
+慌啥子嘛 (烟嗓版)	烟嗓扬哥	2	231	困困羊	kugou	ok
+问天问地问风雨	戎大姨	2	233	小小羊	kugou	ok
+我要的飞翔 (Live)	许飞	2	264	冀楚忱	qq	ok
+Aerotherapy	oftheblue	2	266	SHANE、차민준	qq	ok
+去喜欢那个很忙却对你有空的人	林小玥	2	283	心煜	kugou	ok
+大江南	刀郎	1	1	刀郎	kugou	ok
+复息	BUTON	1	1			missing
+你想要的都在路上	天雯	1	1	YY	qq-search	ok
+辛辛苦苦守护这个家 (深情版)	徐凤华	1	1	陈佑飞	kugou	ok
+We Never Beat	Miracle	1	1			missing
+北京的秋天	化骨龙乐队、老狼	1	2	小海	qq-search	ok
+苍老	倭瓜王	1	2	倭瓜王	netease	ok
+从没后悔过	范贵宾	1	2	范贵宾	kugou	ok
+疯狂南瓜夜	VaVa毛衍七	1	2	VaVa毛衍七	kugou	ok
+海屿你	马也_Crabbit	1	2	Fanko冯思源	netease	ok
+突然的自我 (Live)	伍佰 & China Blue	1	2	伍佰、徐克	kugou	ok
+我在中间	FLOOD芙拉得	1	2	FLOOD芙拉得	netease	ok
+月半满	云朵	1	2	左手	kugou	ok
+潮汐 (Natural)	傅梦彤	1	3	安苏羽、舒心	kugou	ok
+鸿雁于飞	刀郎、徐子尧	1	3	刀郎	kugou	ok
+谎言（Luv like zombie）	DiorGoFlex、斑比Bambii	1	3	DiorGoFlex、斑比Bambii	netease	ok
+罗生门（Follow）	梨冻紧、Wiz_H张子豪	1	3	梨冻紧、Wiz_H张子豪	netease	ok
+热烈之后	希林娜依•高	1	3			missing
+思念若是一首诗	万妮达Vinida Weng	1	3	汪苏泷	qq	ok
+伍仙桥	叶佩华	1	3	叶佩华	netease	ok
+这辈子欠的我来生偿 (女声好听版)	凌奈	1	3	林子祺Liam7	kugou	ok
+Jet Stream Heart	Temples	1	3	Rens Ottink、James Edward Bagshaw、Thomas Walmsley、Adam Smith	netease	ok
+Lonely Again	皮皮皮皮朱	1	3	沙炸文	qq-search	ok
+Montagem Nada Funk	Trispect	1	3		netease	instrumental
+求命运高抬贵手 (烟嗓版)	陈磐	1	4	姚青楓	kugou	ok
+颜如玉2.0 (Live)	李大奔BENZO、严浩翔、Rapeter	1	4	李大奔BENZO、时代少年团 严浩翔、Rapeter吴嘉轩	qq	ok
+走出相片	祈03	1	4	祁03	qq-search	ok
+A Necessary Message	塞壬唱片-MSR、Chapters、Ben Hicks、Sofia Silvestri	1	4	Simon Jay、Luke Shrestha	netease	ok
+Do It Right	Butch U	1	4	Бут Владислав Андреевич	qq	ok
+JUICE	周震南	1	4	周震南、Anders Gukko、Hugo Andersson、Hwaji、WUTAN、220	qq-search	ok
+You Should Know	李长庚	1	4	李长庚	netease	ok
+【FREE】“Follow Your Flow” Smooth Boombap Type Beat	洄	1	5			missing
+火与尘	塞壬唱片-MSR、椎名豪	1	5		netease	instrumental
+翩翩	周煜琦	1	5	刀郎	kugou	ok
+如果累了就回故乡（少年版）	懒惰	1	5			missing
+踏马寻花向自由 (烟嗓版)	不知名烟嗓	1	5			missing
+在天亮前出发	软柿子乐队（Soft Persimmon）	1	5	张东川	netease	ok
+忠孝东路走九遍 + 每次都想呼喊你的名字 (Live)	动力火车	1	5			missing
+Bad Boy	万妮达Vinida Weng	1	5	张雨生	qq	ok
+Boomerang (Extended)	Passenger	1	5			missing
+FALA SÉRIO	Vico8、GOLD999	1	5		netease	instrumental
+I don't wanna see u anymore (Stories Remix)	乃万NINEONE、Stories	1	5	NINEONE#乃万	qq	ok
+Montagem Nada Tropica	Eternxlkz	1	5	Nurbek Myssiyev	kugou	ok
+红线儿	沈春阳	1	6	王云鹏	qq-search	ok
+火烧云	谢天笑	1	6	谢天笑	netease	ok
+明月夜 (雷鬼版)	白兰的	1	6			missing
+提线木偶	小u哈	1	6	猫九	kugou	ok
+万事自有定数	傅君	1	6	傅君	netease	ok
+游京 (奋斗进行曲)	DJ筱轩	1	6	海伦	kugou	ok
+于是	郑润泽	1	6	郑润泽	netease	ok
+余生爱人	向云天	1	6	向云天	qq-search	ok
+真的爱妳	BEYOND	1	6	梁美薇	kugou	ok
+colt.45 (烈驹45号) (Live)	弹壳	1	6	弹壳	qq	ok
+Got It 13（PHONK 特别篇）	MKMS	1	6			missing
+Odd Dice	millsage	1	6	アザミ	netease	ok
+红尘之客（Dustbound）	银河快递 (Galaxy Express)、RANZER叶润泽	1	7			missing
+假慈悲	老孙来也	1	7			missing
+久爱成疾	文夫	1	7	KP MUSIC	kugou	ok
+零	饭卡	1	7	饭卡	kugou	ok
+洛神	乱徵	1	7			missing
+明天的明天的明天	动力火车	1	7	许常德、阿曼达	kugou	ok
+任我是大漠里的一粒沙被风吹到天涯	银河兔	1	7			missing
+我的电动车	邵帅	1	7	邵帅	netease	ok
+幸福的两口子	庞龙	1	7	庞龙	kugou	ok
+MONTAGEM SIN DRAMA 2	Kyrex、Trispect	1	7	Trispect	netease	ok
+My Blue Sky Home	PROJECT ACES	1	7	Steven McNair	qq-search	ok
+Poker Face	Lady Gaga	1	7	Lady GaGa、Red One	kugou	ok
+SUPERSTAR	A2O SOUL、A2O	1	7	Paris Alexa、planet emi、YOO YOUNG JIN	qq	ok
+凡人慕仙家	姜姜	1	8	周仁	qq-search	ok
+故里逢春	阿YueYue	1	8	喔喔	netease	ok
+来生依然等着你	肖雨蒙	1	8	宋普照	kugou	ok
+蓝莲花	许巍	1	8	许巍	kugou	ok
+请柬 (Your Wedding)	浅水ShallowEnd	1	8		netease	instrumental
+瞬息光年	世界之外	1	8	《世界之外》音乐筹备组	netease	ok
+忘记你不如忘记自己 (烟嗓版)	白兰的	1	8			missing
+我哪点对不起这个家	来颗青椒	1	8	来颗青椒、时一	netease	ok
+永恒少年 (Explicit)	KAFE.HU胡懿、黄之仪Kyra Zilver、KEY.L刘聪、功夫胖KUNGFU-PEN	1	8	KAFE.HU胡懿	kugou	ok
+挣钱的不出力	AI辅助生成 李念念	1	8	占彬	kugou-search	ok
+HOVE（FUNK）	越心	1	8	越心	netease	ok
+I Miss You	罗百吉、宝贝	1	8	罗百吉	kugou	ok
+Need Your Appr (Slap House)	Nvraent、Luckkk	1	8			missing
+背叛情歌	动力火车	1	9	李素珍、许常德	kugou	ok
+故乡的客	AI辅助生成 微醺小妹	1	9			missing
+光阴的故事	孙露	1	9	罗大佑	kugou	ok
+你不该权衡利弊	Popsicle	1	9			missing
+心疼我一回 (哥这辈子就爱你)	老韩很哇塞	1	9	刘佳宁	kugou	ok
+心中有爱	赫铭0112	1	9	绿柳	kugou	ok
+雪寒尽	玻璃心	1	9	玻璃心	qq-search	ok
+最好的伴	宝石Gem	1	9	宝石Gem、于京乐团	qq	ok
+Devilish (昼夜狂想)	无限王者团、王者荣耀	1	9	刘梦静 Yoon	kugou	ok
+It Was Gonna Be You	Passenger	1	9			missing
+KEDAMONO_AYAKASHI	ヒトリエ	1	9			missing
+PAPI	EXVE、KVKS	1	9			missing
+Rendezvous	Mili	1	9	Cassie Wei	netease	ok
+Saving	Agera	1	9	Agera	netease	ok
+冻梨me (You don't love me)	枷索, 芒尼夯, 8BERY	1	10	芒尼夯	qq-search	ok
+独自一人也挺好	逵逵爱唱歌（KuiKui）	1	10	第九种颜色	qq	ok
+短暂的总是浪漫	苏向晚	1	10			missing
+花开满篱院	谭松韵	1	10	江珂	qq	ok
+知道不知道	侃侃	1	10			missing
+指南为北	乡野低频、石满仓	1	10	贺子玲	netease	ok
+Crowned In Honor (何以为王)	王者荣耀	1	10	Elsbeth Rehder	kugou	ok
+Domination (恨海情天BGM)	LINGZE、LJYNNN	1	10		netease	instrumental
+Fever	ONE OK ROCK	1	10	Taka、David Pramik、Masato Hirakawa、Charlie Snyder、Jamil Kazmi	qq-search	ok
+Synthetic Wrath Slow	RANGE	1	10			missing
+Una Mattina	Papa Tin	1	10			missing
+爱你到底	陈雅森	1	11	陈雅森	kugou	ok
+不过就是一眨眼	张方钊	1	11	张方钊	netease	ok
+不想你	李柄桦	1	11			missing
+家乡	侃侃	1	11	韩红	kugou	ok
+时间线	于冬然	1	11	林叙	qq	ok
+向天再借五百年	美玲儿	1	11			missing
+雲を抜け風下へ私だけ	ヨルシカ	1	11	n-buna	netease	ok
+All I Know (Sped)	MIKS	1	11			missing
+Once upon a Time	Max Oazo、Moonessa	1	11	Jennifer Jung	kugou	ok
+The Gentlemen (绅士们) (Live)	弹壳、Vinz-T	1	11	弹壳、Vinz-T徐赢	qq	ok
+多情的人说着无情的话	Li敖	1	12	TT	qq-search	ok
+两难pt.2	加木	1	12	加木	netease	ok
+落 (花开花落日升日没)	唐伯虎Annie	1	12	潇然	kugou	ok
+踢不烂	ICE杨长青	1	12	ICE杨长青	kugou	ok
+Fast Cars & Superstars	Cristian Marchi、Reverend Haus	1	12	Martin Robert Barrick	kugou	ok
+Fever Pitch（列兵天使进行曲）	Yilu7i、CVRCH、freezepain、Sin Wecokat	1	12	Yilu7i	netease	ok
+If The Sun Burns Out Tonight (feat. Oli Sykes & Courtney LaPlante) (炽日将烬)	无畏契约、Grabbitz、Oli Sykes、Courtney Laplante	1	12	Nicholas Chiari	qq	ok
+базовыйминимум	亲嘴烧	1	12			missing
+ぴ	七音阿卡莉	1	12	ヤマモトショウ	qq-search	ok
+爱谈不谈	黄霄雲	1	13	郑志焕、陈璇、林俊彤、炎延	kugou	ok
+莲花	南征北战NZBZ	1	13	WTZ	qq	ok
+轮回	MC派蒙、Veco	1	13	MC派蒙、Veco	netease	ok
+逆境Mystery Tour	TF家族-王烁然、TF家族-聂玮辰	1	13	TF家族-王烁然、TF家族-聂玮辰	kugou	ok
+琴弦呀，琴弦 O Strings, My Strings	HOYO-MiX	1	13	项柳 Hsiang Liu、Nikolai Novichkov	netease	ok
+少女心事	王澳楠EVE	1	13	王澳楠EVE	qq-search	ok
+踏遍青山	晨夕之家	1	13	晨夕之家	kugou	ok
+同桌的你	老狼	1	13	高晓松、东方	kugou	ok
+完美生活	许巍	1	13	许巍	kugou	ok
+无奈的思绪	嘉慧	1	13	卡斯	kugou	ok
+与天齐（氛围版）	城堇.	1	13			missing
+Good Time	Owl City、Carly Rae Jepsen	1	13	Adam Young、Matthew Thiessen、Brian Lee	kugou	ok
+You Will Always Exist (Salp House)	Nvraent、Luckkk	1	13			missing
+花田错	何润西Racey	1	14			missing
+吉卜力音乐 (feat. 汉堡黄)	rubenmccarter、汉堡黄	1	14	rubenmccarter、汉堡黄	netease	ok
+假如	信乐团	1	14	Lee Sueng Chul、姚若龙	kugou	ok
+可能否 (新版)	木小雅	1	14	木小雅	kugou	ok
+你要我如何说再见	北极星Polaris_D, 星尘	1	14	北极星Polaris_D	qq-search	ok
+如果呢	郑润泽	1	14	郑润泽	netease	ok
+升本后醒来	上饒天選之子	1	14	上饒天選之子	netease	ok
+有个懂你的人最幸福 (深情版)	齐欣美	1	14	雨霖枫	kugou	ok
+终点站	千顺	1	14	尹龙	kugou	ok
+Boss Life (狂放人生) (Live)	弹壳、Mai	1	14	弹壳	qq	ok
+Faded	Alan Walker	1	14	Jesper Borgen、Anders Froen、Gunnar Greve、Alan Walker	kugou	ok
+Hit 'Em	MEOVV	1	14	Lukasz Gottwald、Theron Thomas、lil aaron、Shelailai	qq	ok
+Montagem Nada Tropica#1	Lenoxi	1	14			missing
+迟来的爱	AI辅助生成 温见秋	1	15			missing
+大地之光	广东吴勇	1	15	电白三爷	qq-search	ok
+嗜好	颜人中	1	15	张鹏鹏	netease	ok
+信仰	张信哲	1	15	易家扬、陈耀川	qq	ok
+有多少爱可以重来	迪克牛仔	1	15	何厚华	kugou	ok
+又是一年秋风起 (难解宿命版)	雪山阿木、自游诗	1	15	千渭、自游诗	kugou	ok
+鸳鸯戏	邓寓君(等什么君)	1	15	家浚	kugou	ok
+原来你懂我	王澳楠EVE	1	15	王澳楠EVE	kugou	ok
+Nada Sempero	Tamboss	1	15	Tamboss	qq	ok
+UNA MAS FUNK 2	MGD、BLOODTHXRN、HITEXODUS	1	15		kugou	instrumental
+Veil	C.U	1	15		netease	instrumental
+Когда душе твоей больно	Ploho、塞壬唱片-MSR	1	15	Viktor Uzhakov	netease	ok
+炽念	柯淳	1	16	冯博	kugou	ok
+大雨瓦解我的思念	池柚	1	16			missing
+嫉妒心	毛潇曼	1	16	球放过	netease	ok
+明知故犯	Max李玄	1	16	Max李玄	netease	ok
+伤过痛过千万别错过	达达	1	16			missing
+天下无敌？	谢帝、THOME	1	16	谢帝、THOME	netease	ok
+忘忧草 (烟嗓版)	白兰的	1	16			missing
+无人的旷野 (车载版Slow)	越心、GFY1994	1	16			missing
+消逝在八月盛夏	TF_ING张子墨	1	16	张子墨z!mooo、飞行少年	kugou	ok
+学会让自己快乐	风范、许风驰	1	16	许风驰	qq	ok
+御姐进行曲	Martins Garix	1	16		kugou	instrumental
+再度重相逢	伍佰 & China Blue	1	16	伍佰	kugou	ok
+照片	徐化文	1	16			missing
+MONTAGEM PARA	花柚Flower、LumynX	1	16			missing
+MONTAGEM SIN NADA	Kyrex、Trispect	1	16	Trispect	netease	ok
+Yeminler Ediyorum	Faxo、Rido	1	16	Rido、Faxo	kugou	ok
+花谢花飞花又落满天	黄文文	1	17	钟澄澄	qq-search	ok
+就骗我一次 (KOR Ver.)	沈佳润Nina	1	17	유주니	kugou	ok
+空谷幽兰	许巍	1	17	许巍	kugou	ok
+累了就回故乡	AI辅助生成 苏见溪	1	17	卅卅	kugou-search	ok
+如果累了就回故乡	AI辅助生成 烟雨微醺	1	17			missing
+山城情歌	张颜齐	1	17	张颜齐	kugou	ok
+我年轻过	刘德华	1	17	刘德华	kugou	ok
+相思遥	张含韵	1	17	谢皮皮、星牌	kugou	ok
+月满西楼约	如梦	1	17	如梦	kugou	ok
+Authority（权威）	YPD	1	17		netease	instrumental
+Fatal Love	Jori King	1	17			missing
+Midnight Fever	VTSTYOY、AJIYEMA、阿吉野马	1	17			missing
+My job (老本行) (Live)	ICE杨长青、那奇沃夫、张峻豪SHUN	1	17	ICE杨长青、那奇沃夫、张峻豪SHUN	qq	ok
+好走不见	曹格	1	18	崔惟楷	qq-search	ok
+和凌晨三点的自己通话	Mist	1	18			missing
+今夜月色空空	白允y	1	18	贺子玲	kugou	ok
+目光归我	BUTON	1	18		kugou	instrumental
+蚍蜉	花粥	1	18	花粥	kugou	ok
+突然好想你	五月天	1	18	阿信	kugou	ok
+唯你入心门	慕容景天	1	18	慕容景天	kugou	ok
+乡下的老鼠	罗言RollFlash	1	18	罗言	kugou	ok
+新地球	林俊杰	1	18	林秋离	kugou	ok
+知了	陈默之	1	18	王琛	kugou	ok
+Can't Give Up（你知道你不能放弃）	Harmonic Thaw	1	18		netease	instrumental
+Don't Talk Ense (Slap House)	Vnriet、DarK Haye、Nvraenr	1	18			missing
+Drifting	希林娜依•高	1	18	荷安特昂	kugou-search	ok
+Forever (永不凋零) (Live)	弹壳、BrAnTB白景屹	1	18	弹壳、BrAnTB白景屹	qq	ok
+メドレーの観察	明透	1	18	Neuron	netease	ok
+666	PearBae小梨、康熙	1	19	Pearbae小梨、康熙	netease	ok
+春庭雪 (r&b微醺版)	落日微醺	1	19	清彦	kugou	ok
+风飞沙	迪克牛仔	1	19	马嵩惟	kugou	ok
+胡广生	任素汐	1	19	任素汐	kugou	ok
+破晓的光 (童声合唱版)	南征北战NZBZ	1	19	赵辰龙	qq	ok
+散半个三台	Vansdaddy	1	19	Vansdaddy	qq-search	ok
+谁在家不是大哥	灿哥	1	19	王云鹏	kugou	ok
+桃花坞	刘宇	1	19	夏静秋、刘宇	kugou	ok
+王子系变装	圈圈菌	1	19		netease	instrumental
+问蓬山	RANZER叶润泽	1	19	RANZER叶润泽	kugou	ok
+我曾经爱过你 I Loved You	HOYO-MiX	1	19	项柳 Hsiang Liu、Anastasiia Tolshchina	netease	ok
+一眼万年	林俊杰	1	19	姚若龙	qq	ok
+Die For You (为你而战)	Grabbitz	1	19	Nicholas Chiari	kugou	ok
+Freak (ft. Ink)	Mesto、Ink	1	19			missing
+5th	石衍恺	1	20	石衍恺	netease	ok
+别回头 (不朽版)	PAMajor	1	20	毕萝、1E	kugou	ok
+蔡镇鸿	谢帝	1	20	谢帝	netease	ok
+刘宇宁-花太香 (Live)	中国电影报道	1	20	小虫	kugou	ok
+明年依然好时节（纵然我的相思）	许飞	1	20	许飞	netease	ok
+你是我的宝贝	曹格	1	20	曹格	kugou	ok
+圣诞星 (feat. 杨瑞代)	周杰伦	1	20			missing
+酸橙色信笺	塞壬唱片-MSR、DAZBEE	1	20	*Luna	netease	ok
+碎银几两	轩东	1	20	轩东	kugou	ok
+无情画 (不忍将满地残花踏)	马嘉义	1	20	王呈章	kugou	ok
+Blaz Bur Len(Slap House)	Vnriet、DarK Haye	1	20			missing
+I GO I GO	Nzwin 黄跃成	1	20			missing
+I'm Waiting (Radio Edit)	Stage Rockers	1	20	Giunchi Paolo	kugou	ok
+RUD3	王栎鑫	1	20	JFLY	kugou	ok
+北方的后海没有海	于黑蛋	1	21	贺子玲	kugou	ok
+奔向刹那之后（刹那のその先へ）	R!N/Gemie、网易阴阳师手游	1	21	音扬师工坊	netease	ok
+好运来	祖海	1	21	车行	qq	ok
+连回忆都恨我	池立铎	1	21	千树	kugou	ok
+你知道天空有多蓝	椅子乐团 The Chairs	1	21	陈仲颖	kugou	ok
+亲爱的老公我要对你说	陈佳佳、小萌	1	21			missing
+无悔这一生	BEYOND	1	21	卢国宏	kugou	ok
+Camouflage	aespa (에스파)	1	21	주원	qq	ok
+La La Love On My Mind	Ann Winsborn	1	21			missing
+Town/Blunt (Extended Intro Remix)	delphia!	1	21	delphia!	netease	ok
+安和桥	夏心心	1	22	宋冬野	kugou	ok
+打麻将	赵哥、马伯骞Victor Ma	1	22	赵哥、马伯骞Victor Ma	qq	ok
+天下第一好	李小眼	1	22	李小眼	kugou	ok
+心口不一	AK刘彰	1	22	AK刘彰	kugou	ok
+又是一个悲伤的冬天 (时光一眨眼又是个冬天)	草原兄弟	1	22	苗子	kugou	ok
+Billie Jean	Michael Jackson	1	22	Michael J. Jackson	kugou	ok
+SPIN	Kroi	1	22	内田怜央	netease	ok
+With Two Mot Ons (Slap House)	Nvraent、Luckkk	1	22			missing
+花祀时	铁痕电台-MSR、Hyunmin Cho、seibin	1	23	EGGY	netease	ok
+老本行	ICE杨长青、李京泽	1	23	ICE杨长青、ljz329	qq	ok
+留言	ICE杨长青	1	23	ICE杨长青	kugou	ok
+青春	侃侃	1	23	沈庆	kugou	ok
+挽红纱	龚琳娜、张云雷	1	23	家浚	kugou	ok
+云遮住了光	金志文	1	23			missing
+BLUFF	DJ Javi26、SASORIIXPP	1	23		qq-search	instrumental
+Stay with me (氛围beat)	PPR	1	23			missing
+Wake (Live)	Hillsong Young & Free、TAYA	1	23	Hillsong Young、Free	kugou	ok
+多少真心败给无奈	赫铭0112	1	24	米拓果果	kugou	ok
+过来人	喆FILM	1	24			missing
+骗子 (R&B版)	微醺日落	1	24	陶峻汐	kugou	ok
+千年	赖仔Morris	1	24	廖羽、和汇慧	kugou	ok
+情绪回收站	失落花园_	1	24			missing
+失眠又来了	网络歌手	1	24		kugou	instrumental
+台北一夜 (Explicit)	Vansdaddy、华云龙KLE	1	24	Vansdaddy、华云龙KLE	kugou	ok
+小rapper (Live)	Rapeter、Mai	1	24	Rapeter吴嘉轩	qq	ok
+再遇见 (苏打绿版)	苏打绿	1	24	吴青峰	kugou	ok
+MONTAGEM ALWAYS	Trispect	1	24	Trispect	netease	ok
+Talking to the Moon	Bruno Mars	1	24	Jeff Bhasker、Philip Lawrence、Bruno Mars、Ari Levine、Albert Winkler	qq	ok
+なんもねえ	忘れらんねえよ	1	24	忘れらんねえよ	netease	ok
+故乡的风在呼唤我	余音绕梁	1	25	任夏	kugou	ok
+既见沧浪	河图、老虎欧巴	1	25	王相如	netease	ok
+乱世书	风华音纪、平生不晚	1	25	周仁	kugou	ok
+岁岁	任素汐	1	25	任素汐	kugou	ok
+我还差啥子 (Live)	谢帝	1	25	谢帝	kugou	ok
+无情的情书	动力火车	1	25	李素珍、许常德	kugou	ok
+心里面的光	肖同学	1	25	高夫	kugou	ok
+再见黑怕	法老、泠风	1	25	法老、泠风	netease	ok
+直到大地变成一颗酸橙	塞壬唱片-MSR、平林佑人、星熊南巫、Earthists.	1	25	平林佑人	netease	ok
+Insomnia	Craig David	1	25	Craig David、Jim Beanz	kugou	ok
+Lucky Day by Day (幸运每天)	不蓝	1	25	Perfección de la Tinta	kugou	ok
+Senta Pra Bandido	KAIO ALEXANDRE、DJ R15、MC Kaique Da Vj、Mc Gw、Game Records	1	25	MC Kaique Da Vj、Mc Gw	netease	ok
+大梦归离	李宇春	1	26	张弋敏	kugou	ok
+登岸歌	闫东	1	26	周仁	qq	ok
+多想在平庸的生活拥抱你	隔壁老樊_樊凯杰	1	26	隔壁老樊	kugou	ok
+光落时	杨润泽、吴垚滔、时光代理人	1	26	鱼麦扣	qq-search	ok
+慌啥子嘛	赵本山	1	26	困困羊	kugou	ok
+毁灭 Destroy (压迫感)	DJA乐	1	26		kugou	instrumental
+人间白首	呦猫UNEKO	1	26	浓缩排骨	kugou	ok
+我恨 Hip Hop (Explicit)	MC HotDog 热狗	1	26	MC HotDog 热狗	qq	ok
+AGUDO MAGKLCO (GHETTO HOUSE)	FinalSay	1	26			missing
+LAST DANCE	BIGBANG (빅뱅)	1	26	G-DRAGON、T.O.P、태양	qq	ok
+M3 (PHONK)	7CEAN、SEVENOP	1	26		kugou	instrumental
+熬夜的人最孤独	王尔叮	1	27	邢榕	kugou	ok
+大小孩	张韶涵	1	27	金灿灿	kugou	ok
+痛	李翊君、动力火车	1	27	吴梵、许常德	kugou	ok
+心月辞·长相望	鸣潮先约电台、苏诗丁	1	27	吴姝霆、SmileL	netease	ok
+一盏心灯照我行	亓平	1	27	雨霖枫	kugou	ok
+再爱我一次好不好	小米	1	27			missing
+只若初见	落日微醺	1	27	刘长城	kugou	ok
+Insomnia (불면증)	辉星	1	27	Craig David、휘성	kugou	ok
+kick	何浩楠	1	27	soova、何浩楠	kugou	ok
+NASTY31	山药大王、造梦师DreamMaker	1	27	山药大王	netease	ok
+Nocturne Haze	fryly	1	27	fryly	netease	ok
+WEDNESDAY GRIND	Mr. Sun	1	27	Mister D. Sun	kugou	ok
+爱到最后全凭良心 (合唱版)	马上、杨雯梓	1	28	刘朋	qq-search	ok
+大理出奇迹	连麻Swimming	1	28	连麻Swimming	netease	ok
+飞鸟Remix	宝石Gem、安达组合	1	28	宝石Gem、其其格玛	qq	ok
+光落	吴垚滔、时光代理人	1	28	鱼麦扣	qq-search	ok
+起着风	白色海岸The White Coast	1	28	赖星宏	netease	ok
+忘不掉的你	h3R3	1	28	h3R3	netease	ok
+我们都不懂岁月的重量 (深情版)	暮雨浔宗	1	28	陈佑飞	qq	ok
+我疲惫到忘了自己 (伤感版)	糖晓四	1	28	雨霖枫	kugou	ok
+我自当山	艾热AIR	1	28	V's Nite、崔玮	kugou	ok
+小小的你 慢慢长大	良锋有信	1	28	良锋有信	kugou	ok
+Baby I'm Sorry	MYNAME	1	28	똘아이박、피터팬	kugou	ok
+Take me hand	Cécile Corbel	1	28	Cécile Corbel	kugou	ok
+浮舟	铁痕电台-MSR、田汨	1	29	生生	netease	ok
+红	罗言	1	29	罗言	netease	ok
+江声入旧年	聲無哀樂乐队THEWEAPONS、龚琳娜、杨宗勋	1	29			missing
+另一种方式飞翔	唐艺	1	29	李守俊	kugou	ok
+脉搏	Akirayzz、Water333	1	29			missing
+男人局	金志文、康树龙、林溪	1	29			missing
+七天	张瑶	1	29	王兵	netease	ok
+桥边姑娘	安小木	1	29	海伦	kugou	ok
+情人碑	礼越	1	29	姜洄	netease	ok
+想咋 (Live)	BrAnTB白景屹	1	29	BrAnTB白景屹	kugou	ok
+小牌大耍	Billionhappy、Akemen杀	1	29	Billionhappy、AKEMEN	qq	ok
+烟雨入画 (耳朵怀孕版)	凯枫	1	29		kugou	instrumental
+遥望	BEYOND	1	29	黄家驹	kugou	ok
+Besame	音权	1	29	音权	netease	ok
+passion (Speed Up)	silent anthem、heart embrace	1	29			missing
+单元楼 (Casa Mia)	泰格西	1	30	泰格西	kugou	ok
+飞得更高	汪峰	1	30	汪峰	kugou	ok
+你的笑是解药	小阿枫	1	30	小阿枫	kugou	ok
+平行线	Magic咩直	1	30	Magic 咩直、王成林	qq	ok
+释怀	赵东俊	1	30		kugou	instrumental
+西楼爱情故事	李袁杰、Au	1	30	Au、李袁杰、桑爱	kugou	ok
+雨下一整晚	周杰伦	1	30	方文山	qq	ok
+只要有你 (乡野版)	石满仓	1	30	陈颂红	kugou	ok
+纸短情长	刘艺佳	1	30	言寺	kugou	ok
+最后一个月	670	1	30	刘庆琳	qq	ok
+Gangsta Don’t Lie	连麻Swimming	1	30	连麻Swimming	netease	ok
+Montagem Nada Tropica	灰蒙蒙、VOLT	1	30			missing
+Way Back	Vicetone、Cozi Zuehlsdorff	1	30			missing
+うちゅうのふしぎ	夢限大みゅーたいぷ	1	30	sabio	netease	ok
+阿拉拉姆	DOS FLORA、Trakin	1	31	Trakin99、DOS FLORA	kugou	ok
+隔岸	黄龄	1	31	姚六一	qq	ok
+嘉定二年冬	少司命	1	31	慕清明	netease	ok
+解药	加木	1	31	加木	kugou	ok
+浪漫星系	曹骏	1	31	邓舒月	kugou	ok
+两 难	加木	1	31	加木	netease	ok
+梦伴	李悦君	1	31	林敏骢	kugou	ok
+弥渡山歌 (PHONK)	羊音乐	1	31	民歌	kugou	ok
+怒放的生命	汪峰	1	31	汪峰	kugou	ok
+且听风吟	鸣潮先约电台、jixwang、云之泣	1	31	冉语优	netease	ok
+我没有说不爱你	AY楊佬叁	1	31	AY楊佬叁、Bopi	qq	ok
+逍遥仙	筷子兄弟	1	31	阿鸟	kugou	ok
+MORNING DEW (DONK)	Beyoncé	1	31			missing
+Not The Time	Yilu7i、Sin Wecokat	1	31	Yilu7i	netease	ok
+壁上观	鞠婧祎	1	32	小六	kugou	ok
+金翅鸟_请山葬我	物华弥新、闫东炜	1	32		netease	instrumental
+零度的风	小白牙	1	32	青柠	qq-search	ok
+如果你也刚好抬头看树	孙天宇	1	32	林言祁	kugou	ok
+神山GUOFENG	FOX胡天渝	1	32	FOX 胡天渝	kugou	ok
+我像一个傻瓜	河北吴孟达、曲甲	1	32	河北吴孟达	netease	ok
+小草 (雷鬼版)	白兰的	1	32			missing
+玄翎谣	鸣潮先约电台、jkinss、薄荷Miint	1	32	冉语优	netease	ok
+这份爱到此为止了 (爱而不得)	张艺迈	1	32			missing
+Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]	Justice、Tame Impala、SZA、Grand Theft Auto VI	1	32			missing
+Nevada	Vicetone、Cozi Zuehlsdorff	1	32	Cozi Zuehlsdorf、Vicetone	kugou	ok
+†BENEATH!†	N2UtheHartlocker	1	33		netease	instrumental
+还是会想你	林达浪、h3R3	1	33	林达浪、h3R3	netease	ok
+刻在我心底的名字	陈默之	1	33	许媛婷、佳旺、陈文华	netease	ok
+慢品人间烟火气	锦上	1	33	郭伟文 MUSIC	kugou	ok
+万相由心何妨问天机	鸣潮先约电台、jixwang、陈乐一	1	33	Xu Lai	netease	ok
+我不是名人堂 (Explicit)	ICE杨长青	1	33	ICE杨长青	kugou	ok
+我这个你不爱的人	迪克牛仔	1	33	王建福	kugou	ok
+西厢寻他 (0.8x版)	Slow_77	1	33	徐昊	kugou	ok
+下完这场雨	赵乃吉	1	33	后弦	netease	ok
+云裳羽衣曲	周深	1	33	方文山	qq	ok
+这片土地	CigarHan、至岁	1	33	CigarHan、至岁	netease	ok
+枕着光的她	任素汐	1	33	易家扬、临渡、赵棠舟	kugou	ok
+Wasting My Time	HENL	1	33			missing
+Под луной (在月亮下)(Silver Ace remix)	SUNAMI	1	33	Давлятназаров Бахтовар Фаррухович	kugou	ok
+二十五 (Live)	陈一豪Clear	1	34	陈一豪Clear	qq	ok
+乖小孩	陈浩文、小叮当X-DoubleD、热寂HDRecords	1	34	陈浩文	netease	ok
+害怕你说谎（以前再也回不去了）ft.APMOZART	Barbie、APMOZART	1	34	Barbie、APMOZART	netease	ok
+何必相逢	李雨霏_晚饭	1	34	李雨霏	netease	ok
+漠河舞厅	戴羽彤	1	34	柳爽	kugou	ok
+你把我一个人丢在了半路 (深情版)	雨霖枫LYLF	1	34	雨霖枫	kugou	ok
+无泪的遗憾	BEYOND	1	34	刘卓辉	kugou	ok
+宜居星球	王以太、艾热AIR	1	34	王以太、艾热AIR	kugou	ok
+知我 (宁姚)	谭渊	1	34	谭渊	kugou	ok
+Montagem Nada 3	Trispect	1	34		netease	instrumental
+Proof (Slowed)	GOLD999	1	34			missing
+Sinos De Natal	MGD、MXZHPHXNK	1	34	Nguyen Van Manh	kugou	ok
+シンカ	Ado	1	34	ユリイ・カノン	netease	ok
+就是这么牛	吴子澜	1	35	叶圣涛	kugou	ok
+夢我夢中	夢限大みゅーたいぷ、ケンモチヒデフミ	1	35	ケンモチヒデフミ	netease	ok
+敏感肌	ICE杨长青	1	35	ICE杨长青	qq	ok
+年轻人的一生（Intro）	法老	1	35	法老	netease	ok
+普照	CigarHan、二流	1	35	CigarHan、二流	netease	ok
+若如初见	失语海、覃心晨	1	35	失语海	netease	ok
+是否我真的一无所有	王杰	1	35	陈乐融	qq	ok
+我在等你	沐乐团	1	35	摘自《我藏不住秘密、也藏不住忧伤》	kugou	ok
+下头	张方钊	1	35	张方钊	kugou	ok
+相思遥	郭雨昂	1	35	谢皮皮、星牌	kugou	ok
+像梦一样自由	汪峰	1	35	汪峰	kugou	ok
+Be My Lover	zoolor	1	35	zoolor	netease	ok
+Empty Love	Lulleaux、Kid Princess	1	35	Hugo Prick、Farid Mammadov、Ali Abasbeyli、Ellee Duke、Tony Esterly	kugou	ok
+爱的卑微不如转身 (深情版)	徐凤华	1	36	陈佑飞	kugou	ok
+不能成情人	鱼蛋	1	36	李明声	qq	ok
+从前以后PT.1 (Live)	盛宇D-SHINE	1	36	盛宇D-SHINE、KEY.L刘聪	qq	ok
+大地	BEYOND	1	36	刘卓辉	kugou	ok
+第二回合 (Live)	艾热AIR	1	36	艾热AIR	kugou	ok
+若梦	周深	1	36	王明毓	qq	ok
+王招君 (你看你拉住我的模样)	任素汐	1	36	任素汐	kugou	ok
+遐想	郑润泽	1	36	郑润泽	netease	ok
+嘘!	陈静琳	1	36	陈静琳	netease	ok
+一诺为家	铁痕电台-MSR、Miaa、CC	1	36	Miaa	netease	ok
+Pharaoh Is Like	法老	1	36	法老	netease	ok
+把回忆拼好给你	王贰浪	1	37	童子-T、Shingo.S	netease	ok
+不甘	弦子	1	37	原舟	kugou	ok
+关于孤独我想说的话	隔壁老樊_樊凯杰	1	37	隔壁老樊	kugou	ok
+红的 + NO HOOK FREESTYLE Pt.3 (永不重复第三部) (Live)	Rapeter	1	37	Rapeter吴嘉轩	qq	ok
+灰色童话	PearBae小梨、Top Barry	1	37	Pearbae小梨、Top Barry	netease	ok
+九子难养一娘	九澧阳哥	1	37	九澧阳哥	kugou	ok
+可坚强也是逼出来的 (深情版)	糖晓晓	1	37	雨霖枫	qq	ok
+Grey trails live on (尽情燃烧)	303Vib	1	37			missing
+Left Alone(Slowed)	MIKS、暗号	1	37	MIKS	netease	ok
+One Last Time	Ariana Grande	1	37	David Guetta、Giorgio Tuinfort、Savan Kotecha、Carl Falk、Rami Yacoub	kugou	ok
+わらわを俗世へ連れてって！	ファル公、篠崎あやと、大瀬良あい	1	37	ファル公	netease	ok
+疾行锐进 Swift Advance	HOYO-MiX	1	38		netease	instrumental
+没看见花	红手指	1	38	红手指	kugou	ok
+南风北巷	邵帅	1	38	邵帅	kugou	ok
+她是射手座	EMZJayce	1	38	EMZJayce	qq	ok
+我想这样和你一起生活	许飞	1	38	余秀华	netease	ok
+笑看人间	郭少杰	1	38	王月	kugou	ok
+缘似蜉蝣	沉虞CHENY	1	38	十二兄	kugou	ok
+Furious(GHETTO HOUSE)	BOY、chao	1	38		netease	instrumental
+G.T.R.	FiRe范艾迩、TizzyT、GALI、Capper、黄之仪Kyra Zilver	1	38	TizzyT、GALI、Capper、黄之仪Kyra Zilver	netease	ok
+불꽃 (火花)	高耀太	1	38	이용민	kugou	ok
+曾是拥有	BEYOND	1	39	黄家驹	kugou	ok
+伥	UDG Records、DD Ma Shawty	1	39	DD Ma Shawty	netease	ok
+成都	雷婷	1	39	赵雷	kugou	ok
+吹着秋风想起你 (深情对唱版)	戎大姨、刘书云	1	39	言若	kugou	ok
+赢-I always win	GAI周延	1	39	GAI周延	kugou	ok
+BADDY BADDY	Ave Mujica	1	39	Diggy-MO’	netease	ok
+Diamonds (Album Version)	Rihanna	1	39	Sia Furler、Benjamin Levin、Mikkel Eriksen、Tor Hermansen	kugou	ok
+In The Shadow	MGL	1	39		netease	instrumental
+Sunlight In The Rain	石衍恺	1	39	石衍恺	netease	ok
+不露声色	Jam	1	40	Jam	kugou	ok
+九尾狐 (你为我挡下鲁班的钉)	张小花	1	40	安玥儿	kugou	ok
+琵琶行	奇然、沈谧仁	1	40	白居易	qq	ok
+时	杨润泽、时光代理人	1	40	鱼麦扣	qq-search	ok
+时光一晃又是一秋 (现场版)	烟嗓船长、Suxiao	1	40	未子夫	kugou	ok
+再见理想	BEYOND	1	40	黄家驹、叶世荣、黄家强、黄贯中	kugou	ok
+Boss Area	VVSER	1	40		netease	instrumental
+Stronger (What Doesn't Kill You)	Kelly Clarkson	1	40			missing
+Wish u never	TF_ING张子墨、Top Barry	1	40	TF_ING张子墨、Top Barry	kugou	ok
+寸寸相思寸寸伤	魏佳艺	1	41	齐眉儿	kugou	ok
+叹云兮	鞠婧祎	1	41	郭德紫毅	qq	ok
+晚安	颜人中	1	41	陈志杰	netease	ok
+维他命D Vitamin D (feat.马思唯)	艾维斯Evis、马思唯	1	41	王洋EVIS、马思唯Masiwei	qq	ok
+我的宣言 (只知道是时候拿着鲜花)	南木碎碎唱	1	41	陈咏谦	kugou	ok
+昨夜风今宵月	庄淇玟29	1	41	姜洄	kugou	ok
+MONTAGEM PARA SLAP	花柚Flower、棍圣、Paperman、LumynX	1	41	花柚Flower、棍圣、Paperman、LumynX	netease	ok
+My Oh My	Aqua	1	41			missing
+Soft Alone	Ricor、GOLD999	1	41	Ricor、GOLD999	netease	ok
+ZigZag	早安	1	41	早安	kugou	ok
+야간비행 (feat. 레이첼 야마가타) (夜间飞行)	MC Sniper (MC 스나이퍼)、레이첼 야마가타	1	41	Rachael Yamagata、MC 스나이퍼	qq	ok
+嘿陈会计 (Live)	Rapeter	1	42	Rapeter吴嘉轩	kugou	ok
+幻影（Phantom Remix)	Osama	1	42		netease	instrumental
+就让这大雨全都落下 (深情版)	郑润泽	1	42	汪苏泷	qq	ok
+旅行	许巍	1	42	许巍	kugou	ok
+我想一个人呆一呆	XMASwu吴骜	1	42	XMASwu吴骜	qq	ok
+小镇姑娘	李瑨瑶	1	42	陶喆	kugou	ok
+雪下的时候	乔佳旭	1	42	乔佳旭	kugou	ok
+一情一别一故人	加木措	1	42	加木措	kugou	ok
+跃龙门	SharkOne	1	42	SharkOne	netease	ok
+Love Me Like You Do	Ellie Goulding	1	42	Max Martin、Savan Kotecha、Ilya Salmanzadeh、Ali Payami、Tove Nilsson	kugou	ok
+Petrichor	void (Mournfinale)	1	42	void	netease	ok
+Santa Baby	aespa、Eartha Kitt	1	42	Joan Javits、Philip Springer	kugou	ok
+爱我别走	张震岳	1	43	张震岳	kugou	ok
+等我的心凉透	天雯	1	43	崔文红	kugou	ok
+连烦恼也融入天空	塞壬唱片-MSR、F.L.O.A.T (白羽）、张晶	1	43		netease	instrumental
+牌子货-Luxury	GAI周延	1	43	GAI周延	kugou	ok
+启程曲	赵一博	1	43	谢君研、袁景翔	netease	ok
+有缘无份2027	马健涛	1	43	马健南	kugou	ok
+众人拜月	兰音Reine	1	43	兰音Reine	netease	ok
+走马	摩登兄弟	1	43	陈粒	kugou	ok
+Call Me Now	Michael Calfan、INNA	1	43	C. LeRue、K. O’Connor、L. Hughes、M. Calfan、N. Audino、N.A. Curry	kugou	ok
+Sorry But	XMASwu吴骜	1	43	XMASwu	qq	ok
+Yellow Rain	Oliver Jiang	1	43	Oliver Jiang	netease	ok
+那个女孩	李耀阳	1	44	张泽熙	kugou	ok
+失余年 (续沈园外)	尹昔眠、孙鹏凯	1	44	木一味、沈淦	kugou	ok
+双子 FT· PearBae小梨	BOBBYNOPEACE、PearBae小梨	1	44	BOBBYNOPEACE、PearBae小梨	netease	ok
+太在乎会受伤	Cxrr	1	44		netease	instrumental
+万里长风	周深	1	44	毕磊	kugou	ok
+有你爱就明媚	Fozik佛子克	1	44	Fozik佛子克	netease	ok
+又一次	脏饼干	1	44	脏饼干	qq	ok
+织于雾中的吟咏 Whispers Woven in Mist	HOYO-MiX	1	44		netease	instrumental
+指纹	胡歌	1	44	周剑光	qq	ok
+Trouble Maker (麻烦你了)(Live)	那奇沃夫、Yamy郭颖	1	44	那奇沃夫、Yamy郭颖	kugou	ok
+We Never Slap	NIKO X	1	44	NIKO X	netease	ok
+강남스타일 (Gangnam Style)	PSY	1	44	싸이	kugou	ok
+东风破	周杰伦	1	45	方文山	qq	ok
+飞行随笔	FOX胡天渝	1	45	福克斯、Ice Paper	qq	ok
+卦	南征北战NZBZ	1	45	王梓同	kugou	ok
+免我蹉跎苦	黄龄	1	45	自游诗、学松	kugou	ok
+天井の街	GROTESQQQUE、Reol、水槽	1	45	Reol、水槽	qq-search	ok
+弯弯的月亮 (男女对唱版)	石头组合	1	45	李海鹰	kugou	ok
+小苹果	筷子兄弟	1	45	王太利	kugou	ok
+GMM	CHILLSENONE	1	45	CHILLSENONE	netease	ok
+Marry	Top Barry、INDEcompany	1	45	Top Barry	netease	ok
+Muse	Lumi	1	45	Lumi	netease	ok
+삐그덕 (Feat. 아이유) (seesaw)	Crush (크러쉬)、IU (아이유)	1	45	Crush	qq	ok
+春日序曲	刘宇	1	46	林木田	kugou	ok
+槐花槐花慢慢开	韩聚宝	1	46	一泰	kugou	ok
+救赎(原来我们内心深处一样孤独)	伊伊、霓刺、阴雨天	1	46	伊伊、阴雨天	netease	ok
+空余恨	周深深	1	46			missing
+千里之外	周杰伦、费玉清	1	46	方文山	qq	ok
+王牌加冕	无限王者团、万象频道 Omniverse Audio、王者荣耀	1	46	栗稚子、Jacob Aaron	kugou	ok
+中国热	UDG Records、Hidoyard	1	46	Hidoyard	netease	ok
+周旋 (Live)	艾热AIR	1	46	艾热AIR	qq	ok
+Fever Pitch	灰蒙蒙、VOLT	1	46			missing
+Salt	Ava Max	1	46	Amanda Ava Koci、Henry Walter、Autumn Rowe、Madison Love、Nicole Morier	kugou	ok
+Turning Around（余烬重燃）	鸣潮先约电台、Grabbitz	1	46	Grabbitz	netease	ok
+尘外客	鸣潮先约电台、蔡明希（不才）、宫阁	1	47	栗稚子	netease	ok
+恋恋不忘	刘宇	1	47	陈可心	qq	ok
+笼中鸟	AZ啊之、姜云升	1	47	AZ啊之、姜云升	qq	ok
+七月上	Jam	1	47	Jam	kugou	ok
+人间一趟皆自由	张景华	1	47	初山人	kugou	ok
+逍遥客	沧海一舟	1	47	孟大C	kugou	ok
+游山恋	崔天琪、韩晴	1	47			missing
+Digital Candy	鬼卞、Yoanko Futura	1	47	鬼卞、Yoanko Futura	kugou	ok
+The Hopes	veks	1	47	veks	netease	ok
+黎明到来前	AFA	1	48			missing
+溯 (Reverse)(feat. 马吟吟)	CORSAK胡梦周、马吟吟	1	48	CORSAK胡梦周	kugou	ok
+太晚了	风范、许风驰	1	48	风范、许风驰	qq	ok
+我不是你的宋冬野	刘大壮	1	48	林启得	kugou	ok
+相思遥	杨西音子	1	48	谢皮皮、星牌	kugou	ok
+雪色的再会 Snowy Reunion	HOYO-MiX	1	48		netease	instrumental
+自在（Free）	BUTON	1	48		netease	instrumental
+Bohemian Rhapsody (Remastered 2011)	Queen	1	48	Freddie Mercury	qq	ok
+DOWNTOWN BOSS	ICE杨长青、GALI	1	48	ICE杨长青、GALI	kugou	ok
+此生不换	en (王翊恩)	1	49	杨漩予	kugou	ok
+公寓	Yee	1	49	Yee	netease	ok
+贵州失恋日记	小何何	1	49	小何何	qq-search	ok
+苦茶子	Starling8、DRODUMANA、FIVESTAR	1	49	Starling8、FIVESTAR、DRODUMANA	netease	ok
+慢品人间烟火气 (微醺版)	涂一乐	1	49	郭伟文 MUSIC	kugou	ok
+年轮	张碧晨	1	49	汪苏泷	qq	ok
+去渡！	铁痕电台-MSR、Ceru_	1	49		netease	instrumental
+我想呼风唤雨	法老、泠风、杨秋儒、喉结蜥蜴	1	49	法老、泠风	qq	ok
+想把我唱给你听	老狼、王婧	1	49	小柯	kugou	ok
+醉人的秋天 (烟嗓版)	烟嗓青叔	1	49	林子祺Liam7	kugou	ok
+Meiyo to Songen	Sprnova	1	49	Nikita Ivanov	netease	ok
+Ready for War	夏之禹	1	49	夏之禹	kugou	ok
+Run Free (Original Mix)	Deep Chills、IVIE	1	49	Gianmaria Sanna、Sascha de Jong、Vilde Kjos Lie	qq-search	ok
+SQUARE	Poorghostgod、Kize、Trispect	1	49		netease	instrumental
+[classified]entity.dominion.turmoil	塞壬唱片-MSR、Denys Lyubimov.、迪悗、z1on、无糖宁宁子、ReStudio	1	50	Denys Lyubimov.	netease	ok
+东北民谣 (Live)	毛不易	1	50	毛不易	kugou	ok
+街头婚礼 (feat.KnowKnow)	周以希、KnowKnow、INDEcompany	1	50	周以希、KnowKnow	qq	ok
+你不是真正的快乐	五月天	1	50	五月天阿信	kugou	ok
+时差雨(Purple Rain)	BOBBYNOPEACE	1	50	BOBBYNOPEACE	netease	ok
+睡前别想太多 (氛围版)	奇衡三	1	50	李雨霏	kugou	ok
+同进退	倪浩毅	1	50	倪浩毅、今燃	kugou	ok
+我不想念	希林娜依高	1	50	汪苏泷	netease	ok
+我会记得你离开那天 (深情版)	林汝琴	1	50	陈佑飞	kugou	ok
+与世无争	Veco、MC派蒙	1	50	Veco、MC派蒙	netease	ok
+Chasing You	Paperman、TIC	1	50	Paperman、TIC	netease	ok
+REDRED	CORTIS	1	50			missing
+爱的供养	杨幂	1	51	于正	qq	ok
+不知义	法拉薇	1	51			missing
+晨星与海	异环10AM、長谷川育美	1	51	TMKJ	netease	ok
+第一滴泪	动力火车	1	51	许常德	kugou	ok
+丁香花 (女生版)	七元	1	51	唐磊	kugou	ok
+过滤棉	JBcob林泽贤、梅占峰	1	51	JBcob林泽贤、梅占峰、Ayan李子彦	netease	ok
+浆果	TINY7	1	51	TINY7	netease	ok
+脚印 (Live)	AThree	1	51	AThree	kugou	ok
+续写	单依纯	1	51	张靓	qq	ok
+在那天回不去的路上	薛之谦	1	51	门尼	kugou	ok
+SLOW MOTION (CASTLE. Remix)	Jonah Marais、Castle.	1	51			missing
+北京北京	汪峰	1	52	汪峰	kugou	ok
+风催雨	祝青（G2er）、灼夭	1	52	十满	kugou	ok
+够钟	周柏豪	1	52	冯曦妤	qq	ok
+婆娑	铁痕电台-MSR、Hyunmin Cho、seibin	1	52	EGGY	netease	ok
+如果的事	范玮琪、张韶涵	1	52	王蓝茵	netease	ok
+谁懂我笑容背后的伤 (深情版)	严秋怀	1	52	陈佑飞	kugou	ok
+我只能离开	颜人中	1	52	余竑龙	netease	ok
+幸福收场	高迪	1	52	尤雅琪	qq	ok
+I Still Miss You	Scarlette Laine、Dark Blues Dynasty	1	52	Dark Blues Dynasty	kugou	ok
+OC世界	花烬_Phoenix	1	52	花烬_Phoenix	netease	ok
+Something Just Like This	The Chainsmokers、Coldplay	1	52			missing
+WagWan (怎么说?)(Live)	AThree	1	52	AThree	kugou	ok
+不! (Live)	SHarK	1	53	SHarK米尔艾力	kugou	ok
+过敏	吴炳文	1	53	池舟、吴炳文	netease	ok
+花好月圆 (雷鬼版)	白兰的	1	53			missing
+旧日的足迹	BEYOND	1	53	叶世荣	kugou	ok
+落笔	张曦匀	1	53			missing
+晚风诉别离	闫东	1	53	王龙、尹子铭	kugou	ok
+我喜欢你与你无关	Joysaaaa	1	53	柳夕楉	kugou	ok
+Letters to me	長谷川育美	1	53	ジョキン	netease	ok
+party girl	s0rrow	1	53	s0rrow s0rrow	netease	ok
+Unstoppable	Sia	1	53	Sia Furler、Christopher Braide	kugou	ok
+春天里	汪峰	1	54	汪峰	kugou	ok
+梗 概pt.2	加木	1	54	加木	kugou	ok
+劫	黄霄雲	1	54	王明毓	kugou	ok
+你的姑娘	隔壁老樊_樊凯杰	1	54	隔壁老樊	kugou	ok
+前行路上 (人生需要自强)	陈小莺、柴东瓜	1	54	电白三爷、柴东瓜	qq	ok
+人心难测 (律动版)	谱曲者	1	54	33	kugou	ok
+桃花诺	G.E.M.邓紫棋	1	54	张赢	qq	ok
+予你	队长	1	54	唐思淼	netease	ok
+Brand New Sky (新世界的天空)	鸣潮先约电台、飞行雪绒	1	54	yocho、Feeling	netease	ok
+can‘t stop	BossWang、鱼头_killa4nia	1	54	Bosswang、鱼头_killa4nia	netease	ok
+Lost Control (feat. Bianca)	Tyron Hapi、Bianca	1	54			missing
+百分之一 (Live)	辉子	1	55	辉子、金剑GOLDENSWORD、赵山河、秃子2z	kugou	ok
+茶花开了	王睿卓	1	55	林晨阳	kugou	ok
+放下 (看淡)	河南三妹5233	1	55	雷娇娇	kugou	ok
+泪桥	伍佰 & China Blue	1	55	伍佰	kugou	ok
+南山南 (他说你任何为人称道的美丽)	半途兄弟	1	55	马頔	kugou	ok
+一半烟火 一半清欢	锦上	1	55	海星海星	kugou	ok
+遇到余生都是你 (遇你予你余你)	芃呈zy	1	55	芃呈	qq	ok
+缘分一道桥	王力宏、谭维维	1	55	方文山	qq	ok
+逐星河	铁痕电台-MSR、张申骋、原田萌喜	1	55			missing
+Believe in me	任性	1	55	任性	netease	ok
+EP07M08 银河铁道2999 FALSE MEMORY ver.	StJimmyL、Ryoma Maeda	1	55		netease	instrumental
+Shots (remix：Broiler)	Imagine Dragons、Broiler	1	55	Dan Reynolds、Wayne Sermon、Ben McKee、Daniel Platzman	kugou	ok
+江湖之间	曹雨航、朝歌夜弦	1	56	予词	qq	ok
+农民与土地 (Live)	薛之谦	1	56	成良、薛之谦	kugou	ok
+我把所有期待都放下 (伤感版)	莫清辞	1	56	雨霖枫	kugou	ok
+无翼鸟	吴垚滔（七月的星期七）	1	56	吴垚滔	kugou	ok
+一花一叶一菩提	零一九零贰	1	56	墨染	kugou	ok
+有些	蒋孜怡	1	56	李天阳	netease	ok
+Stray.wav (氛围SLOWED)	耳朵温柔乡	1	56		qq-search	instrumental
+Тысячу лет спустя	塞壬唱片-MSR、Julia Avrutskaia、Sterling Maffe	1	56	Sterling Maffe	netease	ok
+大花轿 (feat.火风)	张艺兴、火风	1	57	火风	kugou	ok
+定玄	鸣潮先约电台、黄霄雲、杨秉音	1	57	申名利	netease	ok
+姬和不如	隔壁老樊_樊凯杰	1	57	隔壁老樊	kugou	ok
+交个朋友 (Live)	弹壳、Mai	1	57	弹壳、麻雀sparrow	kugou	ok
+你错过我所有的温柔	李智宏	1	57	李智宏	kugou	ok
+怕什么	文艺探险家	1	57	文艺探险家	qq	ok
+晚安	麻园诗人	1	57	苦果	kugou	ok
+醒醒吧 (低音男版)	谱曲者	1	57			missing
+再等冬天(Memories)	h3R3	1	57	h3R3	netease	ok
+Abobo	李丁丁MIA AIM	1	57	李丁丁MIA AIM	netease	ok
+熬过风雪熬过冬天 (深情遗憾live版)	Allie艾梨	1	58	简一	kugou	ok
+定格	颜人中	1	58	张靓	qq	ok
+儿时	刘昊霖	1	58	唐映枫	kugou	ok
+那一别你眉轻抚	C.D、Cathy月月	1	58	祝子由	kugou	ok
+说不联系真的不联系	王娜	1	58	唐心语	kugou	ok
+我好想你 (Remix版)	77akei	1	58	吴青峰	kugou	ok
+午夜怨曲	BEYOND	1	58	叶世荣	kugou	ok
+Butterflies	Nohidea	1	58		netease	instrumental
+Forgive me	Chips、islandMadedatRiot	1	58	Chips、islandMadedatRiot	netease	ok
+别用泪交谈	陈小满	1	59	袖雨	kugou	ok
+痴情冢	云汐	1	59	沈永峰	kugou	ok
+故乡	许巍	1	59	许巍	kugou	ok
+亏欠	小u哈	1	59	猫九	kugou	ok
+时间中央	郁可唯	1	59	Bryan	qq	ok
+我在风中点了一根烟	风里微醺	1	59	海燕	kugou	ok
+鱼窥荷	封茗囧菌	1	59	昭懿	netease	ok
+这一生关于你的风景	弹棉花的小花	1	59	枯木逢春	kugou	ok
+Botsu 8	VOLT、Distress	1	59		netease	instrumental
+ED 记忆管理局2026	StJimmyL、Ray1-睿壹、小欣Xier	1	59		netease	instrumental
+RAINBOW (彩虹)(Live)	Vinz-T	1	59	Vinz-T徐赢	kugou	ok
+Way Back Home	SHAUN	1	59	이지혜、제이큐	kugou	ok
+爱上李白的酒多了杜甫的愁 (红尘酒馆live微醺对唱版)	7pastes、艾利office	1	60	乐小言	kugou	ok
+渡千关	文雯	1	60	文雯	qq	ok
+老娘自己爱自己 (微醺版)	蓝心雨	1	60			missing
+你是人间四月天	邵帅	1	60	解忧邵帅	kugou	ok
+心月辞·何所往	鸣潮先约电台、苏诗丁	1	60	吴姝霆、SmileL	netease	ok
+星赴	刘竞屿、熊艺文	1	60	大示	kugou	ok
+星月原野	一颗狼星	1	60	萧燃、一颗狼星	kugou	ok
+缘来梦intro	TCR9	1	60	TCR9	netease	ok
+早上坏	黄灿灿	1	60	小麻M.Refre$H	kugou	ok
+Dawn (黎明将至)	三角洲行动、Lithium Done	1	60	Jesse David、Harrison Boyd、Kiegan Jones	kugou	ok
+Lies (feat. Lana Del Rey)	Zach Bryan、Lana Del Rey	1	60	Zach Bryan	netease	ok
+18 (Live)	Top Barry	1	61	Top Barry	kugou	ok
+爱无罪	迪克牛仔	1	61	厉曼婷	kugou	ok
+怪我太平平无奇 (现场版)	烟嗓船长、KAI	1	61	未子夫	kugou	ok
+戒断 (BAD HABITS TONITE)	A2O MAY、A2O	1	61	苏恪、YOO YOUNG JIN	qq	ok
+Amore	ReoNa	1	61	Pan	netease	ok
+Growth	Lan	1	61	Lan	netease	ok
+Sinos De Funk（寒意轻扬）	WXH	1	61	WXH	netease	ok
+Vois sur ton chemin (DJ Holanda MONTAGEM CORAL Remix)	BENNETT	1	61	Christophe Barratier	kugou	ok
+驾鹤西去	裁缝铺	1	62	卢笛	kugou	ok
+谁伴我闯荡	BEYOND	1	62	刘卓辉	kugou	ok
+everscape	millsage	1	62	藤井健太郎	netease	ok
+I Took A Pill In Ibiza	Dark Funky	1	62	Michael Robert Henrion Posner	kugou	ok
+Superstar	Mandee、Maria Mathea	1	62	Joseph Belmaati、Mich Hedin Hansen、Remee Sigvardt Jackman	kugou	ok
+关山酒 (天命轻狂应似孤鸿游)	沉虞CHENY	1	63	Yoki	kugou	ok
+后来我们各奔东西	DJ铁柱	1	63	烟嗓铁柱	kugou	ok
+吉量	周深	1	63	谭淇尹	qq	ok
+千劫起，一念生	鸣潮先约电台、子弥	1	63	邪叫教主	netease	ok
+天亮没睡	余佳运、周震南、张星特	1	63	严晨嘉	kugou	ok
+栀子花开	何炅	1	63	吴娈	kugou	ok
+直到明天	朔时、鲨潜、诗岸	1	63	朔时、鲨潜	netease	ok
+Ngẫu Hứng	Hoaprox	1	63		kugou	instrumental
+Sam’s Vibe	Durand Bernarr	1	63	Durand Bernarr	netease	ok
+大地之盐	塞壬唱片-MSR、何美臻 (Min He)	1	64	何美臻	netease	ok
+光明	汪峰	1	64	汪峰	kugou	ok
+今天 (Live)	早安	1	64	早安	kugou	ok
+庐州月	许嵩	1	64	许嵩	qq	ok
+宿敌 (当恩怨各一半我怎么圈揽)	袁东野	1	64	叙白栖迟	kugou	ok
+我们慢慢变老心态一定要好(不知不觉我们慢慢变老)	沧桑小杰office	1	64	飙哥哥	qq	ok
+我要如何写自己	张艺迈	1	64	李小寒	kugou	ok
+在他乡	水木年华	1	64	卢庚戌	kugou	ok
+How long love u	SER	1	64	SER	netease	ok
+Whiplash	aespa	1	64	Leslie	kugou	ok
+飞回乌鲁木齐 (Live)	AThree	1	65	AThree	kugou	ok
+古风2026	一颗狼星、糯米Nomi、倪浩毅、指尖笑、草帽酱、执素兮、平生不晚、浅影阿	1	65	清彦、寞莫、伊子木木、侯波、Yoki、宋普照、崔恕、予词	kugou	ok
+金玉良缘	付雪	1	65	桐华	qq	ok
+匿名晚安	Max李玄、Mikey-18	1	65	Max李玄、Mikey-18	netease	ok
+农民	BEYOND	1	65	刘卓辉	kugou	ok
+其实雨也没多大	正在进行石女士	1	65	万豹	qq	ok
+山风山风等等我	万海东	1	65	王健美	kugou	ok
+骁	井胧、井迪	1	65	张汇泉、闫骁男、刘思情	kugou	ok
+屿你	翔屿、听潮阁	1	65	林意梵、Jackson陈俊凯	kugou	ok
+Double Wings	ASCA	1	65	辻井りと	qq-search	ok
+In Love	Galdive、刘恋	1	65	Tanisha Tishawiana Sadewo、Osvaldo Rio Nugroho Aritonang、Galdive、刘恋 Liu Lian	netease	ok
+凡常恩典	塞壬唱片-MSR、动点	1	66	塞壬唱片-MSR	netease	ok
+霏儿	李雨霏_晚饭	1	66	李雨霏	netease	ok
+好想好想	古巨基	1	66	琼瑶	qq	ok
+女儿国	张靓颖、李荣浩	1	66	仓央嘉措、杨洁、赵英俊	qq	ok
+欠父亲的话	赵雷	1	66	张畅、胡志敏、郭姿涵	kugou	ok
+倘若你爱一人	王唯旖	1	66	ปัณฑพล ประสารราชกิจ	netease	ok
+土坡上的狗尾草 (藏语版)	宫巴	1	66	宫巴、姜洄	kugou	ok
+锈 (我们两个都拉过勾)	江辰	1	66	江辰	netease	ok
+バカみたいに (Like an Idiot)	柿崎ユウタ	1	66	柿崎ユウタ	kugou	ok
+爱谁都差不多	正在进行石女士	1	67	宋普照	qq	ok
+步步	五月天	1	67	阿信	kugou	ok
+回头已经不是你	米拓果果	1	67	米拓果果	kugou	ok
+老夫老妻	刘佳宁	1	67	刘佳宁	kugou	ok
+梦幻诛仙	汪苏泷	1	67	汪苏泷	qq	ok
+清仙谣	鸣潮先约电台、win7mus、玄觞	1	67	紫梦知秋	netease	ok
+锁	灼夭	1	67	帘子、此木	kugou	ok
+我该说我想你 还是说天冷了	纸树章	1	67			missing
+我要你	任素汐	1	67	樊冲	kugou	ok
+Lasso The Moon	Ashe	1	67	Ashe、Noah Conrad、Casey Smith	netease	ok
+Strays (小黑)(Live)	早安	1	67	早安	kugou	ok
+We Never	Hi Noise	1	67	Rafael Diaz Duarte	kugou	ok
+二十岁的某一天 (Live)	花粥	1	68	花粥	kugou	ok
+给未来的自己	梁静茹	1	68	黄婷	qq	ok
+莫名其妙	陈奂仁、叶枫华	1	68	陈奂仁、叶枫华	kugou	ok
+清明雨上	许嵩	1	68	许嵩	qq	ok
+森林	Mr.	1	68	MJ	kugou	ok
+十个承诺九个哄 (现场版)	彭妃妃	1	68	音萌萌	kugou	ok
+叹云兮	阿YueYue	1	68	郭德紫毅	kugou	ok
+Closer	The Chainsmokers、Halsey	1	68	Andrew Taggart、Shaun Frank、Frederic Kennett	kugou	ok
+Green	Dept	1	68	Dept、Sonny Zero、clam	netease	ok
+Masterpiece	LNGSHOT	1	68	Cha Cha Malone、DUT2、RYUL of LNGSHOT、朴宰范、LOUIS、Sam Carter	netease	ok
+Pop	ILLIT (아일릿)	1	68			missing
+TearJerker	夢限大みゅーたいぷ	1	68	sabio	netease	ok
+The Best of All Days  纯音乐	博格达下是故乡	1	68		kugou	instrumental
+朝阳花开	高进	1	69	高进	kugou	ok
+难生恨	礼越	1	69	唐棣、小文	kugou	ok
+且看朝月覆千山	鸣潮先约电台、jixwang、庞雪倩	1	69	Xu Lai	netease	ok
+逝去日子	BEYOND	1	69	刘卓辉	kugou	ok
+修炼爱情	林俊杰	1	69	易家扬	qq	ok
+指尖缠绕	ZIV	1	69	Fozik佛子克、卫某人、池舟	netease	ok
+Brilliance (璀璨)(Live)	新秀	1	69	新秀	kugou	ok
+Fever Mode Sped	VGVT	1	69			missing
+此去半生	沉虞CHENY	1	70	九寸	kugou	ok
+和我一起逃离（run away with me）	TCR9、陶冶abouT-y	1	70	TCR9	netease	ok
+菊花台	周杰伦	1	70	方文山	qq	ok
+螺旋 - RASEN	9Lana	1	70	Sho from MY FIRST STORY、SAS、LOAR	qq-search	ok
+签名笔 (Live)	Rapeter	1	70	Rapeter吴嘉轩	kugou	ok
+日落归山海	诅咒之翼·Cursewing	1	70	诅咒之翼·Cursewing	netease	ok
+昔涟	张韶涵、HOYO-MiX	1	70	烧鸡、KBShinya、陆棠疏	qq	ok
+夏日随记	REGI陈彦希、王嗣尧TURBO	1	70	REGI陈彦希、王嗣尧TURBO	netease	ok
+小黄花	陕西牛犇	1	70	陕西牛犇	kugou	ok
+Écoute Chérie (聆听爱人)	Vendredi sur mer	1	70	Charline Mignot	kugou	ok
+不问ciaga (不问别离)	指尖笑	1	71	峦无眠	kugou	ok
+断桥残雪	许嵩	1	71	许嵩	qq	ok
+黄果兰 (Live)	Melo	1	71	Melo 墨龙	kugou	ok
+鳴らす	millsage	1	71	瀬名水紀	netease	ok
+那是你离开了北京的生活	薛之谦	1	71	薛之谦	qq	ok
+青玉恋 (戏腔版)	平生不晚	1	71	辛弃疾、阿楚	kugou	ok
+谁 (Live)	廖俊涛、毛不易、钟易轩	1	71	廖俊涛	kugou	ok
+天还是阴	Fozik佛子克	1	71	Fozik佛子克	netease	ok
+一个人习惯了冷清 (抒情版)	无弘毅	1	71	雨霖枫	kugou	ok
+约瑟夫的永恒园	第五人格、Vi-vibrato	1	71	Steven	netease	ok
+Joker	FREEMAN	1	71	FREEMAN	netease	ok
+50-Cent Disco	HSHK、VodKe	1	72			missing
+卜卦	周深深	1	72	赵英秀	kugou	ok
+海阔天空	信乐团	1	72	姚若龙	kugou	ok
+狂骑冲霄 (大提琴)	半生沧音	1	72		kugou	instrumental
+慢红尘 (微醺版)	江楠楠	1	72	酱一	kugou	ok
+梦话-Murmur	GAI周延	1	72	GAI周延	kugou	ok
+其实我已快要疯掉	MaiCoo.T	1	72			missing
+四块五	隔壁老樊_樊凯杰	1	72	隔壁老樊	kugou	ok
+微醺	阿怪	1	72	阿怪	netease	ok
+我只想你懂	颜安、刘思鉴	1	72	飞行少年	netease	ok
+ADDICTED	JISOO	1	72	Austin Wolfe、Tiina Vainikainen、JISOO	kugou	ok
+All Falls Down	Alan Walker、Noah Cyrus、Digital Farm Animals、Juliander	1	72	Pablo Bowman、Rick Boardman、Sarah Blanchard、Daniel Boyle、Nicholas Gale	kugou	ok
+Battleplan Obliteration	塞壬唱片-MSR、VANTA万塔、祝文越、F.L.O.A.T (白羽）	1	72	祝文越	netease	ok
+하루하루 (一天一天)	BIGBANG (빅뱅)	1	72	G-DRAGON	qq	ok
+白羊	徐秉龙、沈以诚	1	73	徐秉龙	kugou	ok
+大约在冬季	半吨兄弟	1	73			missing
+倒转洪流	塞壬唱片-MSR、BaoUner	1	73		netease	instrumental
+后来的我和你	高冷	1	73	高冷、许峰华	kugou	ok
+敬岁月一杯酒 (愿我们单身自在且洒脱)	魏佳艺	1	73	李园	kugou	ok
+临江仙	白鹿	1	73			missing
+为爱痴狂	文夫	1	73	陈升	qq	ok
+有梦想的人不悲伤	苏菲花园	1	73	宋楠	kugou	ok
+醉赤壁	林俊杰	1	73	方文山	qq	ok
+Axel F (Radio Edit)	Crazy Frog	1	73	Harold Faltermeyer	kugou	ok
+How Long	Charlie Puth	1	73			missing
+What you want (咋的)(Live)	Top Barry、ICE杨长青	1	73	Top Barry、ICE杨长青	kugou	ok
+光之战歌	赛小罗	1	74			missing
+南头古城	南山挺之	1	74	南山挺之	kugou	ok
+全速向光	橘光、橘望、江雨轩、名前桑	1	74	石磊1eon	netease	ok
+小胡同	郑润泽	1	74	郑润泽	netease	ok
+新武家坡2026	闫东	1	74	王龙、尹子铭	kugou	ok
+愉快地复仇 (Live)	早安	1	74	早安	kugou	ok
+怎叹	郑鱼	1	74	Listen Dream	qq	ok
+执着	许巍	1	74	许巍	kugou	ok
+Dancin (Krono Remix)	Aaron Smith、Luvli	1	74	S.Walker	kugou	ok
+爱上	刘宇宁	1	75	王耀光、张鹏鹏	kugou	ok
+爱上你我很快乐	水木年华	1	75	卢庚戌	kugou	ok
+爱是你的身旁我一直在	失眠玫瑰	1	75			missing
+归城 (Live)	辉子	1	75	辉子	kugou	ok
+凉州词 (Live)	苏阳	1	75	唐·王之涣、苏阳	kugou	ok
+聊表心意	薛之谦、刘惜君	1	75	薛之谦	qq	ok
+你的故乡是月球	法老、KnowKnow	1	75	法老、KnowKnow	netease	ok
+神の名を	Ave Mujica	1	75	Diggy-MO’	netease	ok
+天行九歌	霍尊	1	75	沈乐平	kugou	ok
+有人用一滴泪会红颜祸水	纸树章	1	75			missing
+走马	陈粒	1	75	陈粒	qq-search	ok
+Towards the Light	Jacoo	1	75		kugou	instrumental
+第一场雪落的时候	大欢	1	76	杨笑	kugou	ok
+给你	许飞	1	76	余秀华	netease	ok
+嘉豪 (Live)	RANZER叶润泽、黄旭	1	76	RANZER叶润泽、黄旭BooM	kugou	ok
+空空 (Live)	陈粒	1	76	陈粒	kugou	ok
+泪海（你怎么舍得让我的泪流向海）	橘子妹	1	76	季忠平、许常德	qq	ok
+菩提树下谁为你流泪 (菩提树下许无悔)	烟嗓老坂	1	76	烟嗓老坂	qq	ok
+牵你的手走到白头	晴川音	1	76			missing
+脱发的英雄	金志文	1	76	金志文	kugou	ok
+鲜花 (Live)	回春丹乐队	1	76	刘西蒙	kugou	ok
+Period	iri	1	76	iri	qq-search	ok
+R. (Single)	李子豪(HtFR)	1	76	李子豪、Dee、大喜	netease	ok
+Welcome To New York	Taylor Swift	1	76	Taylor Swift、Ryan Tedder	qq-search	ok
+爱的初体验	张震岳	1	77	张震岳	kugou	ok
+安安-Good Trip	GAI周延	1	77	GAI周延	kugou	ok
+空心 (电音Remix)	满天星尘	1	77			missing
+千百度	许嵩	1	77	许嵩	qq	ok
+去北极忘记你	Gareth.T	1	77	易家扬	netease	ok
+人生总是后知后觉 (忧郁氛围)	机灵妹、猫与苔	1	77			missing
+骰子人生	Spylent	1	77	Spylent	netease	ok
+雪少年	礼越	1	77	Sus	qq	ok
+以为看破偏偏回首	庄众	1	77	北风阿驰	kugou	ok
+战士与苍蝇	法老	1	77	法老	netease	ok
+Not My Paradiso	Mili	1	77	Cassie Wei	netease	ok
+2 MANY (Live)	刘耀文	1	78	Capper、刘耀文	kugou	ok
+春庭雪	邓寓君(等什么君)	1	78	清彦	qq	ok
+凡心向喜	铁痕电台-MSR、z1on	1	78		netease	instrumental
+父亲的散文诗	徐俊雅	1	78	董玉方	kugou	ok
+江湖梦 (男女对唱版)	鸾音社	1	78	周林枫	kugou	ok
+让老年人去上班	宋盐球	1	78	郭伟文	qq	ok
+时间会回答	4800hz	1	78			missing
+痛哭的人 (Live)	伍佰 & China Blue	1	78	伍佰	kugou	ok
+Gentleman	PSY	1	78	PSY	kugou	ok
+Letting Go (我来，因为你在 演唱会 Live Version)	那英、蔡健雅	1	78	蔡健雅	kugou	ok
+不停的 (Live)	Top Barry	1	79	Top Barry	kugou	ok
+大足龙水	左良甫、Bphone大艺术家	1	79	左良甫	netease	ok
+剑心	张杰	1	79	段思思	qq	ok
+情人	BEYOND	1	79	刘卓辉	kugou	ok
+十一月的雨	永冬Winter4ever、Natsuko	1	79	永冬Winter4ever、Natsuko	netease	ok
+受过的伤怎么才能遗忘 (我曾以为时间能帮我忘)	小玉儿音乐	1	79	陈佑飞	kugou	ok
+遥远的你	221小伙伴	1	79	王明明、李亚然	kugou	ok
+Butterfly	SMiLE.dk	1	79			missing
+Finest Thing	RESCENE (리센느)	1	79	이주헌、더풀킴	qq	ok
+かわいくない	『ユイカ』	1	79	『ユイカ』	netease	ok
+后会无期	G.E.M.邓紫棋	1	80	韩寒	netease	ok
+慢冷	梁静茹	1	80	姚若龙	qq	ok
+梦幻诛仙	张碧晨	1	80	汪苏泷	qq	ok
+若梦 (狼星版)	一颗狼星	1	80	王明毓	kugou	ok
+谁 (男女扎心合唱)	梨子芥菜、戚悦	1	80	曾至锋	kugou	ok
+问爱	Yamy郭颖	1	80	Yamy郭颖	kugou	ok
+我把眼泪酿成酒	静心	1	80	静心	kugou	ok
+我还在树下等一个人	陆虎	1	80	星牌、陆虎	netease	ok
+无尽空虚	BEYOND	1	80	黄家驹	kugou	ok
+心愿吟	鸣潮先约电台、小时姑娘、沐可Linda	1	80	沐可Linda、胡不熊	netease	ok
+以朋友的借口	日落超熏	1	80	JTJ、王保长	kugou	ok
+再见	G.E.M.邓紫棋	1	80	G.E.M.邓紫棋	qq	ok
+Shining with Me	宣淏	1	80	赵以白	netease	ok
+Walk Thru Fire	Vicetone、Meron Ryan	1	80			missing
+백화요란 (Inside Out)	RESCENE (리센느)	1	80	이주헌、더풀킴、airy、ORiJiN	qq	ok
+当世界年纪小	任素汐	1	81	唐恬	qq	ok
+爹有娘有难开口 (你一定要为自己争气)	方茹茹、飙哥哥	1	81	诚子	kugou	ok
+风的季节	Soler	1	81	汤正川	kugou	ok
+風の中は走るっきゃないっ！	三月のパンタシア	1	81	みあ、の子	qq-search	ok
+回到你身边 (让你知道)	h3R3刘清云	1	81	h3R3刘清云	kugou	ok
+敬往事杯中沉浮 (岁月留遗憾)	阿美呀、刘阳阳、灯叔	1	81	战十七	kugou	ok
+空	徐海俏	1	81	徐海俏、王勺子	kugou	ok
+那片海没你	蔡鹤峰	1	81	刘嘉言、杨一周	netease	ok
+忘了吗忘了吧	张颜齐、姚晓棠	1	81	付傲杰、张云淡	kugou	ok
+走卒 (京韵戏腔版)	灵儿很灵	1	81	姚立城	kugou	ok
+Chasing Tonight	NVGUI	1	81	The Jumper	netease	ok
+Moth To A Flame	Swedish House Mafia、The Weeknd	1	81	Abel Tesfaye	kugou	ok
+冲开一切	BEYOND	1	82	黄贯中	kugou	ok
+辞九门回忆	邓寓君(等什么君)	1	82	虫二颠	qq	ok
+奉上	刘宇宁	1	82	林乔	kugou	ok
+那个女孩	张泽熙	1	82	张泽熙	kugou	ok
+千纸鹤	P2Y、弗洛·文尔、小宝福诺	1	82	P2Y、弗洛·文尔	netease	ok
+无条件为你	梁静茹	1	82	张天成	qq	ok
+Agitato	初星学園	1	82	Ryo'LEFTY'Miyata	netease	ok
+Let Go	Beau Young Prince	1	82	Beau Young、Jaimy Lageweg	kugou	ok
+RIA	艾热AIR	1	82	艾热AIR	kugou	ok
+千年 (宿命版)	阿YueYue	1	83	廖羽、和汇慧	kugou	ok
+温蒂公主的侍卫	告五人	1	83	潘云安	kugou	ok
+温柔	堃堃	1	83		netease	instrumental
+无法了解的你	陈妍希、早安	1	83	陈妍希	kugou	ok
+小熊	金志文	1	83			missing
+寻一个你	刘宇宁	1	83	占逸君	qq	ok
+Ghost in the Summer 仲夏之灵	ProN4c、4dv*	1	83	ProN4c、4dv*	netease	ok
+Reborn	Girls Archives.	1	83	Gom、shito、YHEL	netease	ok
+Wrap Me In Plastic	CHROMANCE	1	83	Daniel France Stanfill、Johannes-Chane Becker、Marcus Layton	qq-search	ok
+光亮	周深	1	84	苏轼、苟璘	qq	ok
+敬往事一杯 (皆是遗憾)	王一佳	1	84	李俊佑	kugou	ok
+浪漫爱	江语晨	1	84	潘玮柏	qq	ok
+冷雨夜	BEYOND	1	84	黄家强	kugou	ok
+人儿啊请慢下来	石满仓	1	84	之昂张	qq	ok
+如果累了就回故乡 (微醺版)	落日微醺	1	84	卅卅	kugou	ok
+三叩首	鸣潮先约电台、阿萨Aza	1	84	赵素冰、LEONAKA	netease	ok
+神笔马良 (Live)	Melo	1	84	Melo 墨龙	kugou	ok
+童年	罗大佑	1	84	罗大佑	kugou	ok
+吻痕(after kiss)	中国尤物、亚泪亚泪	1	84	中国尤物、亚泪亚泪	netease	ok
+我要如何写自己 (撕裂女)	霞二姨	1	84	李小寒	kugou	ok
+逍遥叹	沈以诚	1	84	陈宇任	kugou	ok
+背影	赵雷	1	85	赵雷	kugou	ok
+卜卦	佳艺	1	85	崔恕	kugou	ok
+凌晨三点	陈硕子	1	85	陈硕子	netease	ok
+日落大道	梁博	1	85	梁博	kugou	ok
+生死相随	崔子格、杨培安	1	85	崔恕	qq	ok
+岁月可否放过我	上官景儿	1	85	李岸	kugou	ok
+星海	王之全	1	85	王之全	netease	ok
+HUA YU	Mili、塞壬唱片-MSR	1	85	Cassie Wei	netease	ok
+NewJazzFarmer	王一珩OneSD	1	85	王一珩OneSD	kugou	ok
+Star Unkind (Lanfranchi & Farina Remix)	2Someone	1	85	G Sinatra、C. Raffaele、L. Lento、Vincenzo Callea	kugou	ok
+壁上观 (边水版)	七元	1	86			missing
+旧火重燃	铁痕电台-MSR、Alec Justice、Keep Close、Chapters	1	86	Luke Shrestha、Simon Jay、Cody Matthew Johnson	netease	ok
+你	郑润泽	1	86	郑润泽	netease	ok
+如果最后不是你	吴琳Lin	1	86	周洁颖	kugou	ok
+山水之间	许嵩	1	86	许嵩	qq	ok
+思念的声音	尹昔眠	1	86	十二兄	qq	ok
+碎片	黄稔钦、滇声气大辉Daphe、AFF	1	86	黄稔钦、滇声气大辉Daphe、AFF	netease	ok
+余香	张小九	1	86	卡夫	kugou	ok
+RTTT	鹭卓	1	86	鹭卓	kugou	ok
+Underground	Lindsey Stirling	1	86		kugou	instrumental
+WE LIKE 2 PARTY	BIGBANG (빅뱅)	1	86	TEDDY、KUSH、G-DRAGON、T.O.P	qq	ok
+Её парень	Shluzov	1	86	Павлов Артём Владимирович	netease	ok
+不必太懂事 (偶尔也放肆)	蓝心雨	1	87	Mr. 阿童木	kugou	ok
+风的来信 A Letter From the Wind	HOYO-MiX、孙晔	1	87	三宝 Bao、何小熊 Xiaoxiong He	netease	ok
+加州旅馆 (Live)	Eagles	1	87			missing
+两个人的剧场	莫智钦	1	87	莫智钦	qq	ok
+破镜难重圆	Prime	1	87	Prime	netease	ok
+秋风一吹又老一岁 (女版烟嗓)	微醺森林	1	87	花魁魁	kugou	ok
+十九岁	赵雷	1	87	赵雷	kugou	ok
+我不想错过你	烟嗓阿文	1	87	岁月静美	kugou	ok
+一见如故	许嵩	1	87	许嵩	kugou	ok
+游梦	邹沛沛	1	87	赵以白	netease	ok
+BING BONG TOKYO (Flip Mix|Explicit)	DJariium	1	87			missing
+Surprise (惊喜)(Live)	早安	1	87	早安	kugou	ok
+Titanic x My Heart Will Go On (Summer Version)	LaBack、Alexis Carlier	1	87	Will Jennings	qq	ok
+爱不爱我	零点乐队	1	88	零点乐队	kugou	ok
+爱情的故事	冷漠	1	88	王建青	kugou	ok
+爱人	莉莉周她说 Lily Chou-Chou Lied	1	88	莉莉周她说 Lily Chou-Chou Lied	kugou	ok
+歌曲：别来无恙	任素汐、毛不易	1	88	临渡、任素汐、许明明	kugou	ok
+借过一下	周深	1	88	唐恬	kugou	ok
+瞬息甜味（Sugar Time）	战双帕弥什、沐可Linda	1	88	沐可Linda	netease	ok
+我该怎么好好地活	DJ铁柱	1	88	烟嗓铁柱	kugou	ok
+一次比一次平静	庄心妍	1	88	庄盐盐	qq	ok
+Nobody‘s Princess (5 Years Later)	Fehra	1	88	Fehra	netease	ok
+不剩	安眠巫师	1	89	安眠巫师	netease	ok
+带我去找夜生活	告五人	1	89	潘云安	kugou	ok
+焦灼	太泽希恩TimeTheCion	1	89	太泽希恩TimeTheCion	netease	ok
+晚枫歌	孟子坤	1	89	刘畅	qq	ok
+小看我了 (Live)	布瑞吉Bridge	1	89	布瑞吉Bridge	kugou	ok
+信仰 (心碎女声)	ProdbyMend、王若遐	1	89	易家扬、陈耀川	kugou-search	ok
+行歌	王者荣耀、刘宇宁	1	89	王乙庆	kugou	ok
+雨停之前	袁小葳	1	89	今燃	qq	ok
+只能认命流眼泪	庄众	1	89	北风阿驰	kugou	ok
+Breathe	kenzie	1	89	Mckenzie Ziegler	kugou	ok
+Lily Grace  - Instrumental	鸣潮先约电台、Aurora Sky、Lucien X	1	89	Oil Li	netease	ok
+Not This Day	WARM HOUSE.	1	89	WARM HOUSE.	netease	ok
+别哭(don't cry)	allenvee	1	90		netease	instrumental
+当我想你的时候	汪峰	1	90	汪峰	kugou	ok
+够够 (Live)	Vinz-T	1	90	Vinz-T徐赢	kugou	ok
+莫问归期	蒋雪儿Snow.J	1	90	刘涛、堇临	qq	ok
+牧马城市	轻烟大叔	1	90	段思思	qq	ok
+你不应该权衡利弊	戎大姨	1	90	宋友诚	qq	ok
+青春无极限	善宇	1	90	林月花	kugou	ok
+长安姑娘 (红尘来去散无痕)	唐伯虎Annie	1	90	谭若龙	kugou	ok
+种下两棵菜（DTR）	Luts	1	90	罗江晨	netease	ok
+GO GHOST	King Gnu	1	90	常田大希	qq-search	ok
+Shivers	Rachel Platten	1	90	Rachel Platten、Sean Douglas、Jason Evigan	kugou	ok
+好好珍惜眼前时光 (深情版)	鱼在水里哭	1	91	陈佑飞	qq	ok
+回应	SORROW	1	91	SORROW、代乐成	netease	ok
+敬风敬雨敬自己	拖鞋pd	1	91			missing
+就是哪吒	唐汉霄	1	91	王竞、唐汉霄、朱婧汐	kugou	ok
+天高地厚	信乐团	1	91	武雄	kugou	ok
+雾里	姚六一	1	91	姚六一	kugou	ok
+心中的日月	王力宏	1	91	陈宇任	qq	ok
+星	女王蜂	1	91	薔薇園アヴ	qq-search	ok
+Boogie Woogie	NCT DREAM (엔시티 드림)	1	91	주원、재민	qq	ok
+천국 (天国)	BIGBANG (빅뱅)	1	91	G-DRAGON	qq	ok
+给我一个理由忘记	A-Lin	1	92	邬裕康	qq	ok
+几时返When (Live)	Yamy郭颖	1	92	Yamy郭颖	kugou	ok
+加州旅店 (Live)	Eagles	1	92	Don Felde、Glenn Fre、Don Henley	kugou	ok
+凉凉	杨宗纬、张碧晨	1	92	刘畅	qq	ok
+梅花泪 (轻柔版)	郭津彤	1	92	刘海东	kugou	ok
+思念藏在每个梦里 (伤感版)	糖晓晓	1	92	雨霖枫	kugou	ok
+熄灭	TC	1	92	TC	netease	ok
+笑看人间	河南三妹5233	1	92	王月	kugou	ok
+心鬼	李学仕、Kibee	1	92	李学仕	netease	ok
+一宵同尘，灯月长圆	鸣潮先约电台、TLK天翔、Lorien	1	92	紫梦知秋	netease	ok
+雨夜轨迹	TCR9、澄海伯伯、陈奕楠	1	92	TCR9、澄海伯伯、陈奕楠	netease	ok
+张桂珍（窗外的桂花开）	SUS.	1	92	SUS.	netease	ok
+BABYDOLL (Speed)(Explicit)	Ari Abdul	1	92	Arianna Abdul、Isabel LaRosa、Thomas LaRosa	kugou	ok
+冰红茶-Ice Tea	GAI周延	1	93	GAI周延	kugou	ok
+初来人间不知苦	怪阿姨	1	93	王可以	kugou	ok
+反季节	博仔LIT	1	93	袁绎博	netease	ok
+情人	杜德伟	1	93	于光中、林健华	qq	ok
+熔点重铸	塞壬唱片-MSR、BaoUner	1	93		netease	instrumental
+神明之祈	格雷西西西	1	93	张在北	kugou	ok
+我想要占据你	告五人	1	93	告五人、云安	kugou	ok
+无法长大	赵雷	1	93	赵雷	kugou	ok
+笑看人间	花姐	1	93	王月	kugou	ok
+DEFY THE MOMENT (时局由我)	三角洲行动、Mari Cray	1	93	Max Maier、Felix Wunderer、Mari Cray	qq	ok
+KiKi	Firelit火升	1	93	Firelit火升	netease	ok
+Stray.wav	$uNDOWN	1	93	Braden Isom	netease	ok
+Take Me to Infinity	Consoul Trainin	1	93	John Efthymiou	kugou	ok
+爱不讲理	一只白羊	1	94	周娇娇	kugou	ok
+可乐	陈小虎	1	94	陈小虎	kugou	ok
+浪人琵琶	胡66	1	94	单色凌	qq	ok
+明明就	周杰伦	1	94	方文山	qq	ok
+如果我们不曾相遇	五月天	1	94	阿信	kugou	ok
+檐下雨落无故人	GT6RS	1	94			missing
+永生花	Roxa	1	94	Roxa	netease	ok
+自述ver.II	烟花燕QianSYp、暗の星-Annohoshi、萌葱若叶、艾莉Anicca	1	94	烟花燕QianSYp	netease	ok
+Dear D (亲爱的告诉你)	项睿娴	1	94	项睿娴	netease	ok
+Do your thing (独善其身)(Live)	Vinz-T	1	94	Vinz-T徐赢	kugou	ok
+I AM WHO I AM	RAISE A SUILEN	1	94	織田あすか	netease	ok
+Ocean of Farewell, Pt. 2	MaiDen Creators	1	94		kugou	instrumental
+错在我	小贤	1	95	董志辉	kugou	ok
+多情种	徐泽（要不要买菜）	1	95	刘旭阳	kugou	ok
+过客之名归还人海	张一烁	1	95	张一烁	qq	ok
+阶段性自由	安扬	1	95	安扬	kugou	ok
+猫じゃらし	7co	1	95	芦田菜名子	qq-search	ok
+夏日售罄	坤木Joymo	1	95	坤木Joymo	netease	ok
+一点归鸿 (浅影版)	浅影阿、汐音社	1	95	菟丝子	kugou	ok
+在雨中	汪峰	1	95	汪峰	kugou	ok
+醉千年	顾小洁	1	95	李俊佑	kugou	ok
+Blinding Lights	The Weeknd	1	95			missing
+DAMIDAMI	Sihan、三Z-STUDIO、HOYO-MiX	1	95	Lyla P.、Sihan、Nellie Fors、SmileL、Nanyan P、Zilan Li	qq	ok
+Lost	满舒克、Jony J	1	95	满舒克、Jony J	netease	ok
+Lucky Charm	WE GO-6	1	95			missing
+Someone to Hold (from the Netflix Film "Steps")	JENNIE (제니)	1	95	Justin Tranter、Jason Gill、Julia Michaels	qq	ok
+布道人	塞壬唱片-MSR、z1on、ReStudio	1	96	z1on、ReStudio、MSR Studio	netease	ok
+船锚	于适	1	96	于适	kugou	ok
+到时说爱我	茜拉	1	96	小寒	netease	ok
+风儿吹着落日走	失眠玫瑰	1	96	失眠玫瑰	qq	ok
+可否冲破	BEYOND	1	96	詹德茂	kugou	ok
+千年 (回忆版)	七元	1	96	廖羽、和汇慧	kugou	ok
+青丝	时光胶囊	1	96	徐东徽、孙义勇	qq	ok
+我还能用青少年的理由再痛苦几年	千禧年之子VvVv！	1	96	千禧年之子VvVv！	netease	ok
+想你的雪花落满人间	烟熏大叔	1	96	邓雨鸿	kugou	ok
+小人物 (Live)	辉子	1	96	辉子	kugou	ok
+小行迹	赵雷	1	96	赵雷	kugou	ok
+心空泪盼 (粤语版)	雾未尽	1	96			missing
+Slow Down	Madnap、Pauline Herr	1	96	Pauline Herr、Kyle Fitzgibbons	kugou	ok
+等你的季节	刘诗诗	1	97	严艺丹	kugou	ok
+干杯	五月天	1	97	阿信	kugou	ok
+宫花红	平生不晚、汐音社	1	97	古诗集句、吴斯	kugou	ok
+何必相逢	李雨霏	1	97	李雨霏	qq	ok
+泣鸟	M3mo	1	97		netease	instrumental
+唯你而来 (热门纯享版)	DD小鑫	1	97			missing
+想你想到疯 (上岸进行曲版)	拖鞋pd	1	97			missing
+夜のダンス、しよう！	东埋	1	97	东埋	netease	ok
+谪仙	伊格赛听、叶里	1	97	王莹	qq	ok
+Calling My Phone	Lil Tjay、6LACK	1	97			missing
+Club Music (俱乐部音乐)(Live)	那奇沃夫	1	97	那奇沃夫	kugou	ok
+Ender Ember	MYTH & ROID、TK from 凛として時雨	1	97	MYTH、ROID	netease	ok
+静音恋人 (两颗缠绕的心)	礼越	1	98	李临阅	netease	ok
+莫问归期	唐伯虎Annie	1	98	刘昊霖、堇临	kugou	ok
+难却	平生不晚	1	98	Cyan	qq	ok
+山海不说话 (我路过山 山不说话)	陳鴨梨Charlie	1	98	清让	qq	ok
+誓言输给了时间	刘书云	1	98	艾洛嫣	kugou	ok
+天天忙上班 (天天搬砖)	歪歌闲曲	1	98			missing
+无地自容	黑豹乐队	1	98	窦唯	kugou	ok
+Serum 血清	Conny-Blexsel（赵宇航）、卡米基	1	98	Conny-Blexsel、卡米基	netease	ok
+UP IT	刘耀文	1	98	NotPuku	kugou	ok
+Vermilion	铁痕电台-MSR、BLACK 0、明家歆、Ceru_	1	98	Ceru_	netease	ok
+짧은 치마 (MINISKIRT) (短裙)	AOA (에이오에이)	1	98	용감한 형제、차쿤	qq	ok
+캐치 캐치	YENA	1	98	서정아、네이슨	kugou	ok
+壁上观	邓寓君(等什么君)	1	99	小六	kugou	ok
+宾士-Benz	GAI周延	1	99	GAI周延	kugou	ok
+风吹麦浪	李健	1	99	李健	kugou	ok
+倔强	五月天	1	99	阿信	kugou	ok
+留下点回忆行不行 (Remix)	句无眠	1	99			missing
+拼尽全力才过的平凡	拖鞋pd	1	99			missing
+去	林子、袁顶顶	1	99	林子	netease	ok
+属于自己	张玉华	1	99			missing
+我独自满级 Solo Maxxing	Hanser、HOYO-MiX	1	99	崔瀚普TSAR、Ruby Qu	netease	ok
+In Da Culb (Go Shawty)	拖鞋pd	1	99	Mario Malja、Serafin Frroku	qq	ok
+WE UP	TWS (투어스)	1	99	YULEUM、Jin Jeon、Bhavik Pattani、Jordan Shaw、Taneisha Jackson	qq	ok
+阿苏拉则2025	蔡青年	1	100	蔡青年	kugou	ok
+大漠里的沙 (大漠长明)	指南针	1	100	指南针	kugou	ok
+飞鸟向北	金志文	1	100	康树龙	kugou	ok
+江湖客	鸾音社	1	100	周林枫	kugou	ok
+人选天选论 (Live)	盛宇D-SHINE	1	100	盛宇D-SHINE	kugou	ok
+私奔	郑钧	1	100	郑钧	kugou	ok
+无奈的思绪 (氛围版)	周深深	1	100			missing
+心赤	塞壬唱片-MSR、Lappy	1	100		netease	instrumental
+再见吧	曹唐果TANGGUO	1	100	曹唐果TANGGUO	netease	ok
+Beep Beep	LNGSHOT	1	100			missing
+Stronger (Original Edit)	Inez	1	100			missing
+偏偏在错的时光爱你 (深情版)	暮雨浔踪	1	101	陈佑飞	kugou	ok
+爱情废柴	周杰伦	1	102	周杰伦	kugou	ok
+小孩	罗森涛	1	106	罗森涛	netease	ok
+你还是从前的你吗 (女版)	石红豆	1	107	晗意	kugou	ok
+灿若繁星	令狐襄儿、龟娘、樱九、执素兮、董真、魅子、小时姑娘、嘟比Dubi、甘璐、小歌儿、糯米Nomi、玄觞、HITA、张曦匀、兰音Reine、一颗狼星、呦猫UNEKO、秦瑜、赵方婧、肥皂菌丨珉珉的猫咪丨、幸运的Muz、凑诗、小狐狸、忘月幽、小爱的妈、岑今山、醋醋、九渊、许多葵、只有影子、叶里、晴愔、叶聪明、椒椒JMJ、梦璟SAYA、云之泣、蛋哥、一衫衿、栩影、不馋、梦岚、Aki阿杰、孙艾藜、王者荣耀同人局	1	109	令狐襄儿、若兮	kugou	ok
+雪落成泪	Ulaa（尤拉）	1	111	尤拉	kugou	ok
+我爱你但是我要回家	ET、Happer、无面小生、口古口古	1	115	Happer、咕咕	netease	ok
+Galaxy Far Far Away	侯明昊	1	115	Daniel Schulz、Marco Twellmann、Bendik Møller	kugou	ok
+Lonely	Nana	1	115	NANA	kugou	ok
+不知名关系	Y55	1	116	心一、Elio曜羽	kugou	ok
+寂寞寂寞不好	曹格	1	116	崔惟楷	netease	ok
+手放开	李圣杰	1	116	十方	kugou	ok
+沉沦与遐想	C.HØPE	1	117	C.HØPE	netease	ok
+花开满树	海来阿木	1	117	风起、海来阿木	kugou	ok
+续集	容祖儿	1	118	林日曦	kugou	ok
+全息恋人	栾一鸣Floscar	1	119	栾一鸣Floscar	netease	ok
+睡前别想太多	李雨霏	1	119	李雨霏	kugou	ok
+讴歌	Vansdaddy	1	121	Vansdaddy	netease	ok
+如果说恨你	杨雯梓	1	121	绿柳	kugou	ok
+星空的秘密	白小白	1	125	白小白、烛烛	kugou	ok
+那些你很冒险的梦	林俊杰	1	126	王雅君	qq	ok
+放下(看淡)DJ默涵版	河南三妹5233	1	127	雷娇娇	kugou	ok
+花开在天涯	杨小壮	1	130	杨小壮	kugou	ok
+安和桥	宋冬野	1	131	宋冬野	kugou	ok
+情根儿	沈春阳	1	131	肖莹、毛然鹤	kugou	ok
+新生活	王齐铭WatchMe、LSGCsikoriot	1	131	王齐铭WatchMe、LSGCsikoriot	netease	ok
+相忘人海	曲木老表	1	135	曲木老表	kugou	ok
+与我无关	阿冗	1	135	张芷芮、席雨、豪斯Music	netease	ok
+等一分钟	徐誉滕	1	138	徐誉滕	kugou	ok
+心似烟火	陈壹千	1	138	阿藤芳史	netease	ok
+愿你什么都好	章德良	1	138	章德良	kugou	ok
+譬如我 (枕头下发霉的梦)	洛天依、姜洄	1	139	姜洄	kugou	ok
+哪里都是你	队长	1	140	队长	netease	ok
+愿世界和平	常石磊、王力宏、周深、单依纯、窦靖童、周笔畅、王嘉尔、檀健次、陈楚生、黄子弘凡、Eric周兴哲、黄轩、范玮琪、刘雨昕、希林娜依高、关晓彤、孟子义、欧阳娜娜、欧阳娣娣 (Didi Ouyang)、刘涛、吉克隽逸	1	140	王平久	kugou	ok
+幸运时差	侯泽润	1	142	张诗文	kugou	ok
+夜空中最亮的星	逃跑计划	1	142	逃跑计划	qq	ok
+不散场的约定	文韬、齐思钧、何运晨、周峻炜、曹恩齐、李晋晔、邵明明、唐九洲、火树、罗予彤	1	143	文韬、齐思钧、何运晨、周峻炜、曹恩齐、李晋晔、邵明明、唐九洲、火树、罗予彤	kugou	ok
+逆风的船	马小帅（马彦吉）	1	145	张诗文	kugou	ok
+又是一个悲伤的冬天	轻烟小宇	1	146	苗子	kugou	ok
+此生不换	青鸟飞鱼	1	147	杨漩予	kugou	ok
+幻痛药 Hurt And Hurt Ft.LSGCsikoriot四口	Tlatre特雷西、LSGCsikoriot	1	147	Tlatre特雷西、LSGCsikoriot	netease	ok
+越界 (加长版)	宋淮聿	1	147			missing
+沉溺 (你让我的心不再结冰）	邹沛沛、Pank	1	149	邹沛沛、Pank	netease	ok
+合得来就合合不来就散	王一佳	1	149	余云飞	kugou	ok
+几分之几	卢广仲	1	151	卢广仲	qq	ok
+The Way I Still Love You	Reynard Silva	1	151	Roderick Kerr、Reynard Silva	netease	ok
+后会无期	徐良、汪苏泷	1	152	汪苏泷、徐良	qq	ok
+疑心病	任然	1	152	常定晨	kugou	ok
+痴心不改	老板	1	153	任夏	kugou	ok
+岁月如笔写春秋	河南三妹5233	1	153	日月同辉	kugou	ok
+他只是经过	h3R3、高旭	1	153	h3R3	netease	ok
+好想再爱你	潘广益	1	154	潘广益	kugou	ok
+茉莉雨	林俊杰	1	154	方文山	netease	ok
+除了你 (傣语版)	星芙芙	1	155			missing
+半句再见	孙燕姿	1	156	藤井树	netease	ok
+只对你有感觉	飞轮海、田馥甄	1	157	张家玮	kugou	ok
+破我	王中易(伊格赛听)	1	158	林川Lchuan、赵仁杰	kugou	ok
+多久没有谈天光	杨千嬅	1	162	王乐仪	kugou	ok
+去云上	黄子弘凡	1	163	刘笑宇	kugou	ok
+Love Story	Taylor Swift	1	163	Taylor Swift	qq	ok
+悲情悠悠	阿豹DJ	1	164	阿豹DJ	kugou	ok
+再次爱上你	金润吉	1	165	金其中	netease	ok
+一半灵魂	任然、印子月	1	166	印子月	kugou	ok
+贵州咚咚锵 (风花雪月)	娱人	1	167	民间小调	qq-search	ok
+别怕变老	王以太、艾热 AIR	1	169	王以太、艾热 AIR	netease	ok
+慌啥子嘛 (乡野版)	石满仓	1	169	困困羊	kugou	ok
+愿	阿比栖乐	1	170	阿都日以、阿比栖乐	qq-search	ok
+人间烟火	马健涛	1	171	马健涛	kugou	ok
+和你	余佳运	1	172	余佳运	netease	ok
+在同一片气候里相爱	房东的猫	1	172			missing
+普通女孩	沙一汀EL	1	173	沙一汀EL	netease	ok
+拉过勾的	陆虎	1	174	陆虎	netease	ok
+自己的灯自己点 (烟嗓版)	田园	1	174	雨霖枫	kugou	ok
+花束编织的未来	鸣潮先约电台、Koimoon、Moon Jelly	1	175	hellokiki、lzq	kugou	ok
+无人之岛	任然	1	175	申名利	qq	ok
+谁家小情郎	萧泽x.z	1	176	箱子	kugou	ok
+Leave Me Alone（寂寞作伴）	TC	1	176	TC	netease	ok
+模特	李荣浩	1	177	周耀辉	qq	ok
+我们什么身份 (深情男版)	老板	1	177	范贵宾	kugou	ok
+容器	火影忍者手游	1	178		kugou	instrumental
+多少真心败给无奈	米拓果果	1	179	米拓果果	kugou	ok
+我们的明天	鹿晗	1	180	于京乐团	qq	ok
+医生治不了没良心	千奇	1	181	千山	kugou	ok
+半生失意 (港风女版)	欧阳欣	1	182	叶梓晴	kugou	ok
+画出你的身体	季知炀	1	183	郝东C、庄盐盐	kugou	ok
+深情终究是遗憾 (曾经的誓言散落在天边)	秋雅	1	184	秋雅	kugou	ok
+天赋	唐嫣、罗晋	1	184	浅紫	netease	ok
+还是分开	张叶蕾	1	185	张叶蕾	netease	ok
+Baby's Horizon	TF家族-张函瑞	1	185	TF家族-张函瑞	kugou	ok
+Creepin' up on You	Darren Hayes	1	185	Darren Hayes、Rick Nowels	kugou	ok
+光·影	云旗、郝熠然	1	186	Hhhzg、黃靖哲、云旗、郝熠然	kugou	ok
+坠落	蔡健雅	1	186	蔡健雅	netease	ok
+自己的灯自己点	韩梓谦	1	186	雨霖枫	kugou	ok
+最后的借口	h3R3、罗可Lorkin	1	187	h3R3、罗可Lorkin	netease	ok
+回家	吉尼红美、阿达北极	1	188	吉尼红美	qq-search	ok
+Forget it （feat. Mac Ova Seas）	SETI、mac ova seas	1	188	mac ova seas	netease	ok
+此生别离无归期	夏婉安	1	189	杨栋梁	kugou	ok
+普通朋友	陶喆	1	189	陶喆、娃娃	qq	ok
+唯一	告五人	1	189	潘云安	netease	ok
+等孤独开出花 (合唱版)	居居合唱团	1	190	昭懿	kugou	ok
+My love	颜人中	1	190	颜人中、余竑龙、芮彼	netease	ok
+GAMBIT 险棋	三Z-STUDIO、HOYO-MiX	1	191	Mishon	kugou	ok
+醒醒吧	行致远	1	192	行致远	kugou	ok
+给你呀（又名：for ya）	蒋小呢	1	193	卫某人	netease	ok
+疯子和疯子恋爱	姜柠	1	194	郝东C	kugou	ok
+大城小爱	王力宏	1	195	王力宏、陈镇川、K. Tee	qq	ok
+小幸运	田馥甄	1	196	徐世珍、吴辉福	qq	ok
+祖国的脸庞	王大泽、李羽彤	1	196			missing
+像我这样爱你的人	落日微醺本薰、张多金	1	198	王飞	kugou	ok
+Stay with Me(《今天是太阳雨》治愈主题曲)	裘德	1	198	Ann515	kugou	ok
+故乡的风在呼唤我	烟嗓船长	1	199	任夏	kugou	ok
+不说 (原来是不说)	周公	1	200	周公	netease	ok
+KILLA	YOASOBI	1	201	Ayase	kugou	ok
+Wish You Well	张智成	1	201	李俊杰	qq	ok
+追风赶月赴春山 (借来好风飞上九天)	泽国同学	1	202	苏瓦	kugou	ok
+再见我的前半生	石红豆	1	203	武强	kugou	ok
+Until You	Bank Artit、Copter Nuntapong	1	204	Q.Farrin	kugou	ok
+番茄花	呆呆破	1	207	尹伟泽	kugou	ok
+窗外的泪光 (修词男版)	大病毒	1	209			missing
+睡过你的枕边 (爆发女版)	雨姐	1	209	疯狂的羊	kugou	ok
+遇上你是我的缘 (一切等待不再是等待)	石满仓	1	210	昂旺文章	kugou	ok
+刻在神庙的爱 (氛围版)	Taile不喝气泡水	1	211	Taile不喝气泡水	kugou	ok
+望月	z阿康	1	211	于一一	kugou	ok
+朵朵鲜花佩哥戴	一冉、王树杰	1	212	王树杰	kugou	ok
+你呀你呀心放宽	藏族次仁大叔	1	212	少然	kugou	ok
+同我	胡夏	1	213	卢蔚然	kugou	ok
+降温 (topbarry我该说我想你)	小醋包	1	216			missing
+后会友期	张萌、马天宇、厉娜、许飞、文吉儿、王子璇、青稚、白小纯	1	218	许飞	kugou	ok
+戒烟	李荣浩	1	220	李荣浩	kugou	ok
+与你共有	林晓峰、陈小楠	1	221	张镒麟、潘茗宇	kugou	ok
+思念渡长夜	阿牛日格	1	222	阿牛日格	kugou	ok
+如果我能为你做什么 (桃子版)	石头和桃子	1	224	杨四郎	qq-search	ok
+读书才会有出路	王一佳	1	225	师立宅	kugou	ok
+ระบบขัดข้อง (SOS)	BILLKIN	1	226	Cake SERIOUS BACON	kugou	ok
+何时才能熬到头	余音绕梁	1	227	任夏	kugou	ok
+窗外的泪光 (烟嗓版)	烟嗓安野	1	229	张子辰	kugou	ok
+没那么简单	黄小琥	1	229	姚若龙	kugou	ok
+如你所愿 (那就如你所愿)	苏晴s.q	1	230	十一	kugou	ok
+満ちてゆく (心海渐满)	藤井风 (ふじい かぜ)	1	231	藤井風	qq	ok
+心碎在秋天	石满仓、石红豆	1	231	佑影、未子夫	kugou	ok
+一生有你 (深情女声版)	正在进行石女士	1	232	卢庚戌	kugou	ok
+原来你什么都不要	付豪	1	234	邬裕康	kugou	ok
+爱着楠	安康 尼勒	1	235			missing
+名为偶然的必然	刘竞屿	1	236	周梦忆	kugou	ok
+相见恨晚	彭佳慧	1	237	娃娃	kugou	ok
+慌啥子嘛 (静心版)	顿珠拉姆	1	238	困困羊	kugou	ok
+时间会回答	格雷西西西	1	238	Yang.Lc	qq	ok
+静待清光	许明明	1	239	许明明	kugou	ok
+失乐园 Arcadia Lost	HOYO-MiX	1	239			missing
+Gasolina	Daddy Yankee	1	240	Ramón Luis Ayala Rodríguez、Eddie Avila、Michael Torres	qq-search	ok
+塔克拉玛干的沙	马海富贵	1	241			missing
+我听人说思念像风一样	顾叮当	1	241	李思源	qq	ok
+失去你是件让人流泪的事	蒋坤炜	1	242	TJ	kugou	ok
+来不及爱你	h3R3刘清云	1	243	h3R3	kugou	ok
+幸福 (原来幸福无非身边有你)	T.R.Y	1	243	T.R.Y	kugou	ok
+My Turn To Cry (爱离开) (Chinese Ver.)	EXO (엑소)	1	243	김영후	qq	ok
+彼此深爱着	赵鑫	1	244	赵鑫	kugou	ok
+你爱过我吗 (微醺版)	山月微醺	1	244	五条悟、黄钰天	qq	ok
+你还在不在	梁静茹	1	245	许世昌、管启源	qq	ok
+为何人生总有遗憾 (微醺版)	落日微醺小微	1	246	马匹精	kugou	ok
+我在等一个懂我的人 (深情版)	糖小小、张多歌	1	246	陈佑飞	kugou	ok
+听雨落	礼越	1	248	桃野	kugou	ok
+落花雨 (尘飞舞缓落旧纸扇)	姜姜	1	249	蒋家驹	kugou	ok
+明知3.0	探长	1	249	破费特、白云鑫	kugou	ok
+等风等雨等你归期	余音绕梁	1	250	任夏	kugou	ok
+无法复刻	TF_ING童禹坤	1	252	赵楠、李雨松	kugou	ok
+天下有情人 (爱怎么做怎么错)	大双二双、愉悦	1	253	林夕	kugou	ok
+各凭本事闯天地	风里微醺	1	254	嘉成	kugou	ok
+只适合思念	林叙	1	254			missing
+霏儿	李雨霏	1	256	李雨霏	kugou	ok
+只要有你	那英、孙楠	1	256	陈颂红	kugou	ok
+悲情悠悠 (情也悠悠)	阿珍	1	257	阿珍	kugou	ok
+风月吻眉梢	礼越	1	257	姜洄	kugou	ok
+过火	张信哲	1	258	陈佳明	kugou	ok
+Just Be My Child	小智	1	258	灰灰	qq	ok
+UP	ATEEZ	1	258	EDEN、Maddox、Peperoni、Oliv、김홍중、민기	kugou	ok
+下辈子不一定还能遇见你	陈雅森	1	259	李守俊	kugou	ok
+不能成情人	丁家怡	1	261	PopDan	kugou	ok
+噩梦	TizzyT	1	261	Tizzy T	qq	ok
+秋风吹落我的泪	任夏	1	261	任夏	kugou	ok
+不小心惹了上帝 (烂奇迹)	郑他一个亿	1	262			missing
+暴食症 Binge	HOYO-MiX	1	263			missing
+命运	家家	1	264	陈没	kugou	ok
+你是	孟慧圆	1	264	禹嫣uyyan	kugou	ok
+降温 (我该说我想你还是天冷了)	说唱先锋Official	1	265	说唱先锋Official	kugou	ok
+风雨中的诺言 (粤语版)	阿国哥	1	266	蒋蕙林	kugou	ok
+we never beat	秋落雨	1	266	秋落雨	qq	ok
+降临 Arrival	HOYO-MiX	1	267			missing
+大爆炸DJ (La bomba 2026版)	芋圆香芹	1	268		kugou	instrumental
+起风了	买辣椒也用券	1	269	米果	kugou	ok
+千秋	孙楠	1	269	陈曦	qq	ok
+TWINROSE	刘竞屿、熊艺文	1	269	虞绮	kugou	ok
+海屿你 (破碎版)	落日烟嗓	1	272			missing
+能治愈你的不是时间 (微醺版)	微醺夜色	1	272	福星XianFu	kugou	ok
+天际	洋澜一	1	272	戴春磊	kugou	ok
+哪一颗星星	sunan	1	273	T1	kugou	ok
+相爱分开都是罪	六哲	1	274	张海风	kugou	ok
+浪人琵琶 (我的思念似六月里的小雨)	奶酪ovo	1	275	单色凌	kugou	ok
+野心家	张靓颖	1	275	唐恬	kugou	ok
+街角的晚风 (烟嗓R&B版)	落日微醺	1	276	阿豪、未子夫、春培	kugou	ok
+我恨明月不照我 (合唱版)	金嗓子合唱团	1	276	周仁	kugou	ok
+Fading Echo (动感进行曲)	404Hz、Pao7oO	1	277			missing
+Тонкий снег	Chengcheng Tang	1	277	Arina Bagaryakova	kugou	ok
+岂愿	李佩玲	1	278	吕曼竹	kugou	ok
+忘记时间	胡歌	1	278	孙艺	kugou	ok
+红尘一俗人	倔犟的骡子	1	279	倔犟的骡子	kugou	ok
+潮流季	薛之谦	1	280	郭顶	qq	ok
+那些年	胡夏	1	281	九把刀	kugou	ok
+祝福祖国 (合唱版)	晴婉、赵若海	1	282	清风	kugou	ok
+讲不出再见	谭咏麟	1	283	向雪怀	kugou	ok
+小小手掌握住的幸福	鸣潮先约电台、Minase、Koimoon	1	284		kugou	instrumental
+爱就爱了 (猛Lak House)	DJ猛弟(猛studio)	1	285	杨立德、李琪	kugou	ok
+无 意 (Never meant to hurt you baby)	KAY AND	1	286			missing
+一点点喜欢	邓福如 AFÜ、费聿锋	1	286	阿怪	qq	ok
+爱如潮水	张信哲	1	287	李宗盛	kugou	ok
+同一道菜 (Live)	于文文	1	287	ODD陈思键	kugou	ok
+苦瓜大王进行曲	Ameriie、LongTran Final、Zylark	1	288		kugou	instrumental
+挥手告别秋天的风 (歌词版)	DJ Lain	1	290			missing
+大海	杨培安	1	291	刘卓辉	qq	ok
+好久不见	陈奕迅	1	291	施立	kugou	ok
+自己的灯自己点	尤映冬	1	292	雨霖枫	qq	ok
+抓紧你的手 (金玉良缘热门版)	DD小新	1	293			missing
+那个我爱而不得的人	洋澜一	1	294	董志辉	kugou	ok
+Montagem Nada (Beat 加速版)	秋成	1	295			missing
+忧郁幻昼	Matrix Tone	1	296			missing
+在下一个重逢日绽放	鸣潮先约电台、lzq、YuShu、Moon Jelly	1	296	hellokiki、lzq	kugou	ok
+酒到半碗	秦满堂	1	297	宋子豪	kugou	ok
+万万	赵英俊、万万天团	1	297	赵英俊	qq	ok
+Cry For Me (feat. Ami)	Michita (ミチタ)	1	297	Michita	kugou	ok
+十七十八花正发	云南十三妹、猴哥	1	298			missing
+最后是我开了口	小贱	1	298	小贱	qq	ok
+敢向老天讨礼物	江湖酒爷	1	299	一饼	kugou	ok
+Take me hand	DAISHI DANCE、Cécile Corbel	1	299	Cécile Corbel	qq	ok
+等你下课 (with 杨瑞代)	周杰伦	1	300	周杰伦	kugou	ok
+Looks Can Kill	IVE	1	300	Gaeko、서지음、Lil Cherry、레이、Rick Bridges	kugou	ok
+断点	张敬轩	1	301	张敬轩	kugou	ok
+刀剑如梦	周华健	1	302	周华健、詹德茂	kugou	ok
+爱乐之城 (lalaland钢琴间奏)	Kam Ridr	1	303		kugou	instrumental
+半点心	草蜢	1	304	潘源良	kugou	ok
+陷阱	王北车	1	305	石锦秋	kugou	ok
+Wonderful U (Demo Version)	AGA	1	306	林若宁、AGA	kugou	ok
+爱情买卖	慕容晓晓	1	307	何欣	kugou	ok
+珊瑚海	周杰伦、Lara梁心颐	1	308	方文山	kugou	ok
+我落泪情绪零碎	周杰伦	1	309	方文山	kugou	ok
+爱情转移	陈奕迅	1	310	林夕	kugou	ok
+不能说的秘密	周杰伦	1	314	方文山	kugou	ok
+病根	付豪	1	322	叶子	kugou	ok
+合得来就合合不来就散	六小乐	1	326	余云飞	kugou	ok
+落空	印子月	1	329	印子月	kugou	ok
+吹吹山顶的风	巴扎黑	1	330	余有所悸、肖汉博	kugou	ok
+そばにいるね (留在我身边)	青山テルマ、SoulJa	1	332	SoulJa、青山テルマ	kugou	ok
+西海情歌	刀郎	1	333	刀郎	kugou	ok
+星河追梦 (Beyond the Stars)	三角洲行动	1	334	moli·ZAI	kugou	ok
+No photo of you left to survey (二十岁的某一天英文版)	冬妍DYan	1	335	花粥	kugou	ok
+难念的经	周华健	1	336	林夕	kugou	ok
+星月神话	金莎	1	337	金莎	kugou	ok
+山歌追上云朵	央金拉姆	1	338	董慧	kugou	ok
+不是对手	李圣杰	1	342	潘协庆	kugou	ok
+若不是因为你 (深情版)	林栖	1	345	刘思铭	kugou	ok
+别等来年别等来生 (墙角的花)	绮梦笙歌、番番	1	348	朱思丽	kugou	ok
+是你没选我啊	于冬然	1	352	钟琳涵	kugou	ok
+独角戏	许茹芸	1	354	许常德	kugou	ok
+单身情歌	林志炫	1	355	易家扬	kugou	ok
+少一点天份	孙盛希	1	364	张简君伟、孙盛希	kugou	ok
+说了再见	周杰伦	1	365	古小力、黄淩嘉	kugou	ok
+跨不过的距离	虎二	1	366	虎二	kugou	ok
+空心	光泽	1	368	姚若龙	kugou	ok
+黄昏 (纵然青丝如霜)(R&B版)	落日微醺	1	369	夏浩杰	kugou	ok
+就忘了吧+言不由衷+不如+醒不来的梦+我会等 (青春遗憾万人live合唱版)	艾利（Ellie）、7paste、克里、夏莉依	1	370	1K、岳勇、周林、曹陌迁、路夕月	kugou	ok
+落日微醺 (晚风中一杯酒)	落日微醺	1	371	小宇Cosmos	kugou	ok
+夜间巡航 (忧郁版)	缘似雨.	1	373			missing
+谁	洋澜一	1	377	曾至锋	kugou	ok
+没有什么不同	曲婉婷	1	383	曲婉婷	kugou	ok
+执子之手	宝石Gem、哩哩	1	389	宝石Gem、哩哩	kugou	ok
+说好的幸福呢	周杰伦	1	391	方文山	kugou	ok
+人间情多	石红豆	1	393	易茗	kugou	ok
+美丽的神话	孙楠、韩红	1	394	谢占隽	kugou	ok
+宠爱吖	球球、白小白	1	395	白小白、球球	kugou	ok
+冬天的秘密	周传雄	1	396	陈信荣	kugou	ok
+包容	郑源	1	399	马健涛	kugou	ok
+记事本	陈慧琳	1	400	周传雄、陈信荣	kugou	ok
+暖暖	梁静茹	1	401	李焯雄	kugou	ok
+最爱	周慧敏	1	402	李克勤	kugou	ok
+世间美好与你环环相扣	柏松	1	404	尹初七	kugou	ok
+Trouble Maker	Trouble Maker	1	406	라도、신사동 호랭이、ELLY	kugou	ok
+黑街	陈雅雯	1	407	陈少琪	kugou	ok
+明天，你好	牛奶咖啡	1	409	王海涛	kugou	ok
+爱的魔法	金莎	1	411	金莎	kugou	ok
+一生中最爱	谭咏麟	1	412	向雪怀	kugou	ok
+人间	王菲	1	413	林夕	kugou	ok
+我太笨	锤娜丽莎	1	414	张海风	kugou	ok
+亲爱的你啊	任素汐	1	415	温莨 Liang Wen、任素汐	kugou	ok
+走走	李荣浩	1	420	李荣浩Ronghao Li	kugou	ok
+我不配	周杰伦	1	424	方文山	kugou	ok
+他真的对你好吗	付豪	1	425	付豪	kugou	ok
+冲动的惩罚	刀郎	1	426	刀郎	kugou	ok
+别怕我伤心	张信哲	1	430	李宗盛	kugou	ok
+想你的夜	关喆	1	432	关喆	kugou	ok
+总有一天你会出现在我身边	棱镜乐队	1	434	高原、陈恒冠	kugou	ok
+第一次爱的人	王心凌	1	435	林怡芬	kugou	ok
+短发女孩 (她留短发淡的妆)	Zzh、白允y	1	437	陈子健	kugou	ok
+逆风的船 (看那朝阳爬过了山峦)	蓝波	1	440	张诗文	kugou	ok
+嘉豪	崔乐	1	441	崔乐	kugou	ok
+抽离	徐良、刘丹萌	1	443	徐良	kugou	ok
+关不上的窗	周传雄	1	444	陈信荣	kugou	ok
+不得不爱	潘玮柏、弦子	1	446	林夕	kugou	ok
+我不该动情	老板	1	448	任夏	kugou	ok
+求佛	誓言	1	450	陈超	kugou	ok
+金玉良缘	李琦	1	451	桐华	kugou	ok
+太多 (R&B)	落日微醺	1	452	李岩修	kugou	ok
+空心 (女声现场版)	Ciel希尔	1	459	姚若龙	kugou	ok
+说谎	林宥嘉	1	460	施人诚	kugou	ok
+水手	郑智化	1	462	郑智化	kugou	ok
+无奈的思绪 (微醺版)	DJ阿赫	1	463			missing
+啷个哩个啷 (梦里回到小院落)	小禾音团	1	464	疯狂的羊	kugou	ok
+Because of You	Kelly Clarkson	1	465	Kelly Clarkson、David Hodges、Ben Moody	kugou	ok
+就是爱你	陶喆	1	466	娃娃	kugou	ok
+最长的电影	周杰伦	1	467	周杰伦	kugou	ok
+山上的山花开 (无说唱版)	一万种声音	1	468			missing
+蒲公英的约定	周杰伦	1	469	方文山	kugou	ok
+下雨天	南拳妈妈	1	472	梁心颐	kugou	ok
+梦的翅膀受了伤	蒋雪儿Snow.J	1	473	蒋雪儿	kugou	ok
+偏偏喜欢你	陈百强	1	474	郑国江	kugou	ok
+其实不想走 (架子鼓男版)	烟嗓阿杰a	1	475	刘志宏	kugou	ok
+说散就散	袁娅维TIA RAY	1	479	张楚翘	kugou	ok
+座位	于冬然	1	480	徐大耳朵、胡静宜、雨伞的鱼、林意梵	qq-search	ok
+雨蝶	李翊君	1	482	许常德、琼瑶	kugou	ok
+DAY BY DAY	T-ara	1	487	김태현、조영수、안영민、K-Smith	kugou	ok
+你是我的风景	何洁	1	489	彭青	kugou	ok
+唱月	李耀阳	1	490	张宥伦	kugou	ok
+거짓말 (谎言)	BIGBANG	1	491	G-DRAGON	kugou	ok
+你从未离去	白挺	1	497	崔铁志、万秦	kugou	ok
+推开世界的门	杨乃文	1	498	火星电台•黄少峰	kugou	ok
+慌啥子嘛 (本山版)	默赴山	1	499	默赴山	kugou	ok

@@ -1,0 +1,17 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+.deploy.env
+key.txt
+*.log
+data/visits.json
+data/billing.json
+data/accounts.json
+data/oauth-states.json
+data/library/
+data/publish-settings.json
+data/publish-constants.json
+data/publish-constants-*.json
+data/publish-session*.json
+_tmp_fenbei/

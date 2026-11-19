@@ -1,0 +1,1121 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>SunoMaster - 专业级 Suno AI 音乐创作工作站</title>
+  <script>/*HOT_SNAPSHOT*/</script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body {
+      background-color: #FAFAFA;
+      color: #0F172A;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      -webkit-font-smoothing: antialiased;
+      -webkit-tap-highlight-color: transparent;
+      text-rendering: optimizeLegibility;
+      font-size: 14px;
+    }
+    .top-rainbow-hairline {
+      height: 3px;
+      background: linear-gradient(90deg, #EF4444 0%, #F97316 20%, #F59E0B 40%, #10B981 60%, #06B6D4 80%, #8B5CF6 100%);
+    }
+    .rev-line { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 13px; line-height: 1.6; padding: 1px 10px; white-space: pre-wrap; }
+    .rev-del { background: #FEF2F2; color: #B91C1C; text-decoration: line-through; }
+    .rev-add { background: #F0FDF4; color: #166534; }
+    .rev-same { color: #334155; }
+    .lyric-flash { animation: lyric-flash 1.2s ease; }
+    @keyframes lyric-flash {
+      0% { box-shadow: 0 0 0 2px #0F172A; }
+      100% { box-shadow: 0 0 0 0 rgba(15, 23, 42, 0); }
+    }
+    .think-block { margin-bottom: 6px; }
+    .think-block summary { cursor: pointer; font-size: 12px; color: #64748B; font-weight: 600; list-style: none; }
+    .think-block summary::-webkit-details-marker { display: none; }
+    .think-block li { font-size: 12px; color: #475569; line-height: 1.45; margin-left: 1rem; }
+    .studio-box {
+      background: #FFFFFF;
+      border: 1px solid #E2E8F0;
+      border-radius: 16px;
+      box-shadow: 0 1px 3px 0 rgba(15, 23, 42, 0.03);
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    .studio-box:hover { border-color: #CBD5E1; box-shadow: 0 8px 24px -4px rgba(15, 23, 42, 0.08); }
+    .plan-card.current { border-color: #EA580C; box-shadow: 0 0 0 1px #EA580C; }
+    #open-account.is-on,
+    #open-account.is-on:hover { background: #FFF7ED; border-color: #FDBA74; }
+    .tag-chip {
+      background: #FFFFFF;
+      border: 1px solid #E2E8F0;
+      color: #334155;
+      font-size: 12px;
+      font-weight: 500;
+      padding: 5px 12px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.15s ease;
+      user-select: none;
+    }
+    .tag-chip:hover { border-color: #F97316; color: #EA580C; background: #FFF7ED; }
+    .tag-chip.active {
+      background: linear-gradient(135deg, #EA580C, #F59E0B) !important;
+      border-color: transparent !important;
+      color: #FFFFFF !important;
+      font-weight: 600;
+      box-shadow: 0 3px 10px rgba(234, 88, 12, 0.25);
+    }
+    .btn-copy {
+      color: #64748B; font-size: 12px; font-weight: 600;
+      display: inline-flex; align-items: center; gap: 4px;
+      padding: 4px 10px; border-radius: 6px; background: #F8FAFC;
+      border: 1px solid #E2E8F0; cursor: pointer;
+    }
+    .btn-copy:hover { background: #FFF7ED; color: #EA580C; border-color: #FDBA74; }
+    .attn { box-shadow: 0 0 0 3px #FDBA74; }
+    .lyric-view-btn { color: #64748B; }
+    .lyric-view-btn.active { background: #FFFFFF; color: #0F172A; box-shadow: 0 1px 2px rgba(15, 23, 42, 0.08); }
+    .btn-audition {
+      background: #FFF7ED; border: 1px solid #FED7AA; color: #EA580C;
+      font-size: 12px; font-weight: 700; padding: 5px 12px; border-radius: 8px;
+      display: inline-flex; align-items: center; gap: 5px; cursor: pointer;
+    }
+    .btn-audition:hover { background: #EA580C; color: #FFFFFF; border-color: #EA580C; }
+    .btn-audition.playing { background: #10B981 !important; color: #FFFFFF !important; border-color: #10B981 !important; }
+    .soundbar { width: 2.5px; background: currentColor; border-radius: 2px; animation: soundWave 0.8s infinite ease-in-out alternate; }
+    .soundbar:nth-child(1) { height: 5px; animation-delay: 0.1s; }
+    .soundbar:nth-child(2) { height: 12px; animation-delay: 0.3s; }
+    .soundbar:nth-child(3) { height: 8px; animation-delay: 0.2s; }
+    @keyframes soundWave { 0% { height: 4px; } 100% { height: 14px; } }
+    .tag-meta-pill {
+      background-color: #FFF7ED; border: 1px solid #FFEDD5; color: #C2410C;
+      font-family: ui-monospace, monospace; font-size: 13px; font-weight: 700;
+      padding: 5px 10px; border-radius: 8px; cursor: pointer;
+    }
+    .tag-meta-pill:hover { background-color: #EA580C; border-color: #EA580C; color: #FFFFFF; }
+    .lyricist-card { border: 1px solid #E2E8F0; background: #FFFFFF; transition: all 0.2s ease; cursor: pointer; }
+    .lyricist-card.catalog { cursor: default; }
+    .lyricist-card .lyricist-summary { display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
+    .lyricist-card:hover { border-color: #EA580C; background-color: #FFFBF7; }
+    .lyricist-card.active { border-color: #EA580C; background-color: #FFF7ED; box-shadow: 0 0 0 1.5px #EA580C; }
+    .lyricist-songs { margin-top: 0.25rem; }
+    .lyricist-song { font-size: 11px; line-height: 1.45; color: #64748b; }
+    .lyricist-more { display: inline-block; margin-top: 2px; padding: 0; border: 0; background: transparent; color: #EA580C; font-size: 12px; font-weight: 700; line-height: 1.4; cursor: pointer; }
+    .lyricist-more:hover { text-decoration: underline; }
+    .lyricist-song mark, .lyricist-card mark { background: #FFEDD5; color: inherit; border-radius: 2px; }
+    .btn-orange {
+      background: linear-gradient(90deg, #f97316, #f59e0b);
+      color: #fff; font-weight: 700; border-radius: 12px;
+      box-shadow: 0 4px 14px rgba(249, 115, 22, 0.22);
+    }
+    .btn-orange:hover { filter: brightness(1.05); }
+    .oauth-btn {
+      display: flex; align-items: center; justify-content: center; gap: 10px;
+      width: 100%; border-radius: 12px; padding: 10px 12px;
+      font-size: 14px; font-weight: 700; line-height: 1.2;
+      border: 1px solid #E2E8F0; background: #fff; color: #0f172a;
+    }
+    .oauth-btn svg { width: 18px; height: 18px; flex: none; }
+    .oauth-btn:hover { filter: brightness(0.97); }
+    .field, textarea, select.field {
+      width: 100%; background: #F8FAFC; border: 1px solid #E2E8F0; border-radius: 12px;
+      padding: 8px 12px; font-size: 14px; color: #1E293B; outline: none;
+    }
+    .field:focus, textarea:focus, select.field:focus { border-color: #F97316; }
+    .publish-step { display: inline-flex; align-items: center; gap: 8px; color: #94A3B8; font-size: 13px; font-weight: 700; }
+    .publish-step .num { width: 22px; height: 22px; border-radius: 999px; display: inline-flex; align-items: center; justify-content: center; background: #E2E8F0; color: #475569; font-size: 12px; }
+    .publish-step.is-on { color: #0F172A; }
+    .publish-step.is-on .num { background: #0F172A; color: #fff; }
+    .publish-step.is-done { color: #047857; }
+    .publish-step.is-done .num { background: #10B981; color: #fff; }
+    .publish-upload-bar {
+      width: 0%;
+      background: linear-gradient(90deg, #f97316, #f59e0b);
+      transition: width 0.15s ease;
+    }
+    .publish-upload-bar.is-wait { animation: publish-upload-wait 1s ease-in-out infinite; }
+    .publish-upload-bar.is-done { background: linear-gradient(90deg, #10b981, #34d399); }
+    .publish-upload-bar.is-error { background: #f43f5e; }
+    @keyframes publish-upload-wait { 50% { opacity: 0.45; } }
+    .pay-card { text-align: left; border: 1px solid #E2E8F0; background: #fff; border-radius: 16px; padding: 14px 16px; }
+    .pay-card.is-on { border-color: #F59E0B; background: #FFFBEB; box-shadow: 0 0 0 1px #F59E0B; }
+    .plat-chip { display: inline-flex; align-items: center; gap: 6px; border-radius: 999px; border: 1px solid #FDE68A; background: #FFFBEB; color: #92400E; font-size: 13px; font-weight: 700; padding: 6px 12px; }
+    .plat-chip.is-fixed { border-color: #A7F3D0; background: #ECFDF5; color: #047857; }
+    .clip-range { width: 100%; height: 28px; accent-color: #f97316; }
+    #module-hot.view-grid .song-stack { display: grid; grid-template-columns: 1fr; gap: 12px; }
+    @media (min-width: 1024px) {
+      #module-hot.view-grid .song-stack { grid-template-columns: 1fr 1fr; }
+    }
+    @media (min-width: 1280px) {
+      #module-hot.view-grid #block-lists { grid-template-columns: 1fr; }
+    }
+    .song-card { container-type: inline-size; }
+    .song-card.is-focus { outline: 2px solid #F97316; outline-offset: 2px; }
+    .chart-pill { cursor: pointer; }
+    .chart-pill:hover, .chart-pill.is-on { border-color: #FDBA74; color: #C2410C; background: #FFF7ED; }
+    .song-layout {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr);
+      gap: 10px 12px;
+      align-items: start;
+      padding: 12px;
+    }
+    .song-cover { width: 4rem; height: 4rem; }
+    .song-rank { display: none; }
+    .song-layout .song-actions { grid-column: 1 / -1; }
+    @container (min-width: 400px) {
+      .song-layout {
+        grid-template-columns: auto minmax(0, 1fr) auto;
+        gap: 12px 16px;
+        padding: 16px;
+      }
+      .song-cover { width: 6rem; height: 6rem; }
+      .song-body { grid-column: 2; grid-row: 1; }
+      .song-rank { display: block; grid-column: 3; grid-row: 1; }
+      .rank-compact { display: none; }
+      .song-actions { display: flex; flex-wrap: wrap; align-items: center; }
+    }
+    .no-scrollbar::-webkit-scrollbar { display: none; }
+    .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+    @media (max-width: 1023px) {
+      #module-lyric[data-lyric-tab="editor"] #lyric-col-persona,
+      #module-lyric[data-lyric-tab="editor"] #lyric-col-ai,
+      #module-lyric[data-lyric-tab="persona"] #lyric-col-editor,
+      #module-lyric[data-lyric-tab="persona"] #lyric-col-ai,
+      #module-lyric[data-lyric-tab="ai"] #lyric-col-persona,
+      #module-lyric[data-lyric-tab="ai"] #lyric-col-editor,
+      #module-lyric[data-lyric-tab="persona"] #lyric-params,
+      #module-lyric[data-lyric-tab="ai"] #lyric-params { display: none; }
+    }
+    @media (max-width: 767px) {
+      input, textarea, select { font-size: 16px; }
+      #hot-platform-tabs {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        width: 100%;
+        overflow: visible;
+      }
+      #hot-platform-tabs button { text-align: center; }
+      html { scroll-padding-top: 4.25rem; }
+      .mobile-bar { padding-top: max(0.5rem, env(safe-area-inset-top)); }
+      #main-pad { padding-bottom: calc(5.5rem + env(safe-area-inset-bottom)); }
+      #toast { bottom: calc(5.25rem + env(safe-area-inset-bottom)); }
+      #global-player-bar { bottom: calc(3.65rem + env(safe-area-inset-bottom)); }
+      #global-player-bar.translate-y-full { transform: translateY(calc(100% + 5rem)); }
+      .m-nav { padding-bottom: max(0.35rem, env(safe-area-inset-bottom)); }
+    }
+    #global-player-bar { padding-bottom: max(0.625rem, env(safe-area-inset-bottom)); }
+    body.player-open #main-pad { padding-bottom: calc(8rem + env(safe-area-inset-bottom)); }
+    ::-webkit-scrollbar { width: 5px; height: 5px; }
+    ::-webkit-scrollbar-track { background: #FAFAFA; }
+    ::-webkit-scrollbar-thumb { background: #CBD5E1; border-radius: 4px; }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col md:flex-row antialiased">
+
+  <div class="mobile-bar md:hidden bg-white/95 backdrop-blur border-b border-slate-200 px-4 py-2.5 flex items-center justify-between sticky top-0 z-40">
+    <div class="flex items-center gap-2">
+      <div class="w-7 h-7 rounded-lg bg-gradient-to-tr from-orange-500 to-amber-500 text-white flex items-center justify-center font-black text-xs shadow-sm">SM</div>
+      <span class="font-extrabold text-base text-slate-900 tracking-tight">SunoMaster</span>
+    </div>
+    <div class="flex items-center gap-2">
+      <button type="button" id="mobile-account" class="px-2.5 py-1 rounded-full bg-orange-50 border border-orange-200 text-xs font-bold text-orange-700">💎 <span id="mobile-credits">50</span></button>
+      <a href="https://suno.com/create" target="_blank" rel="noreferrer" class="px-2.5 py-1 rounded-lg bg-slate-900 text-white text-xs font-bold">Suno ↗</a>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="hidden md:flex md:sticky top-0 z-50 w-64 bg-white border-r border-slate-200 flex-col justify-between shrink-0 h-screen">
+    <div>
+      <div class="p-6 flex items-center gap-3 border-b border-slate-100">
+        <div class="w-9 h-9 rounded-xl bg-gradient-to-tr from-orange-500 to-amber-500 text-white flex items-center justify-center font-black text-sm shadow-md shadow-orange-500/20">SM</div>
+        <div>
+          <h1 class="font-black text-base text-slate-900 leading-tight">SunoMaster</h1>
+          <p class="text-xs text-slate-400 mt-0.5">AI 音乐制作人工作台</p>
+        </div>
+      </div>
+      <nav class="p-3 space-y-1 mt-1">
+        <button type="button" data-workspace="hot" id="nav-btn-hot" class="nav-btn w-full flex items-center gap-3.5 px-4 py-3 rounded-xl text-sm font-semibold transition-all bg-slate-900 text-white shadow-sm">
+          <svg class="w-5 h-5 text-rose-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 18.657A8 8 0 016.343 7.343S7 9 9 10c0-2 .5-5 2.986-7C14 5 16.09 5.777 17.656 7.343A7.975 7.975 0 0120 13a7.975 7.975 0 01-2.343 5.657z"></path></svg>
+          <span>选歌大师</span>
+        </button>
+        <button type="button" data-workspace="composer" id="nav-btn-composer" class="nav-btn w-full flex items-center gap-3.5 px-4 py-3 rounded-xl text-sm font-semibold transition-all text-slate-600 hover:bg-slate-50 hover:text-slate-900">
+          <svg class="w-5 h-5 text-orange-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"></path></svg>
+          <span>作曲大师</span>
+        </button>
+        <button type="button" data-workspace="lyric" id="nav-btn-lyric" class="nav-btn w-full flex items-center gap-3.5 px-4 py-3 rounded-xl text-sm font-semibold transition-all text-slate-600 hover:bg-slate-50 hover:text-slate-900">
+          <svg class="w-5 h-5 text-amber-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.232 5.232l3.536 3.536m-2.036-5.036a2.5 2.5 0 113.536 3.536L6.5 21.036H3v-3.572L16.732 3.732z"></path></svg>
+          <span>作词大师</span>
+        </button>
+        <button type="button" data-workspace="publish" id="nav-btn-publish" class="nav-btn w-full flex items-center gap-3.5 px-4 py-3 rounded-xl text-sm font-semibold transition-all text-slate-600 hover:bg-slate-50 hover:text-slate-900">
+          <svg class="w-5 h-5 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19V6l12-2v13"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19a2 2 0 11-4 0 2 2 0 014 0zm12-2a2 2 0 11-4 0 2 2 0 014 0z"></path></svg>
+          <span>发布大师</span>
+        </button>
+      </nav>
+    </div>
+    <div class="p-3 border-t border-slate-100 space-y-2">
+      <a href="https://suno.com/create" target="_blank" rel="noreferrer" class="w-full px-3 py-2.5 rounded-xl bg-slate-50 hover:bg-slate-100 text-slate-700 flex items-center justify-between transition border border-slate-200/80">
+        <span class="text-sm font-semibold flex items-center gap-2"><span class="w-2 h-2 rounded-full bg-orange-500"></span> 打开 Suno (官网)</span>
+        <svg class="w-3.5 h-3.5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+      </a>
+      <button type="button" id="open-settings" class="w-full px-3 py-2 rounded-xl text-left text-sm font-semibold text-slate-600 hover:bg-slate-50 border border-transparent hover:border-slate-200">接口设置 · <span id="engine-label">Gemini</span></button>
+      <div id="open-account" class="p-2.5 rounded-xl hover:bg-slate-50 flex items-center justify-between cursor-pointer transition border border-transparent hover:border-slate-200">
+        <div class="flex items-center gap-2.5 min-w-0">
+          <div id="account-avatar" class="w-8 h-8 rounded-full bg-gradient-to-tr from-orange-500 to-amber-500 text-white flex items-center justify-center font-bold text-xs shadow-sm shrink-0">登</div>
+          <div class="min-w-0">
+            <span id="account-display-name" class="text-sm font-bold text-slate-900 block leading-none truncate">登录账号</span>
+            <span id="account-meta" class="text-[10px] text-slate-400 mt-1 block truncate">会员与积分</span>
+          </div>
+        </div>
+        <span id="account-side-action" class="text-[11px] text-orange-600 font-bold shrink-0">登录</span>
+      </div>
+    </div>
+  </aside>
+
+  <main class="flex-1 flex flex-col min-w-0">
+    <div class="top-rainbow-hairline"></div>
+    <div id="main-pad" class="p-3 sm:p-4 md:p-8 max-w-[1500px] w-full mx-auto flex-1">
+
+      <div id="module-hot" class="space-y-6">
+        <div class="flex flex-col lg:flex-row lg:items-end justify-between gap-4 pb-4 border-b border-slate-200/80">
+          <div>
+            <div class="flex flex-wrap items-center gap-2">
+              <span class="text-xl">🔥</span>
+              <h2 class="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">选歌大师 · 爆款对标雷达</h2>
+            </div>
+            <p id="hot-lead" class="text-sm text-slate-500 mt-1">热点速递、新上榜、上升最快、潜力池、平台热度。官方试听打开原平台，填入后可接着作曲或对标写词。</p>
+          </div>
+          <div class="flex w-full flex-col gap-2 lg:w-auto lg:items-end">
+            <div id="hot-platform-tabs" class="flex bg-slate-100 p-1 rounded-xl text-sm font-bold overflow-x-auto max-w-full"></div>
+            <div class="flex items-center justify-end gap-2">
+              <button type="button" id="btn-toggle-search" class="shrink-0 rounded-xl border border-slate-200 bg-white px-3 py-2 text-sm font-bold text-slate-600" aria-expanded="false">搜索</button>
+              <div class="flex shrink-0 bg-slate-100 p-1 rounded-xl">
+                <button type="button" id="btn-view-list" class="p-2 rounded-lg bg-white text-slate-900 shadow-sm" title="列表">列表</button>
+                <button type="button" id="btn-view-grid" class="p-2 rounded-lg text-slate-500" title="网格">网格</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="song-search-row" class="hidden">
+          <input id="song-search" class="field max-w-md" placeholder="搜索歌名、歌手">
+        </div>
+        <section id="chart-board" class="hidden"></section>
+        <section id="insight-panel"></section>
+        <section id="block-lists" class="grid grid-cols-1 xl:grid-cols-2 gap-8"></section>
+        <section id="block-potential"></section>
+        <section id="block-heat"></section>
+      </div>
+
+      <div id="module-composer" class="hidden space-y-6">
+        <div>
+          <div class="flex items-center justify-between gap-3">
+            <h2 class="text-xl sm:text-2xl font-bold text-slate-900">作曲大师</h2>
+            <button type="button" id="show-sample" class="px-3 py-1.5 text-sm font-semibold text-slate-500 hover:text-slate-900 shrink-0">看格式示例</button>
+          </div>
+          <p class="text-sm text-slate-500 mt-1">标签、参考歌和录音都交给 Gemini 3.8 Flash，生成 Style / Exclude / 歌词。可改用阿里百炼。</p>
+        </div>
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-6 items-start">
+          <div class="lg:col-span-5 studio-box p-4 sm:p-5 space-y-4">
+            <div class="flex flex-col gap-2 pb-3 border-b border-slate-100 sm:flex-row sm:items-center sm:justify-between">
+              <span class="text-sm font-bold text-slate-900">输入方式选择</span>
+              <div class="grid w-full grid-cols-3 gap-0.5 rounded-lg bg-slate-100 p-0.5 text-xs font-semibold sm:flex sm:w-auto sm:text-sm">
+                <button type="button" data-mode="hybrid" id="btn-mode-hybrid" class="mode-btn rounded-md px-1 py-1.5 text-center bg-white text-slate-900 shadow-sm sm:px-2.5 sm:py-1">🔀 双模融合</button>
+                <button type="button" data-mode="tags" id="btn-mode-tags" class="mode-btn rounded-md px-1 py-1.5 text-center text-slate-500 sm:px-2.5 sm:py-1">🎛️ 纯标签</button>
+                <button type="button" data-mode="audio" id="btn-mode-audio" class="mode-btn rounded-md px-1 py-1.5 text-center text-slate-500 sm:px-2.5 sm:py-1">🎧 纯音频</button>
+              </div>
+            </div>
+            <div class="grid grid-cols-1 gap-3 sm:grid-cols-2">
+              <label class="text-sm font-bold text-slate-700">参考歌名<input id="ref-song" class="field mt-1 font-medium" maxlength="80" placeholder="可留空，或从选歌带入"></label>
+              <label class="text-sm font-bold text-slate-700">歌手<input id="ref-artist" class="field mt-1 font-medium" maxlength="80" placeholder="可选"></label>
+            </div>
+            <button type="button" id="analyze-song" class="btn-orange w-full py-2.5 text-sm">分析这首歌的提示词</button>
+            <p id="analyze-hint" class="text-[11px] text-slate-400 -mt-2">从选歌带入后点这里。按这首歌重写右边 Style，不沿用左边默认标签。</p>
+            <div id="section-audio-upload" class="p-4 rounded-xl border-2 border-dashed border-orange-200 bg-orange-50/20 space-y-3">
+              <label class="block p-4 rounded-xl bg-white border border-orange-100 text-center cursor-pointer hover:border-orange-300 shadow-sm">
+                <span class="text-xl block mb-1">🎵</span>
+                <span id="audio-label" class="text-sm font-bold text-slate-800 block">点击上传参考音频</span>
+                <span class="text-[11px] text-slate-400">MP3 / WAV，20MB 以内。听录音只走 Gemini。</span>
+                <input id="audio-file" type="file" accept="audio/*,.mp3,.wav,.m4a,.flac,.ogg" class="hidden">
+              </label>
+              <div id="audio-result-pill" class="hidden p-3 rounded-xl bg-white border border-emerald-200 space-y-2 text-sm">
+                <div class="flex items-center justify-between gap-2">
+                  <span id="audio-file-name" class="font-bold text-slate-800 truncate"></span>
+                  <button type="button" class="btn-audition" data-play-file="reference"><span class="btn-text">试听</span><span class="soundwave-box hidden items-center gap-0.5 ml-1"><span class="soundbar"></span><span class="soundbar"></span><span class="soundbar"></span></span></button>
+                </div>
+                <p id="audio-detected" class="text-[11px] text-slate-500"></p>
+              </div>
+            </div>
+            <div id="section-tag-matrix" class="space-y-4">
+              <div>
+                <span class="text-[11px] font-bold text-slate-400 block mb-1.5">曲风流派 (Genre)</span>
+                <div class="flex flex-wrap gap-1.5" data-tags="genre">
+                  <button type="button" class="tag-chip" data-tag>Acoustic pop ballad</button>
+                  <button type="button" class="tag-chip" data-tag>Chinese Pop</button>
+                  <button type="button" class="tag-chip" data-tag>City Pop</button>
+                  <button type="button" class="tag-chip" data-tag>R&amp;B</button>
+                  <button type="button" class="tag-chip" data-tag>Future Bass</button>
+                </div>
+              </div>
+              <div>
+                <span class="text-[11px] font-bold text-slate-400 block mb-1.5">人声质感 (Vocal)</span>
+                <div class="flex flex-wrap gap-1.5" data-tags="vocal">
+                  <button type="button" class="tag-chip" data-tag>warm nostalgic male vocals</button>
+                  <button type="button" class="tag-chip" data-tag>Sweet Female</button>
+                  <button type="button" class="tag-chip" data-tag>Raspy Voice</button>
+                  <button type="button" class="tag-chip" data-tag>Grand Choir</button>
+                </div>
+              </div>
+              <div>
+                <span class="text-[11px] font-bold text-slate-400 block mb-1.5">主导乐器 (Instruments)</span>
+                <div class="flex flex-wrap gap-1.5" data-tags="instruments">
+                  <button type="button" class="tag-chip" data-tag>gentle fingerstyle acoustic guitar</button>
+                  <button type="button" class="tag-chip" data-tag>upright piano</button>
+                  <button type="button" class="tag-chip" data-tag>sweeping cinematic strings</button>
+                  <button type="button" class="tag-chip" data-tag>Guzheng</button>
+                </div>
+              </div>
+              <div>
+                <span class="text-[11px] font-bold text-slate-400 block mb-1.5">情绪与速度 (Mood &amp; Tempo)</span>
+                <div class="flex flex-wrap gap-1.5" data-tags="mood">
+                  <button type="button" class="tag-chip" data-tag>70 bpm</button>
+                  <button type="button" class="tag-chip" data-tag>heartfelt</button>
+                  <button type="button" class="tag-chip" data-tag>118 bpm</button>
+                  <button type="button" class="tag-chip" data-tag>studio recording</button>
+                </div>
+              </div>
+              <div>
+                <span class="text-[11px] font-bold text-slate-400 block mb-1.5">改编倾向</span>
+                <div id="directions" class="flex flex-wrap gap-1.5">
+                  <button type="button" class="tag-chip active" data-direction="贴近原曲气质">贴近原曲气质</button>
+                  <button type="button" class="tag-chip" data-direction="人声更靠前">人声更靠前</button>
+                  <button type="button" class="tag-chip" data-direction="更原声">更原声</button>
+                  <button type="button" class="tag-chip" data-direction="更电子">更电子</button>
+                  <button type="button" class="tag-chip" data-direction="纯器乐">纯器乐</button>
+                  <button type="button" class="tag-chip" data-direction="速度更快">速度更快</button>
+                  <button type="button" class="tag-chip" data-direction="速度更慢">速度更慢</button>
+                </div>
+              </div>
+              <label class="flex items-center gap-2 text-[11px] text-slate-500">
+                <input id="keep-lyrics" type="checkbox"> 沿用右边歌词，只整理不另写
+              </label>
+            </div>
+            <button type="button" id="compose-btn" class="btn-orange w-full py-2.5 text-sm">生成灵感配方</button>
+          </div>
+
+          <div class="lg:col-span-7 studio-box p-4 sm:p-6 space-y-5">
+            <div class="flex flex-wrap items-center justify-between gap-2 pb-3 border-b border-slate-100">
+              <div>
+                <span class="text-sm font-bold text-slate-900 uppercase tracking-wide">Suno 歌曲工程包</span>
+                <p id="package-title" class="text-[11px] text-slate-400 mt-0.5">还没有生成</p>
+              </div>
+              <span id="package-engine" class="text-[11px] text-slate-400 font-mono">Gemini 3.8 Flash</span>
+            </div>
+            <div id="compose-working" class="hidden p-4 rounded-xl bg-slate-50 border border-slate-100 text-sm text-slate-600">正在听编制、语种和动态，请稍候…</div>
+            <div>
+              <div class="mb-1.5 flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
+                <span class="text-sm font-bold text-slate-700">Style · <span id="style-count" class="font-mono text-[10px] text-slate-400">0/1000</span></span>
+                <div class="flex items-center gap-1.5">
+                  <button type="button" id="analyze-song-side" class="flex-1 sm:flex-none px-2.5 py-2 sm:py-1 rounded-lg bg-slate-900 hover:bg-black text-white text-xs sm:text-[11px] font-bold transition">分析这首歌的提示词</button>
+                  <button type="button" class="btn-copy" data-copy="style-text-content">复制</button>
+                </div>
+              </div>
+              <textarea id="style-text-content" rows="3" maxlength="1000" class="w-full p-2.5 rounded-xl bg-slate-50 border border-slate-200 font-mono text-sm text-slate-800 leading-relaxed focus:outline-none focus:border-slate-400"></textarea>
+            </div>
+            <div>
+              <div class="flex items-center justify-between mb-1.5">
+                <span class="text-sm font-bold text-slate-700">Exclude · <span id="exclude-count" class="font-mono text-[10px] text-slate-400">0/1000</span></span>
+                <button type="button" class="btn-copy" data-copy="exclude-text-content">复制</button>
+              </div>
+              <textarea id="exclude-text-content" rows="2" maxlength="1000" class="w-full p-2 rounded-xl bg-slate-50 border border-slate-200 font-mono text-sm text-slate-600 leading-relaxed focus:outline-none focus:border-slate-400"></textarea>
+            </div>
+            <div>
+              <div class="flex items-center justify-between mb-1.5">
+                <span class="text-sm font-bold text-slate-700">简单模式 · <span id="simple-count" class="font-mono text-[10px] text-slate-400">0/200</span></span>
+                <button type="button" class="btn-copy" data-copy="simple-mode-content">复制</button>
+              </div>
+              <textarea id="simple-mode-content" rows="2" maxlength="200" class="w-full p-2.5 rounded-xl bg-slate-50 border border-slate-200 font-mono text-sm text-slate-700 leading-relaxed focus:outline-none focus:border-slate-400"></textarea>
+            </div>
+            <div>
+              <div class="mb-1.5 flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
+                <div class="flex flex-wrap items-center gap-2">
+                  <span class="text-sm font-bold text-slate-700">Lyrics</span>
+                  <div class="flex items-center gap-0.5 p-0.5 rounded-lg bg-slate-100">
+                    <button type="button" data-lyric-view="source" class="lyric-view-btn px-2.5 py-1 rounded-md text-[11px] font-bold">原词</button>
+                    <button type="button" data-lyric-view="next" class="lyric-view-btn active px-2.5 py-1 rounded-md text-[11px] font-bold">新词</button>
+                  </div>
+                  <button type="button" id="rewrite-lyric" class="px-2.5 py-1 rounded-md text-[11px] font-bold text-slate-500 hover:text-slate-900">换一首</button>
+                </div>
+                <button type="button" class="btn-copy" data-copy="composer-lyrics-rich">复制歌词</button>
+              </div>
+              <p id="lyric-view-hint" class="text-[11px] text-slate-400 mb-1.5">新词按曲风和原词重填。原词用来对照。</p>
+              <textarea id="composer-lyrics-rich" rows="10" class="w-full bg-slate-50 border border-slate-200 rounded-xl p-3 font-mono text-sm text-slate-800 leading-relaxed focus:outline-none focus:border-slate-400"></textarea>
+              <button type="button" id="handoff-lyric" class="mt-2 text-sm font-semibold text-slate-600 hover:text-slate-900">前往作词大师精修词句 →</button>
+            </div>
+            <div>
+              <div class="text-sm font-bold text-slate-700 mb-1.5">歌曲音乐风格与结构分析</div>
+              <div id="composer-notes" class="p-3.5 rounded-xl bg-slate-50 border border-slate-100 text-sm text-slate-600 leading-relaxed whitespace-pre-wrap">生成之后显示在这里。</div>
+            </div>
+            <div class="pt-2 flex justify-end">
+              <button type="button" id="open-suno-composer" class="btn-orange w-full sm:w-auto px-5 py-2.5 text-sm">在 Suno 粘贴这首歌</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="module-lyric" data-lyric-tab="editor" class="hidden space-y-6">
+        <div>
+          <h2 class="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">作词大师 · 全功能参数中枢</h2>
+          <p class="text-sm text-slate-500 mt-1">默认保持原词作者风格。要点一位词人，才会按那个人的写法重构。</p>
+        </div>
+        <div id="lyric-mobile-tabs" class="lg:hidden flex bg-slate-200/80 p-1 rounded-xl text-xs font-bold">
+          <button type="button" data-lyric-tab="editor" class="lyric-mtab flex-1 rounded-lg bg-white py-2 text-center text-slate-900 shadow-sm">歌词编辑</button>
+          <button type="button" data-lyric-tab="persona" class="lyric-mtab flex-1 rounded-lg py-2 text-center text-slate-600">词人流派</button>
+          <button type="button" data-lyric-tab="ai" class="lyric-mtab flex-1 rounded-lg py-2 text-center text-slate-600">AI 助手</button>
+        </div>
+        <div id="lyric-params" class="studio-box p-4 sm:p-5 space-y-3">
+          <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 text-sm">
+            <label class="font-bold text-slate-700">语种
+              <select id="lyric-tongue" class="field mt-1">
+                <option value="cmn">国语</option>
+                <option value="yue">粤语</option>
+              </select>
+            </label>
+            <label class="font-bold text-slate-700">押韵松紧
+              <select id="lyric-tightness" class="field mt-1">
+                <option value="wide">宽</option>
+                <option value="strict">严</option>
+              </select>
+            </label>
+            <label class="font-bold text-slate-700">语体
+              <select id="lyric-register" class="field mt-1">
+                <option value="spoken">口语</option>
+                <option value="written" selected>书面</option>
+              </select>
+            </label>
+            <label class="font-bold text-slate-700"><span id="rhyme-label">十三辙韵脚</span>
+              <select id="lyric-rhyme" class="field mt-1"></select>
+            </label>
+            <label class="col-span-2 font-bold text-slate-700 lg:col-span-1">曲风流派
+              <select id="lyric-style" class="field mt-1"></select>
+            </label>
+            <label class="col-span-2 font-bold text-slate-700 lg:col-span-1">歌曲标题<input id="lyric-title-input" class="field mt-1 font-medium" maxlength="80"></label>
+            <label class="col-span-2 font-bold text-slate-700 lg:col-span-1">歌手<input id="lyric-artist-input" class="field mt-1 font-medium" maxlength="80" placeholder="和标题一起搜原词"></label>
+            <label class="col-span-2 font-bold text-slate-700 lg:col-span-1">核心意象关键词<input id="lyric-theme-input" class="field mt-1 font-medium" maxlength="80" placeholder="旧信、夜雨、站台"></label>
+          </div>
+          <p id="lyric-tongue-hint" class="text-[11px] text-slate-500 leading-relaxed">国语按十三辙押宽：同辙即可。心和深都算人辰。</p>
+          <div class="pt-2 border-t border-slate-100 flex items-center gap-2 text-sm">
+            <div class="flex min-w-0 flex-1 items-center gap-1.5 overflow-x-auto no-scrollbar py-0.5">
+              <span class="shrink-0 text-slate-400">段落</span>
+              <button type="button" class="tag-meta-pill shrink-0" data-meta="[Intro]">[Intro]</button>
+              <button type="button" class="tag-meta-pill shrink-0" data-meta="[Verse]">[Verse]</button>
+              <button type="button" class="tag-meta-pill shrink-0" data-meta="[Pre-Chorus]">[Pre-Chorus]</button>
+              <button type="button" class="tag-meta-pill shrink-0" data-meta="[Chorus]">[Chorus]</button>
+              <button type="button" class="tag-meta-pill shrink-0" data-meta="[Bridge]">[Bridge]</button>
+              <button type="button" class="tag-meta-pill shrink-0" data-meta="[Outro]">[Outro]</button>
+            </div>
+            <button type="button" id="format-lyric" class="shrink-0 font-medium text-slate-500 hover:text-slate-900">规整排版</button>
+          </div>
+        </div>
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-5 items-start">
+          <div id="lyric-col-persona" class="lg:col-span-3 space-y-2.5">
+            <span class="text-sm font-bold text-slate-400 block px-1">词作者</span>
+            <input id="lyricist-search" type="search" placeholder="搜词作者或歌名" class="field text-sm" autocomplete="off">
+            <p id="lyricist-count" class="text-[11px] text-slate-400 px-1"></p>
+            <div id="lyricist-list" class="space-y-1 max-h-[720px] overflow-y-auto pr-1"></div>
+          </div>
+          <div id="lyric-col-editor" class="lg:col-span-6 studio-box p-4 sm:p-5 space-y-3">
+            <div id="lyric-spark" class="space-y-1.5">
+              <label class="block text-sm font-bold text-slate-700">金句
+                <textarea id="lyric-golden" rows="2" maxlength="80" placeholder="写一句，或按词人风格出一句" class="mt-1 w-full bg-slate-50 border border-slate-200 rounded-xl p-2.5 text-sm font-medium text-slate-800 leading-relaxed focus:outline-none focus:border-slate-400"></textarea>
+              </label>
+              <div class="flex flex-wrap gap-2">
+                <button type="button" id="lyric-golden-roll" class="btn-orange px-3 py-2 text-sm">出一句</button>
+                <button type="button" id="lyric-expand-section" class="px-3 py-2 text-sm font-semibold rounded-xl border border-slate-200 text-slate-700 hover:border-slate-400">扩写一段</button>
+                <button type="button" id="lyric-expand-song" class="btn-orange px-3 py-2 text-sm">扩写整首</button>
+              </div>
+              <p id="lyric-golden-sense" class="text-[11px] text-slate-500 leading-relaxed"></p>
+              <p class="text-[11px] text-slate-400 leading-relaxed">出一句会写进下面的歌词框。扩写一段只铺这一段副歌，扩写整首铺完整首歌。</p>
+            </div>
+            <div id="lyric-source-box" class="hidden space-y-1.5">
+              <div class="flex items-center justify-between gap-2">
+                <span class="text-sm font-bold text-slate-800">原词</span>
+                <span class="flex items-center gap-2">
+                  <span id="lyric-source-note" class="text-[11px] text-slate-400"></span>
+                  <button type="button" class="btn-copy" data-copy="lyric-source-view">复制原词</button>
+                </span>
+              </div>
+              <textarea id="lyric-source-view" readonly rows="8" class="w-full bg-slate-50 border border-slate-200 rounded-xl p-3 font-mono text-sm text-slate-700 leading-relaxed focus:outline-none"></textarea>
+            </div>
+            <div class="flex flex-col gap-2 border-b border-slate-100 pb-2 sm:flex-row sm:items-center sm:justify-between">
+              <span class="text-sm font-bold text-slate-800">歌词主体编辑台</span>
+              <div class="flex flex-wrap items-center gap-2">
+                <div class="flex bg-slate-100 p-0.5 rounded-lg">
+                  <button type="button" id="lyric-mode-edit" class="lyric-view-btn active px-2.5 py-1 rounded-md text-[11px] font-bold">编辑</button>
+                  <button type="button" id="lyric-mode-diff" class="lyric-view-btn px-2.5 py-1 rounded-md text-[11px] font-bold">修订</button>
+                </div>
+                <button type="button" class="btn-copy" data-copy="lyric-main-editor">复制全部歌词</button>
+              </div>
+            </div>
+            <p id="lyric-revision-hint" class="hidden text-[11px] text-slate-500"></p>
+            <textarea id="lyric-main-editor" rows="18" placeholder="歌词框是空的。先出一句，再扩写一段或扩写整首。" class="w-full bg-slate-50 border border-slate-200 rounded-xl p-3.5 text-slate-900 font-mono text-sm leading-relaxed focus:outline-none focus:border-slate-400"></textarea>
+            <div id="lyric-revision" class="hidden w-full bg-slate-50 border border-slate-200 rounded-xl py-3 min-h-[28rem] max-h-[32rem] overflow-y-auto"></div>
+            <div id="lyric-revision-bar" class="hidden flex flex-wrap items-center justify-between gap-2 text-[11px] text-slate-500">
+              <span id="lyric-revision-note"></span>
+              <span class="flex items-center gap-2 shrink-0">
+                <button type="button" id="lyric-revision-older" class="font-semibold text-slate-700 hover:text-slate-900">更早一版</button>
+                <button type="button" id="lyric-revision-newer" class="font-semibold text-slate-700 hover:text-slate-900">更近一版</button>
+                <button type="button" id="lyric-revision-restore" class="font-semibold text-slate-900 hover:underline">恢复这一版</button>
+              </span>
+            </div>
+            <div class="pt-2 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
+              <button type="button" class="btn-audition self-start" data-audition="作词节奏示意" data-style="chill"><span class="btn-text">▶ 节奏示意</span><span class="soundwave-box hidden items-center gap-0.5 ml-1"><span class="soundbar"></span><span class="soundbar"></span><span class="soundbar"></span></span></button>
+              <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3">
+                <button type="button" id="lyric-rollback" class="text-sm font-semibold text-slate-600 hover:text-slate-900 whitespace-nowrap disabled:opacity-40" disabled>回滚到上一版</button>
+                <button type="button" id="open-suno-lyric" class="btn-orange px-5 py-2.5 text-sm">在 Suno 粘贴这首歌</button>
+              </div>
+            </div>
+          </div>
+          <div id="lyric-col-ai" class="lg:col-span-3 studio-box p-4 flex flex-col justify-between min-h-[280px] sm:min-h-[480px]">
+            <div class="min-h-0 flex-1 flex flex-col">
+              <span class="text-sm font-bold text-slate-900 block pb-2 border-b border-slate-100 mb-2">AI 歌词制作人</span>
+              <div id="ai-chat-history" class="space-y-2 text-sm overflow-y-auto max-h-64 sm:max-h-[340px] pr-1">
+                <div class="p-2.5 rounded-lg bg-slate-50 text-slate-600 border border-slate-100">可以直接打字，例如：把副歌改得更伤感。左边的歌词和这句话会一起交给模型，它的原话回到这里，改完的词贴到左边。</div>
+              </div>
+            </div>
+            <div class="pt-2 border-t border-slate-100 flex gap-1.5 items-end">
+              <textarea id="ai-command-input" class="field resize-none" rows="3" placeholder="回车换行，Ctrl+Enter 发送"></textarea>
+              <button type="button" id="ai-send" class="px-3 py-1.5 bg-slate-900 text-white rounded-lg text-sm font-semibold shrink-0">发送</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="module-publish" class="hidden space-y-6">
+        <div class="flex flex-col lg:flex-row lg:items-end justify-between gap-4 pb-4 border-b border-slate-200/80">
+          <div>
+            <h2 class="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">发布大师</h2>
+          </div>
+          <div id="publish-mode" class="flex bg-slate-100 p-1 rounded-xl text-sm font-bold">
+            <button type="button" data-publish-mode="works" class="px-3 py-2 rounded-lg bg-white text-slate-900 shadow-sm">作品管理</button>
+            <button type="button" data-publish-mode="artists" class="px-3 py-2 rounded-lg text-slate-500">艺人管理</button>
+          </div>
+        </div>
+
+        <div id="publish-hikoon" class="space-y-4">
+          <section class="studio-box p-4 sm:p-5 space-y-4">
+            <input id="publish-import" type="file" accept=".mp3,.wav,.flac,.m4a,audio/*" multiple class="hidden">
+              <div class="flex flex-wrap items-center gap-3 border-b border-slate-100 pb-4">
+                <button type="button" class="publish-step is-on" data-step-tab="1"><span class="num">1</span>上传歌曲</button>
+                <span class="text-slate-300">—</span>
+                <button type="button" class="publish-step" data-step-tab="2"><span class="num">2</span>发行授权</button>
+                <span class="text-slate-300">—</span>
+                <button type="button" class="publish-step" data-step-tab="3"><span class="num">3</span>签署协议</button>
+              </div>
+
+              <div data-publish-panel="1" class="space-y-4">
+                <div class="rounded-2xl border border-slate-200 p-4 space-y-3">
+                  <div class="flex items-center justify-between gap-3">
+                    <div>
+                      <div class="text-base font-black text-slate-900">上传歌曲</div>
+                    </div>
+                    <div id="publish-track-count" class="text-xs font-bold text-slate-400">0 首</div>
+                  </div>
+                  <div id="publish-tracks" data-ready="1" class="space-y-3"></div>
+                  <button type="button" id="publish-drop" class="w-full rounded-xl border border-dashed border-slate-300 bg-slate-50 px-4 py-5 text-center text-sm text-slate-500">
+                    <span class="block font-bold text-slate-700">+ 添加歌曲</span>
+                    <span class="mt-1 block text-xs">mp3、wav、m4a。可以一次选多首，或直接拖进来。</span>
+                  </button>
+                  <div id="publish-upload-progress" class="hidden rounded-xl border border-orange-100 bg-orange-50/70 px-3 py-3" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-live="polite">
+                    <div class="flex items-center justify-between gap-3 text-xs font-bold">
+                      <span id="publish-upload-label" class="min-w-0 truncate text-slate-700">正在上传</span>
+                      <span id="publish-upload-percent" class="shrink-0 tabular-nums text-orange-600">0%</span>
+                    </div>
+                    <div class="mt-2 h-1.5 overflow-hidden rounded-full bg-white">
+                      <div id="publish-upload-bar" class="publish-upload-bar h-full rounded-full"></div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="rounded-2xl border border-slate-200 p-4 space-y-4">
+                  <div>
+                    <div class="text-sm font-bold text-slate-900">专辑</div>
+                  </div>
+                  <div class="flex items-center justify-between gap-3 rounded-xl bg-slate-50 px-4 py-3">
+                    <p id="publish-preset-summary" class="text-sm text-slate-600">Single · 内地 · 普通话 · 流行 / 中文流行</p>
+                    <button type="button" id="publish-preset-edit" class="shrink-0 text-sm font-bold text-amber-600">展开</button>
+                  </div>
+                  <div id="publish-preset-fields" class="hidden grid grid-cols-1 gap-3 sm:grid-cols-2">
+                    <label class="text-sm font-bold text-slate-700">专辑类型<select id="publish-album-type" class="field mt-1"><option value="single" selected>Single（1 首）</option><option value="ep">EP（2-5 首）</option><option value="album">Album（6 首以上）</option></select></label>
+                    <label class="text-sm font-bold text-slate-700">语言<select id="publish-language" class="field mt-1"><option value="0" selected>普通话</option><option value="1">粤语</option><option value="2">闽南语</option><option value="3">日语</option><option value="4">韩语</option><option value="5">英语</option><option value="6">法语</option><option value="7">其他</option><option value="8">拉丁</option><option value="9">纯音乐</option><option value="10">德语</option><option value="11">俄语</option><option value="12">印度语</option><option value="13">泰语</option><option value="14">印尼语</option><option value="15">菲律宾语</option><option value="16">西班牙语</option><option value="17">印第安语</option><option value="18">葡萄牙语</option><option value="19">意大利</option><option value="20">瑞典语</option><option value="21">波兰语</option><option value="22">丹麦语</option><option value="23">芬兰语</option><option value="24">越南语</option><option value="25">藏语</option><option value="26">马来语</option><option value="27">阿拉伯语</option><option value="28">客家语</option><option value="29">潮汕语</option><option value="30">维语</option><option value="31">冰岛语</option><option value="32">挪威语</option><option value="33">希腊语</option><option value="34">荷兰语</option><option value="35">捷克语</option><option value="36">乌克兰语</option><option value="37">蒙语</option><option value="38">哈萨克语</option><option value="39">缅甸语</option><option value="40">格鲁吉亚语</option><option value="41">罗马尼亚语</option><option value="-1">未知</option></select></label>
+                    <label class="text-sm font-bold text-slate-700">地区<select id="publish-area" class="field mt-1"><option value="1" selected>内地</option><option value="0">港台</option><option value="3">欧美</option><option value="5">东南亚</option><option value="4">其他</option><option value="6">未知</option></select></label>
+                    <label class="text-sm font-bold text-slate-700">一级流派<select id="publish-genre" class="field mt-1"><option value="2" selected>流行</option><option value="1">宗教</option><option value="3">爵士</option><option value="4">嘻哈</option><option value="5">民谣</option><option value="6">乡村</option><option value="7">蓝调</option><option value="8">节奏布鲁斯</option><option value="9">摇滚</option><option value="10">新世纪</option><option value="11">金属</option><option value="12">雷鬼</option><option value="13">电子舞曲</option><option value="14">古典</option><option value="15">轻音乐</option><option value="16">儿童</option><option value="17">中国特色</option><option value="18">世界音乐</option><option value="19">原声/舞台</option><option value="20">实验音乐</option><option value="21">有声内容</option><option value="22">其他</option><option value="23">中国风</option><option value="24">古风</option><option value="25">DJ土嗨</option><option value="26">喊麦</option><option value="27">节日音乐</option></select></label>
+                    <label class="text-sm font-bold text-slate-700">二级流派<select id="publish-genre2" class="field mt-1"><option value="201" selected>中文流行</option></select></label>
+                    <label class="text-sm font-bold text-slate-700 sm:col-span-2">专辑简介<textarea id="publish-intro" rows="3" class="field mt-1" placeholder="输入专辑简介">本专辑收录原创歌曲，欢迎收听。</textarea></label>
+                  </div>
+
+                  <div class="grid grid-cols-1 gap-4 sm:grid-cols-2">
+                    <label class="text-sm font-bold text-slate-700">专辑名称<span class="text-orange-500"> *</span>
+                      <span class="mt-1 flex gap-2">
+                        <input id="publish-album" class="field" placeholder="输入专辑名称">
+                        <button type="button" id="publish-sync-album" class="shrink-0 text-xs font-bold text-amber-600">同步歌曲信息</button>
+                      </span>
+                    </label>
+                    <div class="text-sm font-bold text-slate-700">艺人/歌手<span class="text-orange-500"> *</span>
+                      <div class="mt-1 flex gap-2">
+                        <input id="publish-artist" class="field" placeholder="输入即查找">
+                        <button type="button" id="publish-find-singer" class="shrink-0 px-3 rounded-xl border border-slate-200 text-sm font-bold">查找</button>
+                        <button type="button" id="publish-new-toggle" class="shrink-0 text-sm font-bold text-amber-600">新建歌手</button>
+                      </div>
+                    </div>
+                  </div>
+                  <div id="publish-singers" class="hidden space-y-2"></div>
+                  <div id="publish-new-singer" class="hidden rounded-xl border border-slate-200 p-3 grid grid-cols-1 sm:grid-cols-2 gap-2">
+                    <p id="publish-new-singer-name" class="sm:col-span-2 text-sm font-bold text-slate-800"></p>
+                    <label class="text-xs font-bold text-slate-500">类型<select id="publish-singer-type" class="field mt-1"></select></label>
+                    <label class="text-xs font-bold text-slate-500">身份<select id="publish-singer-role" class="field mt-1"></select></label>
+                    <label class="text-xs font-bold text-slate-500">地区<select id="publish-singer-area" class="field mt-1"></select></label>
+                    <label class="text-xs font-bold text-slate-500">1:1 头像<input id="publish-singer-cover" type="file" accept=".jpg,.jpeg,.png,image/jpeg,image/png" class="field mt-1"></label>
+                    <div class="sm:col-span-2 flex flex-wrap items-center gap-3">
+                      <button type="button" id="publish-avatar-generate" class="px-3 py-2 rounded-xl border border-slate-200 text-sm font-bold disabled:opacity-50">智能生成头像</button>
+                      <img id="publish-avatar-preview" alt="艺人头像预览" class="hidden h-20 w-20 rounded-xl border border-slate-200 object-cover">
+                    </div>
+                    <label class="sm:col-span-2 text-xs font-bold text-slate-500">简介（10 字以上）<textarea id="publish-singer-desc" rows="2" class="field mt-1"></textarea></label>
+                    <button type="button" id="publish-create-singer" class="sm:col-span-2 px-3 py-2 rounded-xl bg-slate-900 text-white text-sm font-bold">创建并绑定</button>
+                  </div>
+
+                  <div class="grid grid-cols-1 gap-4 sm:grid-cols-2">
+                    <div>
+                      <div class="text-sm font-bold text-slate-700">专辑封面<span class="text-orange-500"> *</span></div>
+                      <label class="mt-1 flex items-center gap-3 rounded-xl border border-dashed border-slate-300 bg-white px-3 py-3 text-sm text-slate-500">
+                        <span class="grid h-16 w-16 shrink-0 place-items-center rounded-lg bg-slate-50 text-xs font-bold text-slate-400">上传</span>
+                        <span>建议 3000×3000，JPG 或 PNG。<input id="publish-cover-file" type="file" accept=".jpg,.jpeg,.png,image/jpeg,image/png" class="mt-1 block text-xs"></span>
+                      </label>
+                      <div class="mt-2 flex flex-wrap items-center gap-3">
+                        <button type="button" id="publish-cover-generate" class="px-3 py-2 rounded-xl border border-slate-200 text-sm font-bold disabled:opacity-50">智能生成封面</button>
+                        <img id="publish-cover-preview" alt="专辑封面预览" class="hidden h-16 w-16 rounded-lg border border-slate-200 object-cover">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div data-publish-panel="2" class="hidden space-y-4">
+                <div class="rounded-2xl border border-slate-200 p-4 space-y-4">
+                  <div>
+                    <div class="text-sm font-bold text-slate-900">授权已填好</div>
+                  </div>
+                  <button type="button" id="publish-auth-edit" class="text-sm font-bold text-amber-600">展开</button>
+                  <div id="publish-clip-box" class="space-y-2 border-t border-slate-100 pt-4">
+                    <div class="text-sm font-bold text-slate-700">推广片段</div>
+                    <p class="text-xs leading-5 text-slate-500">抖音和快手要一段 30 秒的推广音频。拖动起点，选择从歌曲的哪一秒开始切。默认落在副歌。</p>
+                    <div id="publish-clip-list" class="space-y-2"></div>
+                  </div>
+                  <div class="space-y-4 border-t border-slate-100 pt-4">
+                    <div class="text-sm font-bold text-slate-900">歌曲授权</div>
+                    <div class="grid grid-cols-1 gap-3 sm:grid-cols-2">
+                      <label class="text-sm font-bold text-slate-700">授权地区<select id="publish-auth-area" class="field mt-1"><option value="0" selected>中国大陆</option></select></label>
+                      <label class="text-sm font-bold text-slate-700">授权截止<input id="publish-right-end" class="field mt-1 bg-slate-50" value="2027-12-31" readonly></label>
+                      <label class="text-sm font-bold text-slate-700">原始版权公司<input id="publish-copyright-name" class="field mt-1" value="泓声无限"></label>
+                      <label class="text-sm font-bold text-slate-700">是否允许翻唱<select id="publish-cover" class="field mt-1"><option value="2" selected>不可翻唱</option><option value="1">可翻唱</option></select></label>
+                    </div>
+                    <div class="rounded-xl bg-slate-50 px-3 py-3 space-y-3">
+                      <div class="text-sm font-bold text-slate-800">录音授权</div>
+                      <div class="text-sm font-bold text-slate-700">授权形式
+                        <div class="mt-2 flex flex-wrap gap-4">
+                          <label class="inline-flex items-center gap-1.5 text-sm font-semibold text-slate-700"><input type="radio" name="publish-auth-recording" value="1" checked class="accent-orange-500"> 重点版权</label>
+                          <label class="inline-flex items-center gap-1.5 text-sm font-semibold text-slate-700"><input type="radio" name="publish-auth-recording" value="2" class="accent-orange-500"> 首发版权</label>
+                          <label class="inline-flex items-center gap-1.5 text-sm font-semibold text-slate-700"><input type="radio" name="publish-auth-recording" value="3" class="accent-orange-500"> 普通版权</label>
+                        </div>
+                      </div>
+                      <div class="text-sm font-bold text-slate-700">授权关系
+                        <div class="mt-2 flex flex-wrap gap-4">
+                          <label class="inline-flex items-center gap-1.5 text-sm font-semibold text-slate-700"><input type="radio" name="publish-rel-recording" value="1" checked class="accent-orange-500"> 自有</label>
+                          <label class="inline-flex items-center gap-1.5 text-sm font-semibold text-slate-700"><input type="radio" name="publish-rel-recording" value="2" class="accent-orange-500"> 代理</label>
+                        </div>
+                      </div>
+                      <div class="text-sm font-bold text-slate-700">维权
+                        <div class="mt-2 flex flex-wrap gap-4">
+                          <label class="inline-flex items-center gap-1.5 text-sm font-semibold text-slate-700"><input type="radio" name="publish-protect-recording" value="1" checked class="accent-orange-500"> 可维权</label>
+                          <label class="inline-flex items-center gap-1.5 text-sm font-semibold text-slate-700"><input type="radio" name="publish-protect-recording" value="2" class="accent-orange-500"> 不可维权</label>
+                        </div>
+                      </div>
+                    </div>
+                    <input id="publish-lyric-share" type="hidden" value="100">
+                    <input id="publish-composing-share" type="hidden" value="100">
+                  </div>
+                  <div id="publish-auth-fields" class="hidden space-y-4 border-t border-slate-100 pt-4">
+                    <div class="grid grid-cols-1 gap-3 sm:grid-cols-2">
+                      <label class="text-sm font-bold text-slate-700">版权签署方<input id="publish-subject" class="field mt-1 bg-slate-50" value="海南海之轨迹文化传媒有限公司" readonly></label>
+                      <label class="text-sm font-bold text-slate-700">外显厂牌<input id="publish-brand" class="field mt-1" value="泓声无限"></label>
+                    </div>
+                    <div class="flex flex-wrap gap-2">
+                      <span class="plat-chip is-fixed">酷狗音乐</span>
+                      <span class="plat-chip is-fixed">QQ 音乐</span>
+                      <label class="plat-chip"><input id="publish-wyy" type="checkbox" checked class="accent-amber-500"> 网易云</label>
+                      <label class="plat-chip"><input id="publish-qs" type="checkbox" checked class="accent-amber-500"> 汽水</label>
+                      <label class="plat-chip"><input id="publish-fq" type="checkbox" checked class="accent-amber-500"> 番茄</label>
+                      <label class="plat-chip"><input id="publish-dy" type="checkbox" checked class="accent-amber-500"> 抖音</label>
+                      <label class="plat-chip"><input id="publish-ks" type="checkbox" checked class="accent-amber-500"> 快手</label>
+                    </div>
+                    <div class="text-sm font-bold text-slate-700">抖音 / 快手授权形式
+                      <div class="mt-2 flex flex-wrap gap-4">
+                        <label class="inline-flex items-center gap-1.5 text-sm font-semibold text-slate-700"><input type="radio" name="publish-clip-auth" value="1" checked class="accent-orange-500"> 短视频非独家</label>
+                        <label class="inline-flex items-center gap-1.5 text-sm font-semibold text-slate-700"><input type="radio" name="publish-clip-auth" value="2" class="accent-orange-500"> 短视频独家</label>
+                      </div>
+                    </div>
+                    <div class="grid grid-cols-1 gap-3 sm:grid-cols-2">
+                      <label class="text-sm font-bold text-slate-700">发行时间<input id="publish-issued" type="datetime-local" class="field mt-1"></label>
+                      <label class="text-sm font-bold text-slate-700">上架时间<input id="publish-online" type="datetime-local" class="field mt-1"></label>
+                    </div>
+                    <div class="text-sm font-bold text-slate-700">付费模式
+                      <div id="publish-pay-cards" class="mt-2 flex flex-wrap gap-4"></div>
+                    </div>
+                    <div class="text-sm font-bold text-slate-700">是否加入互选广告
+                      <div class="mt-2 flex flex-wrap gap-4">
+                        <label class="inline-flex items-center gap-1.5 text-sm font-semibold text-slate-700"><input type="radio" name="publish-ad" value="1" checked class="accent-orange-500"> 加入</label>
+                        <label class="inline-flex items-center gap-1.5 text-sm font-semibold text-slate-700"><input type="radio" name="publish-ad" value="2" class="accent-orange-500"> 不加入</label>
+                      </div>
+                    </div>
+                    <div class="text-sm font-bold text-slate-700">是否申请演艺位
+                      <div class="mt-2 flex flex-wrap gap-4">
+                        <label class="inline-flex items-center gap-1.5 text-sm font-semibold text-slate-700"><input type="radio" name="publish-fans" value="1" class="accent-orange-500"> 是</label>
+                        <label class="inline-flex items-center gap-1.5 text-sm font-semibold text-slate-700"><input type="radio" name="publish-fans" value="0" checked class="accent-orange-500"> 否</label>
+                      </div>
+                    </div>
+                    </div>
+                  <select id="publish-pay" class="hidden">
+                    <option value="1">免费</option>
+                    <option value="2">付费1.0</option>
+                    <option value="3" selected>付费2.0</option>
+                    <option value="4">付费3.0</option>
+                  </select>
+                </div>
+              </div>
+
+              <div data-publish-panel="3" class="hidden space-y-4">
+                <div class="rounded-2xl border border-emerald-200 bg-emerald-50/70 p-4">
+                  <div class="text-sm font-black text-slate-900">非独家授权</div>
+                </div>
+                <div class="rounded-xl border border-slate-200 p-3 space-y-2">
+                  <div class="flex flex-wrap items-center gap-3">
+                    <button type="button" id="publish-contract" class="px-4 py-2.5 rounded-xl border border-slate-200 text-sm font-bold">打开授权书</button>
+                    <a id="publish-contract-link" href="#" target="_blank" rel="noreferrer" class="hidden text-sm font-bold text-emerald-700">再次打开授权书</a>
+                  </div>
+                  <p id="publish-contract-status" class="text-xs text-slate-500">还没有打开授权书。</p>
+                </div>
+              </div>
+
+              <div class="flex flex-wrap gap-2 border-t border-slate-100 pt-4">
+                <button type="button" id="publish-back" class="hidden px-4 py-2.5 rounded-xl border border-slate-200 text-sm font-bold">上一步</button>
+                <button type="button" id="publish-next" class="btn-orange px-5 py-2.5 text-sm">下一步</button>
+                <button type="button" id="publish-draft" class="hidden px-4 py-2.5 rounded-xl border border-slate-200 text-sm font-bold">保存草稿</button>
+                <button type="button" id="publish-submit" class="btn-orange hidden px-5 py-2.5 text-sm">提交发行</button>
+              </div>
+              <p id="publish-result" class="text-sm text-slate-600"></p>
+            </section>
+          <section class="studio-box p-4 space-y-4">
+            <div class="flex items-center justify-between gap-3">
+              <div class="text-sm font-bold text-slate-900">已提交的歌</div>
+              <button type="button" id="publish-refresh" class="text-sm font-bold text-slate-500">刷新</button>
+            </div>
+            <input id="publish-release-query" type="search" autocomplete="off" placeholder="搜索歌名、艺人或专辑" class="field w-full">
+            <div id="publish-releases" class="text-sm text-slate-500">正在读取已提交的歌…</div>
+            <div id="publish-plays" class="rounded-xl bg-slate-50 border border-slate-100 p-3 text-sm text-slate-500">点一首已上架的歌，查看酷狗、QQ 音乐、网易云和汽水的播放数据，以及网易云、汽水、番茄、抖音、快手的上架状态。</div>
+            <div class="border-t border-slate-100 pt-4 space-y-3">
+              <div class="flex flex-wrap items-center justify-between gap-2">
+                <div class="text-sm font-bold text-slate-900">收益和账单</div>
+                <div class="flex flex-wrap gap-2">
+                  <button type="button" id="publish-export-ranking" class="px-3 py-2 rounded-xl border border-slate-200 text-sm font-bold">导出排行</button>
+                  <button type="button" id="publish-export-bills" class="px-3 py-2 rounded-xl border border-slate-200 text-sm font-bold">导出账单</button>
+                </div>
+              </div>
+              <div id="publish-income" class="text-sm text-slate-500">登录后看自己提交的歌的收益汇总。管理员看全部，按收益从高到低。</div>
+            </div>
+          </section>
+        </div>
+
+        <div id="publish-artists" class="hidden space-y-4">
+          <section class="studio-box p-4 sm:p-5 space-y-4">
+            <div class="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+              <div>
+                <div class="text-base font-black text-slate-900">艺人</div>
+                <p id="artist-lead" class="mt-1 text-xs text-slate-500">名单来自已提交的作品，以及在这里新建的艺人。</p>
+              </div>
+              <div class="flex w-full flex-col gap-2 sm:w-auto sm:flex-row sm:items-center">
+                <input id="artist-query" type="search" autocomplete="off" placeholder="搜索艺人名" class="field sm:w-52">
+                <button type="button" id="artist-add" class="inline-flex items-center justify-center gap-1 rounded-full bg-slate-900 px-4 py-2 text-sm font-bold text-white">+ 添加艺人</button>
+              </div>
+            </div>
+            <div id="artist-filters" class="flex flex-wrap gap-2"></div>
+            <div id="artist-list" class="text-sm text-slate-500">正在整理艺人…</div>
+          </section>
+        </div>
+
+        <div id="artist-editor" class="fixed inset-0 z-[60] hidden">
+          <button type="button" class="absolute inset-0 bg-slate-900/40" data-artist-close aria-label="关闭"></button>
+          <div class="absolute left-1/2 top-1/2 flex max-h-[min(92vh,880px)] w-[min(760px,calc(100%-1.5rem))] -translate-x-1/2 -translate-y-1/2 flex-col overflow-hidden rounded-2xl bg-white shadow-2xl">
+            <div class="flex items-center justify-between border-b border-slate-100 px-5 py-4">
+              <h3 id="artist-editor-title" class="text-lg font-black text-slate-900">新增艺人</h3>
+              <button type="button" class="grid h-8 w-8 place-items-center rounded-lg text-2xl leading-none text-slate-400" data-artist-close aria-label="关闭">×</button>
+            </div>
+            <div class="min-h-0 flex-1 space-y-4 overflow-y-auto px-5 py-4">
+              <p id="artist-lock-note" class="hidden rounded-xl border border-amber-200 bg-amber-50 px-3 py-2 text-xs leading-5 text-amber-900">这位艺人已经在海葵建档。名字、类型、地区和简介保持原样，也不能删除。头像和各平台主页可以改。</p>
+              <div class="flex items-center gap-4">
+                <img id="artist-cover-preview" alt="" class="hidden h-24 w-24 rounded-2xl border border-slate-200 object-cover">
+                <span id="artist-cover-fallback" class="grid h-24 w-24 place-items-center rounded-2xl bg-slate-100 text-2xl font-black text-slate-400">艺</span>
+                <label id="artist-cover-field" class="text-sm font-bold text-slate-700">艺人封面<span class="text-orange-500"> *</span>
+                  <span class="mt-1 block text-xs font-medium text-slate-400">正方形，1:1。jpg、png 或 webp。</span>
+                  <input id="artist-cover" type="file" accept=".jpg,.jpeg,.png,.webp,image/jpeg,image/png,image/webp" class="hidden">
+                  <button type="button" id="artist-cover-pick" class="mt-2 rounded-lg border border-slate-200 px-3 py-1.5 text-xs font-bold text-slate-700">上传艺人封面</button>
+                  <span id="artist-cover-name" class="mt-1 block text-xs font-medium text-slate-400"></span>
+                </label>
+              </div>
+              <div class="grid grid-cols-1 gap-3 sm:grid-cols-2">
+                <label class="text-sm font-bold text-slate-700">艺人名<span class="text-orange-500"> *</span>
+                  <input id="artist-name" class="field mt-1" maxlength="50" placeholder="输入艺人名">
+                </label>
+                <label class="text-sm font-bold text-slate-700">艺人类型<span class="text-orange-500"> *</span>
+                  <select id="artist-type" class="field mt-1"></select>
+                </label>
+                <div class="text-sm font-bold text-slate-700 sm:col-span-2">艺人角色<span class="text-orange-500"> *</span>
+                  <div id="artist-roles" class="mt-2 flex flex-wrap gap-2"></div>
+                </div>
+                <label class="text-sm font-bold text-slate-700">活跃地区<span class="text-orange-500"> *</span>
+                  <select id="artist-area" class="field mt-1"></select>
+                </label>
+                <label class="text-sm font-bold text-slate-700">厂牌名称<span class="text-orange-500"> *</span>
+                  <input id="artist-company" class="field mt-1 bg-slate-50" readonly>
+                </label>
+                <label class="text-sm font-bold text-slate-700 sm:col-span-2">个人简介<span class="text-orange-500"> *</span>
+                  <textarea id="artist-desc" rows="4" maxlength="255" class="field mt-1" placeholder="至少 10 个字，介绍风格和方向"></textarea>
+                  <span id="artist-desc-count" class="mt-1 block text-right text-xs font-medium text-slate-400">0/255</span>
+                </label>
+              </div>
+              <div>
+                <div class="text-sm font-black text-slate-900">平台信息</div>
+                <p class="mt-1 text-xs text-slate-500">每个平台可以填主页链接，或标记为在该平台新建艺人。右边是粉丝数。</p>
+                <div id="artist-platforms" class="mt-3 space-y-3"></div>
+              </div>
+              <div class="flex flex-wrap items-center gap-3">
+                <button type="button" id="artist-avatar-generate" class="rounded-xl border border-slate-200 px-3 py-2 text-sm font-bold disabled:opacity-50">智能生成头像</button>
+              </div>
+            </div>
+            <div class="flex items-center justify-end gap-3 border-t border-slate-100 px-5 py-4">
+              <button type="button" class="px-4 py-2.5 text-sm font-bold text-slate-600" data-artist-close>取消</button>
+              <button type="button" id="artist-save" class="rounded-xl bg-slate-900 px-5 py-2.5 text-sm font-bold text-amber-300">新增艺人</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="module-account" class="hidden space-y-8">
+        <div>
+          <h2 class="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">账号与会员</h2>
+          <p class="text-sm text-slate-500 mt-1">登录之后，积分和订阅跟着这个账号走。换一台电脑，登录还能用。</p>
+        </div>
+
+        <section id="account-gate" class="studio-box mx-auto max-w-md p-5 sm:p-6 hidden">
+          <h3 id="account-form-title" class="text-lg font-black text-slate-900">账号登录</h3>
+          <p class="mt-1 text-sm text-slate-500 leading-relaxed">注册就有 50 积分。作曲配方、词作者重构、扩写和 AI 改词每次 10 积分。</p>
+          <div class="mt-4 space-y-2">
+            <a class="oauth-btn oauth-google" href="/api/auth/oauth/google">
+              <svg viewBox="0 0 48 48" aria-hidden="true"><path fill="#FFC107" d="M43.6 20.5H42V20H24v8h11.3C33.7 32.7 29.3 36 24 36c-6.6 0-12-5.4-12-12s5.4-12 12-12c3.1 0 5.8 1.2 8 3.1l5.7-5.7C34.2 6.1 29.4 4 24 4 12.9 4 4 12.9 4 24s8.9 20 20 20 20-8.9 20-20c0-1.3-.1-2.7-.4-3.5z"/><path fill="#FF3D00" d="M6.3 14.7l6.6 4.8C14.7 16 19 12 24 12c3.1 0 5.8 1.2 8 3.1l5.7-5.7C34.2 6.1 29.4 4 24 4 16.3 4 9.6 8.3 6.3 14.7z"/><path fill="#4CAF50" d="M24 44c5.2 0 10-2 13.6-5.2l-6.3-5.3C29.3 35.1 26.8 36 24 36c-5.3 0-9.7-3.3-11.3-8l-6.5 5C9.5 39.6 16.2 44 24 44z"/><path fill="#1976D2" d="M43.6 20.5H42V20H24v8h11.3c-1.1 3.2-3.5 5.7-6.7 7.1l6.3 5.3C37.4 38.4 44 34 44 24c0-1.3-.1-2.7-.4-3.5z"/></svg>
+              使用 Google 继续
+            </a>
+          </div>
+          <div class="my-4 flex items-center gap-3 text-xs font-semibold text-slate-400">
+            <span class="h-px flex-1 bg-slate-200"></span>
+            或使用邮箱
+            <span class="h-px flex-1 bg-slate-200"></span>
+          </div>
+          <form id="account-form" class="space-y-3" novalidate>
+            <label id="account-name-field" class="hidden text-sm font-bold text-slate-700">昵称
+              <input id="account-name" class="field mt-1 font-medium" maxlength="24" autocomplete="nickname" placeholder="例如 晚风">
+            </label>
+            <label class="block text-sm font-bold text-slate-700">邮箱
+              <input id="account-email" type="email" class="field mt-1 font-medium" maxlength="120" autocomplete="username" placeholder="you@example.com">
+            </label>
+            <label class="block text-sm font-bold text-slate-700">密码
+              <input id="account-password" type="password" class="field mt-1 font-medium" maxlength="72" autocomplete="current-password" placeholder="至少 8 位">
+            </label>
+            <label id="account-password-2-field" class="hidden text-sm font-bold text-slate-700">再输入一次密码
+              <input id="account-password-2" type="password" class="field mt-1 font-medium" maxlength="72" autocomplete="new-password" placeholder="再输入一次">
+            </label>
+            <p id="account-form-error" class="hidden text-sm text-red-600" role="alert"></p>
+            <button id="account-submit" type="submit" class="btn-orange w-full py-2.5 text-sm disabled:cursor-not-allowed disabled:opacity-50">登录</button>
+          </form>
+          <button id="account-switch-mode" type="button" class="mt-3 w-full text-sm font-semibold text-slate-500 hover:text-slate-900">没有账号？注册</button>
+        </section>
+
+        <section id="account-profile" class="studio-box hidden p-5 sm:p-6">
+          <div class="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+            <div class="flex items-center gap-3 min-w-0">
+              <div id="account-profile-avatar" class="flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-gradient-to-tr from-orange-500 to-amber-500 text-lg font-black text-white">创</div>
+              <div class="min-w-0">
+                <div id="account-profile-name" class="truncate text-lg font-black text-slate-900">制作人</div>
+                <div id="account-profile-email" class="truncate text-sm text-slate-500"></div>
+                <div id="subscription-status" class="mt-1 text-sm font-semibold text-orange-700">未订阅</div>
+              </div>
+            </div>
+            <div class="flex items-center justify-between gap-4 sm:justify-end">
+              <div>
+                <div class="text-xs font-semibold text-slate-400">可用积分</div>
+                <div id="account-credits" class="text-2xl font-black tabular-nums text-slate-900">50</div>
+              </div>
+              <div class="flex flex-col gap-2">
+                <button type="button" id="account-logout" class="rounded-xl border border-slate-200 px-3 py-2 text-sm font-bold text-slate-700">退出</button>
+                <button type="button" id="account-open-settings" class="rounded-xl border border-slate-200 px-3 py-2 text-sm font-bold text-slate-700">接口设置 · <span id="account-engine-label">Gemini</span></button>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section id="account-plans" class="space-y-4">
+          <div class="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+            <div>
+              <h3 class="text-lg font-black text-slate-900">会员订阅</h3>
+              <p class="mt-1 text-sm text-slate-500">三档都能用选歌、作曲、作词和发布。差别是每月到账的积分。</p>
+              <p id="pay-live-note" class="mt-2 text-sm font-medium text-slate-700">价格是美元。点击开通会在新标签页打开 Stripe。选人民币可以用信用卡或微信，选美元只能用信用卡。</p>
+            </div>
+            <div class="flex w-fit rounded-xl bg-slate-100 p-1 text-sm font-bold">
+              <button type="button" id="vip-interval-month" class="rounded-lg bg-slate-900 px-3 py-1.5 text-white" data-vip-interval="month">按月</button>
+              <button type="button" id="vip-interval-year" class="rounded-lg px-3 py-1.5 text-slate-600" data-vip-interval="year">按年</button>
+            </div>
+          </div>
+          <p id="vip-interval-note" class="text-xs text-slate-400">按月扣款，积分每个月重置为该档额度。</p>
+          <div class="grid grid-cols-1 gap-4 md:grid-cols-3">
+            <article data-plan-card="basic" class="plan-card studio-box flex flex-col p-5">
+              <div class="text-sm font-bold text-slate-900">基础版</div>
+              <div class="mt-3 flex items-end gap-1">
+                <span class="vip-price text-3xl font-black tracking-tight text-slate-900" data-month="$14.90" data-year="$178.80">$14.90</span>
+                <span class="vip-period mb-1 text-sm text-slate-500">/ 月</span>
+              </div>
+              <p class="mt-3 text-sm font-semibold text-slate-800">每月 4,000 积分</p>
+              <p class="mt-1 text-xs leading-relaxed text-slate-500">大约 400 次配方或改词。适合偶尔做歌。</p>
+              <button type="button" data-vip-plan="basic" class="btn-orange mt-5 w-full py-2.5 text-sm disabled:cursor-not-allowed disabled:opacity-50">登录后开通</button>
+            </article>
+            <article data-plan-card="pro" class="plan-card studio-box flex flex-col border-orange-200 p-5">
+              <div class="flex items-center justify-between gap-2">
+                <div class="text-sm font-bold text-slate-900">专业版</div>
+                <span class="rounded-full bg-orange-500 px-2 py-0.5 text-[10px] font-bold text-white">常用</span>
+              </div>
+              <div class="mt-3 flex items-end gap-1">
+                <span class="vip-price text-3xl font-black tracking-tight text-slate-900" data-month="$29.90" data-year="$358.80">$29.90</span>
+                <span class="vip-period mb-1 text-sm text-slate-500">/ 月</span>
+              </div>
+              <p class="mt-3 text-sm font-semibold text-slate-800">每月 10,000 积分</p>
+              <p class="mt-1 text-xs leading-relaxed text-slate-500">大约 1,000 次配方或改词。适合经常改词、试曲风。</p>
+              <button type="button" data-vip-plan="pro" class="btn-orange mt-5 w-full py-2.5 text-sm disabled:cursor-not-allowed disabled:opacity-50">登录后开通</button>
+            </article>
+            <article data-plan-card="max" class="plan-card studio-box flex flex-col p-5">
+              <div class="text-sm font-bold text-slate-900">Max</div>
+              <div class="mt-3 flex items-end gap-1">
+                <span class="vip-price text-3xl font-black tracking-tight text-slate-900" data-month="$129.80" data-year="$1,557.60">$129.80</span>
+                <span class="vip-period mb-1 text-sm text-slate-500">/ 月</span>
+              </div>
+              <p class="mt-3 text-sm font-semibold text-slate-800">每月 50,000 积分</p>
+              <p class="mt-1 text-xs leading-relaxed text-slate-500">大约 5,000 次配方或改词。适合工作室一起用。</p>
+              <button type="button" data-vip-plan="max" class="btn-orange mt-5 w-full py-2.5 text-sm disabled:cursor-not-allowed disabled:opacity-50">登录后开通</button>
+            </article>
+          </div>
+          <div class="studio-box flex flex-col gap-3 p-4 sm:flex-row sm:items-center sm:justify-between">
+            <div>
+              <div class="text-sm font-bold text-slate-900">积分加油包</div>
+              <p id="credit-pack-copy" class="mt-1 text-xs text-slate-500">一次性 100 积分，USD $9.99。买完就到账，不按月重置。</p>
+            </div>
+            <button type="button" id="charge-btn" class="rounded-xl bg-slate-900 px-4 py-2.5 text-sm font-bold text-white disabled:opacity-50">购买 100 积分</button>
+          </div>
+          <button type="button" id="manage-billing" class="hidden text-sm font-semibold text-orange-700 hover:underline">管理订阅、付款方式和发票 →</button>
+          <div class="text-xs leading-relaxed text-slate-400 space-y-1">
+            <div>作曲配方、词作者重构、扩写、AI 改词：每次 10 积分。</div>
+            <div>选歌雷达和发布大师不另收费。打开 Suno 不扣积分，成曲仍在官网完成。</div>
+            <div>会员积分按月重置为该档额度。已经开通的话，换档和取消都在账单页里完成，避免重复订阅。</div>
+          </div>
+        </section>
+      </div>
+
+      <footer class="mt-8 border-t border-slate-200/80 pt-5 text-center text-xs text-slate-400">
+        已有 <span id="visit-count" class="font-semibold tabular-nums text-slate-600">—</span> 人次使用过本站
+      </footer>
+    </div>
+  </main>
+
+  <div id="suno-modal" class="hidden fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/40 backdrop-blur-sm">
+    <div class="bg-white rounded-2xl border border-slate-200 shadow-2xl max-w-lg w-full max-h-[85vh] overflow-y-auto p-5 sm:p-6 relative">
+      <button type="button" id="close-suno" class="absolute top-4 right-4 text-slate-400 hover:text-slate-600">✕</button>
+      <h3 class="text-base font-bold text-slate-900 mb-1">带到 Suno</h3>
+      <p class="text-sm text-slate-500 mb-4">本地没有成曲接口。下面三段可以直接粘进 Suno 自定义模式。</p>
+      <div class="space-y-3 text-sm">
+        <div class="p-3 rounded-xl border border-slate-200">
+          <div class="flex items-center justify-between mb-1"><span class="font-bold">Lyric</span><button type="button" class="btn-copy" data-copy="suno-lyric-preview">复制</button></div>
+          <pre id="suno-lyric-preview" class="whitespace-pre-wrap font-mono text-[11px] text-slate-600 max-h-40 overflow-auto"></pre>
+        </div>
+        <div class="p-3 rounded-xl border border-slate-200">
+          <div class="flex items-center justify-between mb-1"><span class="font-bold">Style</span><button type="button" class="btn-copy" data-copy="suno-style-preview">复制</button></div>
+          <pre id="suno-style-preview" class="whitespace-pre-wrap font-mono text-[11px] text-slate-600 max-h-24 overflow-auto"></pre>
+        </div>
+        <div class="p-3 rounded-xl border border-slate-200">
+          <div class="flex items-center justify-between mb-1"><span class="font-bold">Exclude</span><button type="button" class="btn-copy" data-copy="suno-exclude-preview">复制</button></div>
+          <pre id="suno-exclude-preview" class="whitespace-pre-wrap font-mono text-[11px] text-slate-600 max-h-24 overflow-auto"></pre>
+        </div>
+        <a href="https://suno.com/create" target="_blank" rel="noreferrer" class="block text-center px-4 py-2.5 bg-slate-900 text-white rounded-xl font-bold">打开 Suno 创作页</a>
+      </div>
+    </div>
+  </div>
+
+  <div id="settings-modal" class="hidden fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/40 backdrop-blur-sm">
+    <div class="bg-white rounded-2xl border border-slate-200 shadow-2xl max-w-md w-full max-h-[85vh] overflow-y-auto p-5 sm:p-6 relative space-y-3">
+      <button type="button" id="close-settings" class="absolute top-4 right-4 text-slate-400">✕</button>
+      <h3 class="text-sm font-bold text-slate-900">模型接口</h3>
+      <p class="text-[11px] text-slate-500 leading-relaxed">默认 Gemini 3.8 Flash，密钥放在服务器的 key.txt，不会下发到浏览器。改词和作曲都走这一路。听录音只能用 Gemini。</p>
+      <div class="flex bg-slate-100 p-0.5 rounded-lg text-sm font-semibold w-fit">
+        <button type="button" id="provider-gemini" class="px-3 py-1 rounded-md bg-white text-slate-900 shadow-sm">Gemini</button>
+        <button type="button" id="provider-bailian" class="px-3 py-1 rounded-md text-slate-500">阿里百炼</button>
+      </div>
+      <div id="bailian-fields" class="hidden space-y-2">
+        <label class="text-sm font-bold text-slate-700 block">接口地址<input id="bailian-base" class="field mt-1" placeholder="https://dashscope.aliyuncs.com/compatible-mode/v1"></label>
+        <label class="text-sm font-bold text-slate-700 block">模型<input id="bailian-model" class="field mt-1" placeholder="qwen-plus"></label>
+        <label class="text-sm font-bold text-slate-700 block">密钥<input id="bailian-key" type="password" class="field mt-1" placeholder="百炼 API Key" autocomplete="off"></label>
+        <label class="text-[11px] text-slate-500 block">密钥文件，可选<input id="bailian-file" type="file" accept=".csv,.txt,.json" class="mt-1 block text-sm"></label>
+      </div>
+      <p id="settings-note" class="text-[11px] text-emerald-700"></p>
+      <div class="flex justify-end gap-2 pt-1">
+        <button type="button" id="test-engine" class="px-3 py-1.5 text-sm font-semibold rounded-lg border border-slate-200">测试连接</button>
+        <button type="button" id="save-engine" class="px-3 py-1.5 text-sm font-semibold rounded-lg bg-slate-900 text-white">保存</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="global-player-bar" class="fixed bottom-0 left-0 right-0 z-40 bg-white/95 backdrop-blur-md border-t border-slate-200 py-2.5 px-4 md:px-6 transform translate-y-full transition-transform duration-300">
+    <div class="max-w-[1440px] mx-auto flex items-center justify-between">
+      <div class="flex items-center gap-2.5">
+        <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
+        <span id="player-track-name" class="text-sm font-semibold text-slate-800">节奏示意</span>
+      </div>
+      <button type="button" id="stop-audition" class="px-3 py-1 rounded-md bg-slate-100 hover:bg-slate-200 text-slate-700 text-sm font-medium">暂停</button>
+    </div>
+  </div>
+  <nav class="m-nav md:hidden fixed bottom-0 left-0 right-0 z-40 border-t border-slate-200 bg-white/95 backdrop-blur flex items-stretch">
+    <button type="button" data-workspace="hot" id="m-nav-hot" class="m-nav-btn flex-1 py-2 text-orange-600">
+      <span class="block text-lg leading-none">🔥</span>
+      <span class="mt-0.5 block text-[10px] font-bold">选歌</span>
+    </button>
+    <button type="button" data-workspace="composer" id="m-nav-composer" class="m-nav-btn flex-1 py-2 text-slate-400">
+      <span class="block text-lg leading-none">🎹</span>
+      <span class="mt-0.5 block text-[10px] font-bold">作曲</span>
+    </button>
+    <button type="button" data-workspace="lyric" id="m-nav-lyric" class="m-nav-btn flex-1 py-2 text-slate-400">
+      <span class="block text-lg leading-none">✍️</span>
+      <span class="mt-0.5 block text-[10px] font-bold">作词</span>
+    </button>
+    <button type="button" data-workspace="publish" id="m-nav-publish" class="m-nav-btn flex-1 py-2 text-slate-400">
+      <span class="block text-lg leading-none">💿</span>
+      <span class="mt-0.5 block text-[10px] font-bold">发布</span>
+    </button>
+    <button type="button" data-workspace="account" id="m-nav-account" class="m-nav-btn flex-1 py-2 text-slate-400">
+      <span class="block text-lg leading-none">💎</span>
+      <span class="mt-0.5 block text-[10px] font-bold">我的</span>
+    </button>
+  </nav>
+  <div id="toast" class="fixed bottom-24 left-4 right-4 mx-auto w-fit max-w-[calc(100%-2rem)] bg-slate-900 text-white text-sm font-medium px-3.5 py-2 rounded-lg shadow-xl transition-all duration-300 translate-y-16 opacity-0 pointer-events-none z-50 text-center md:bottom-8">提示</div>
+  <script src="app.js"></script>
+  <script src="publish.js?v=20261119copy" defer></script>
+</body>
+</html>

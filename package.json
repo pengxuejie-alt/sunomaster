@@ -1,0 +1,13 @@
+{
+  "name": "sunomaster",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.24.4",
+    "stripe": "^23.1.0"
+  }
+}
