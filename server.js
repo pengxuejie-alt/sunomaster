@@ -8,6 +8,7 @@ import { createAccounts } from "./lib/accounts.js";
 import { createOAuth } from "./lib/oauth.js";
 import { createBilling } from "./lib/billing.js";
 import { hikoonConfigured } from "./lib/hikoon.js";
+import { mountPromo } from "./lib/promo.js";
 import { mountPublish } from "./lib/publish.js";
 import { GEMINI_MODEL, geminiComplete, readGeminiKey } from "./lib/gemini.js";
 import { hotSnapshotJson, loadChartBoard, loadDispatch, startDispatchSchedule } from "./lib/dispatch.js";
@@ -314,6 +315,7 @@ app.use((req, _res, next) => {
 });
 
 mountPublish(app, __dirname);
+mountPromo(app, __dirname, accounts);
 
 app.use("/api/lyric", async (req, res) => {
   const lyricPath = String(req.url || "").split("?")[0];

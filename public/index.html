@@ -245,6 +245,10 @@
           <svg class="w-5 h-5 text-amber-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.232 5.232l3.536 3.536m-2.036-5.036a2.5 2.5 0 113.536 3.536L6.5 21.036H3v-3.572L16.732 3.732z"></path></svg>
           <span>作词大师</span>
         </button>
+        <button type="button" data-workspace="promo" id="nav-btn-promo" class="nav-btn w-full flex items-center gap-3.5 px-4 py-3 rounded-xl text-sm font-semibold transition-all text-slate-600 hover:bg-slate-50 hover:text-slate-900">
+          <svg class="w-5 h-5 text-sky-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 10l4.553-2.276A1 1 0 0121 8.618v6.764a1 1 0 01-1.447.894L15 14M4 6h8a2 2 0 012 2v8a2 2 0 01-2 2H4a2 2 0 01-2-2V8a2 2 0 012-2z"></path></svg>
+          <span>推广大师</span>
+        </button>
         <button type="button" data-workspace="publish" id="nav-btn-publish" class="nav-btn w-full flex items-center gap-3.5 px-4 py-3 rounded-xl text-sm font-semibold transition-all text-slate-600 hover:bg-slate-50 hover:text-slate-900">
           <svg class="w-5 h-5 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19V6l12-2v13"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19a2 2 0 11-4 0 2 2 0 014 0zm12-2a2 2 0 11-4 0 2 2 0 014 0z"></path></svg>
           <span>发布大师</span>
@@ -586,6 +590,30 @@
             </div>
           </div>
         </div>
+      </div>
+      <div id="module-promo" class="hidden space-y-6">
+        <div class="pb-4 border-b border-slate-200/80">
+          <h2 class="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">推广大师</h2>
+          <p class="text-sm text-slate-500 mt-1">按画面描述出短 MV：横屏 16:9，竖屏 9:16。每条约 5 秒，用已绑定的 Suno 视频工具。</p>
+        </div>
+        <section class="studio-box p-4 sm:p-5 space-y-4">
+          <label class="text-sm font-bold text-slate-700">用曲库里的歌
+            <select id="promo-song" class="field mt-1"><option value="">不选，自己写</option></select>
+          </label>
+          <label class="text-sm font-bold text-slate-700">画面
+            <textarea id="promo-prompt" rows="3" class="field mt-1" placeholder="雨夜的街头，一个人走路，暖色路灯"></textarea>
+          </label>
+          <label class="text-sm font-bold text-slate-700">几句歌词，可空
+            <textarea id="promo-lyrics" rows="2" class="field mt-1" placeholder="画面跟着这几句走"></textarea>
+          </label>
+          <div class="flex flex-wrap gap-4 text-sm font-semibold text-slate-700">
+            <label class="inline-flex items-center gap-1.5"><input id="promo-land" type="checkbox" checked class="accent-orange-500"> 横屏 16:9</label>
+            <label class="inline-flex items-center gap-1.5"><input id="promo-port" type="checkbox" checked class="accent-orange-500"> 竖屏 9:16</label>
+          </div>
+          <button type="button" id="promo-make" class="btn-orange px-5 py-2.5 text-sm">生成短 MV</button>
+          <p id="promo-status" class="text-sm text-slate-500"></p>
+          <div id="promo-results" class="grid gap-4 md:grid-cols-2"></div>
+        </section>
       </div>
       <div id="module-publish" class="hidden space-y-6">
         <div class="flex flex-col lg:flex-row lg:items-end justify-between gap-4 pb-4 border-b border-slate-200/80">
@@ -1105,6 +1133,10 @@
       <span class="block text-lg leading-none">✍️</span>
       <span class="mt-0.5 block text-[10px] font-bold">作词</span>
     </button>
+    <button type="button" data-workspace="promo" id="m-nav-promo" class="m-nav-btn flex-1 py-2 text-slate-400">
+      <span class="block text-lg leading-none">▶</span>
+      <span class="mt-0.5 block text-[10px] font-bold">推广</span>
+    </button>
     <button type="button" data-workspace="publish" id="m-nav-publish" class="m-nav-btn flex-1 py-2 text-slate-400">
       <span class="block text-lg leading-none">💿</span>
       <span class="mt-0.5 block text-[10px] font-bold">发布</span>
@@ -1117,5 +1149,6 @@
   <div id="toast" class="fixed bottom-24 left-4 right-4 mx-auto w-fit max-w-[calc(100%-2rem)] bg-slate-900 text-white text-sm font-medium px-3.5 py-2 rounded-lg shadow-xl transition-all duration-300 translate-y-16 opacity-0 pointer-events-none z-50 text-center md:bottom-8">提示</div>
   <script src="app.js"></script>
   <script src="publish.js?v=20261119copy" defer></script>
+  <script src="promo.js" defer></script>
 </body>
 </html>
