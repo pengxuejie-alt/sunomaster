@@ -8,6 +8,7 @@ key.txt
 data/visits.json
 data/billing.json
 data/accounts.json
+data/suno-bindings.json
 data/oauth-states.json
 data/library/
 data/publish-settings.json

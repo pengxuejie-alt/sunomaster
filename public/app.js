@@ -2518,7 +2518,7 @@ function switchWorkspace(moduleKey, options = {}) {
   const previous = currentWorkspace;
   currentWorkspace = moduleKey;
   const enteringLyric = moduleKey === "lyric" && $("module-lyric").classList.contains("hidden");
-  ["hot", "composer", "lyric", "publish", "account"].forEach((key) => {
+  ["hot", "composer", "lyric", "promo", "publish", "account"].forEach((key) => {
     const module = $("module-" + key);
     if (module) module.classList.toggle("hidden", key !== moduleKey);
     const on = key === moduleKey;
@@ -2529,6 +2529,14 @@ function switchWorkspace(moduleKey, options = {}) {
   });
   $("open-account")?.classList.toggle("is-on", moduleKey === "account");
   if (enteringLyric) switchLyricTab("editor");
+  if (moduleKey === "promo") {
+    if (window.bootPromo) window.bootPromo();
+    else {
+      document.addEventListener("DOMContentLoaded", () => {
+        if (currentWorkspace === "promo" && window.bootPromo) window.bootPromo();
+      }, { once: true });
+    }
+  }
   if (moduleKey === "publish" && window.bootPublish) window.bootPublish();
   if (!options.silent) {
     const accountPaths = ["/account", "/login", "/pricing"];
